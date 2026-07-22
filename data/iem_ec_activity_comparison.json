@@ -1,0 +1,98 @@
+{
+ "analysis": "iem_vs_ec_by_activity_CY2023",
+ "built": "2026-07-22",
+ "window": "CY2023 same-year: EC dateOfSubmission 2023 vs DPIIT IEM Part A Jan-Dec 2023",
+ "iem_source": "DPIIT IEM Statistics Report Sep-2024, Annexure-3 (industry-wise Part A/B)",
+ "ec_source": "PARIVESH 2.0 advanceSearchData majorClearanceType=1, filtered to 2023 submissions",
+ "universe_caveat": "The two registers barely overlap. Of the 14,316 EC proposals filed in 2023, 8,827 (62%) are MINING, which files no IEM at all; most IEM industries (electricals, machinery, textiles, food processing) sit below EIA thresholds and need no EC. This table is only the heavy/polluting manufacturing sliver where both instruments apply.",
+ "heavy_mfg_comparison": [
+  {
+   "ec_activity": "3(a)",
+   "industry": "Metallurgical industries",
+   "iem_industries_mapped": [
+    "Metallurgical industries"
+   ],
+   "iem_part_a_filed_2023": 102,
+   "iem_part_b_impl_2023": 69,
+   "ec_submitted_2023": 775,
+   "ec_to_iem_ratio": 7.6
+  },
+  {
+   "ec_activity": "5(f)",
+   "industry": "Organic chemicals + pharma + dyes",
+   "iem_industries_mapped": [
+    "Chemicals (other than fertilizers)",
+    "Drugs and pharmaceuticals",
+    "Dye-stuffs"
+   ],
+   "iem_part_a_filed_2023": 130,
+   "iem_part_b_impl_2023": 154,
+   "ec_submitted_2023": 626,
+   "ec_to_iem_ratio": 4.8
+  },
+  {
+   "ec_activity": "5(g)",
+   "industry": "Distilleries (fermentation)",
+   "iem_industries_mapped": [
+    "Fermentation industries"
+   ],
+   "iem_part_a_filed_2023": 119,
+   "iem_part_b_impl_2023": 39,
+   "ec_submitted_2023": 254,
+   "ec_to_iem_ratio": 2.1
+  },
+  {
+   "ec_activity": "3(b)",
+   "industry": "Cement",
+   "iem_industries_mapped": [
+    "Cement & gypsum products"
+   ],
+   "iem_part_a_filed_2023": 26,
+   "iem_part_b_impl_2023": 39,
+   "ec_submitted_2023": 83,
+   "ec_to_iem_ratio": 3.2
+  },
+  {
+   "ec_activity": "5(a)",
+   "industry": "Chemical fertilizers",
+   "iem_industries_mapped": [
+    "Fertilizers"
+   ],
+   "iem_part_a_filed_2023": 12,
+   "iem_part_b_impl_2023": 7,
+   "ec_submitted_2023": 42,
+   "ec_to_iem_ratio": 3.5
+  },
+  {
+   "ec_activity": "5(j)",
+   "industry": "Sugar",
+   "iem_industries_mapped": [
+    "Sugar"
+   ],
+   "iem_part_a_filed_2023": 16,
+   "iem_part_b_impl_2023": 33,
+   "ec_submitted_2023": 33,
+   "ec_to_iem_ratio": 2.1
+  },
+  {
+   "ec_activity": "5(i)",
+   "industry": "Pulp & paper",
+   "iem_industries_mapped": [
+    "Paper and pulp including paper products"
+   ],
+   "iem_part_a_filed_2023": 16,
+   "iem_part_b_impl_2023": 23,
+   "ec_submitted_2023": 4,
+   "ec_to_iem_ratio": 0.2
+  }
+ ],
+ "totals": {
+  "all_iem_part_a_2023": 1267,
+  "all_ec_2023": 14316,
+  "mining_ec_2023": 8827,
+  "heavy_mfg_iem_a": 421,
+  "heavy_mfg_ec": 1817,
+  "heavy_mfg_ec_to_iem_ratio": 4.3
+ },
+ "reading": "Even in the heavy-manufacturing overlap, EC filings outnumber IEM filings ~5:1 (1,902 vs 395 in 2023). EC counts each project/expansion/lease application and is MANDATORY; IEM is a single voluntary memorandum per new unit and is chronically under-filed. So EC is the more complete census of industrial activity in these sectors -- consistent with the repo's standing finding that IEM under-measures investment. Metallurgy 7.6x and chemicals 4.8x are the widest gaps; pulp & paper 0.2x is the lone inversion (few new EC-triggering paper projects, but IEMs still filed)."
+}

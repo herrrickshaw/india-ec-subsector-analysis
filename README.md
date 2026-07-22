@@ -60,3 +60,36 @@ Endpoint: `parivesh.nic.in/parivesh_api/trackYourProposal/advanceSearchData?majo
   [india-trade-sector-policy-recommendations](https://github.com/herrrickshaw/india-trade-sector-policy-recommendations).
 
 Corrections in the underlying register are displayed, never silent.
+
+## Bonus: IEM vs EC by activity (how intent compares to clearance)
+
+A natural question — how does the count of **industrial-investment intentions (IEMs)** compare to the count
+of **environmental clearances (ECs)** for the same activities? Two honest constraints shape the answer:
+
+1. **The registers barely overlap.** Of the 14,316 EC proposals filed in CY2023, **62% are mining** — which
+   files no IEM at all. Most IEM industries (electricals, machinery, textiles, food processing) sit below
+   EIA thresholds and need no EC. The comparison is only meaningful for the heavy/polluting manufacturing
+   sliver where *both* instruments apply.
+2. **Same-year, same-meaning.** EC submissions in CY2023 are matched against DPIIT IEM **Part A (filed
+   intent)** for Jan–Dec 2023 — both represent "intent to set up," so they're the comparable pair.
+
+| EC activity | Industry | IEMs filed (2023) | ECs filed (2023) | EC : IEM |
+|---|---|--:|--:|--:|
+| 3(a) | Metallurgical industries | 102 | 775 | **7.6×** |
+| 5(f) | Organic chemicals + pharma + dyes | 130 | 626 | 4.8× |
+| 5(a) | Chemical fertilizers | 12 | 42 | 3.5× |
+| 3(b) | Cement | 26 | 83 | 3.2× |
+| 5(g) | Distilleries (fermentation) | 119 | 254 | 2.1× |
+| 5(j) | Sugar | 16 | 33 | 2.1× |
+| 5(i) | Pulp & paper | 16 | 4 | 0.2× |
+| | **Heavy-manufacturing overlap** | **421** | **1,817** | **4.3×** |
+
+**The reading**: even in the overlap, EC filings outnumber IEM filings ~4:1. EC is **mandatory** and counts
+each project, expansion and lease application; IEM is a **single voluntary memorandum** per new unit and is
+chronically under-filed — so the EC register is the more complete census of industrial activity in these
+sectors. Metallurgy (7.6×) and chemicals (4.8×) show the widest gaps; pulp & paper (0.2×) is the lone
+inversion. This is consistent with the trade repo's standing finding that **IEM under-measures investment**.
+
+Data: `data/iem_ec_activity_comparison.json` · `data/iem_sector_counts_sep2024.json` (DPIIT IEM Statistics
+Report, Sep-2024, Annexure-3). Caveat: DPIIT's 39-category DIPP/SIA industry scheme maps *many-to-many* onto
+EIA activity codes, not 1:1; the mapping is documented in the JSON.
