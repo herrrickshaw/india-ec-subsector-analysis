@@ -93,3 +93,25 @@ inversion. This is consistent with the trade repo's standing finding that **IEM 
 Data: `data/iem_ec_activity_comparison.json` · `data/iem_sector_counts_sep2024.json` (DPIIT IEM Statistics
 Report, Sep-2024, Annexure-3). Caveat: DPIIT's 39-category DIPP/SIA industry scheme maps *many-to-many* onto
 EIA activity codes, not 1:1; the mapping is documented in the JSON.
+
+## A proposal is not a project — fresh vs re-used land
+
+The 113,970 count overstates distinct projects, because expansions, transfers, renewals and re-appraisals on
+**already-cleared land** each file a fresh EC proposal. Classifying the register by what each proposal actually is:
+
+| What it is | Count | Share |
+|---|--:|--:|
+| **Fresh** (new project / first clearance) | 56,369 | **49%** |
+| **Re-use of already-cleared land** | 38,624 | **34%** |
+| &nbsp;&nbsp;├ Re-appraisal (lapsed EC re-cleared) | 24,928 | 22% |
+| &nbsp;&nbsp;├ Transfer of EC (same site, new owner) | 8,723 | 8% |
+| &nbsp;&nbsp;└ Expansion (same site, more capacity) | 4,973 | 4% |
+| **Admin** (amendment / extension / corrigendum) | 6,257 | 5% |
+| Unclassified (blank / generic) | 12,720 | 11% |
+
+**Only ~half the register is fresh projects.** The single largest re-use category — **minor-mineral mining
+re-appraisals (24,928, 22% of the entire register)** — is 0–5 Ha leases expiring and being re-cleared on the
+*same plots*, which is what inflates mining to 75% of all ECs. So the sub-sector and funnel counts elsewhere in
+this repo measure **clearance events, not distinct sites** — and mining's dominance is partly a churn artefact
+of short-lease re-appraisal, not 79,000 new mines. Data: `data/ec_fresh_vs_reuse.json`. ("Proposal For" is
+self-declared; blank/generic entries are left unclassified, not forced.)

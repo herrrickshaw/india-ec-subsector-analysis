@@ -1,0 +1,25 @@
+{
+ "analysis": "ec_fresh_vs_reuse",
+ "built": "2026-07-22",
+ "insight": "The proposal count is NOT a project count. Only ~49% of EC proposals are fresh new projects; the rest are re-appraisals, transfers, expansions and amendments on land that already holds a clearance.",
+ "total_proposals": 113970,
+ "categories": {
+  "reuse_reappraisal": 24928,
+  "unclassified": 12720,
+  "fresh": 56369,
+  "admin_amendment": 6257,
+  "reuse_transfer": 8723,
+  "reuse_expansion": 4973
+ },
+ "summary": {
+  "fresh": 56369,
+  "reuse_of_cleared_land": 38624,
+  "admin_changes": 6257,
+  "unclassified": 12720,
+  "fresh_pct": 49.5,
+  "reuse_plus_admin_pct": 39.4,
+  "mining_reappraisals": 24928,
+  "mining_reappraisal_pct": 21.9
+ },
+ "caveat": "'Proposal For' is self-declared and 7,410 are blank + some generic 'Mining EC Under 5 Ha' without a New/Re-appraisal suffix -- classified as unclassified, not forced. Fresh includes 'Fresh EC', 'Fresh ToR' and 'Mining (New)'; re-use captures re-appraisal, transfer/bidder-registration and expansion; admin captures amendment/extension/corrigendum/splitting/surrender."
+}
