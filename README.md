@@ -94,6 +94,41 @@ Data: `data/iem_ec_activity_comparison.json` · `data/iem_sector_counts_sep2024.
 Report, Sep-2024, Annexure-3). Caveat: DPIIT's 39-category DIPP/SIA industry scheme maps *many-to-many* onto
 EIA activity codes, not 1:1; the mapping is documented in the JSON.
 
+## Beyond EC — Forest, Wildlife & CRZ clearances
+
+**[→ The other three green gates (GitHub Pages)](https://herrrickshaw.github.io/india-ec-subsector-analysis/other_clearances.html)**
+
+The same open PARIVESH API serves three more central clearances under different `majorClearanceType`
+codes. Together with EC they are the full green-clearance funnel a project passes through:
+
+| Clearance | Type | Proposals | Grant rate (of decided) | Note |
+|---|---|--:|--:|---|
+| Environmental (EC) | 1 | 113,970 | 88.7% | the register analysed above |
+| **Forest (FC)** | 2 | 28,999 | 42.0% | diversion of forest land — **carries area in hectares** |
+| **Wildlife (WLC)** | 3 | 4,919 | **10.7%** | the real bottleneck — 88% "Pending at Proponent" |
+| **CRZ** | 4 | 2,264 | 31.3% | coastal, 17 states/UTs — the gate for ports & waterfront |
+
+**Forest Clearance is the one register that measures land QUANTUM.** EC asks "may this project pollute?";
+FC asks "may this project *take* this forest land?" — and 92% of FC proposals carry a `forest_area` field.
+Of a 1.05 million-ha pipeline (inflated by delisted applications and one ~74,000-ha outlier), the trustworthy
+figure is the forest land with **final diversion orders granted: 49,641 ha (122,666 acres)** across 6,134
+approved proposals. For scale, the entire national *industrial* land bank shows ~253,720 developed-and-vacant
+acres — so forest diversion is a **second land-creation channel** (mining, linear infra, hydro), on a
+different clock. Granted forest land concentrates in Madhya Pradesh (21,146 ha), Chhattisgarh (8,061) and
+Assam (7,746). Like EC, `clearanceType` gives the form — 88% are fresh Form-A diversions; Form-B/D/E/F are
+renewals, transfers and re-diversions on already-diverted land (the forest analogue of the fresh-vs-reuse
+split below).
+
+```bash
+python3 scripts/refresh_other_clearances.py   # fetch FC/WL/CRZ + rebuild data/parivesh_other_clearances.json
+python3 scripts/build_other_clearances.py     # regenerate docs/other_clearances.html
+```
+
+Method: grant rate = granted ÷ (granted + in-process); 'dead' and 'delisted' excluded from the denominator,
+as in the EC analysis. FC 'granted' = "Final Diversion Order Issued" or "Stage-II Accorded" (Stage-I
+in-principle not counted). The forest-area *pipeline* total mixes all statuses and is skewed by outliers — the
+*granted* figure is the reliable one. Data: `data/parivesh_other_clearances.json`.
+
 ## A proposal is not a project — fresh vs re-used land
 
 The 113,970 count overstates distinct projects, because expansions, transfers, renewals and re-appraisals on

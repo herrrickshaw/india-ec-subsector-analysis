@@ -1,0 +1,354 @@
+{
+ "built": "2026-07-22",
+ "source": "PARIVESH 2.0 advanceSearchData, majorClearanceType 2=Forest 3=Wildlife 4=CRZ (full national register)",
+ "note": "Companion to the Environmental Clearance analysis (majorClearanceType=1). Same open API, same pipeline-snapshot semantics -- proposals span 2022 to the fetch date, status is as-of-fetch.",
+ "method": "Grant rate = granted / (granted + in_process); 'dead' and 'delisted' excluded from the denominator. FC 'granted' = Final Diversion Order Issued or Stage-II Accorded.",
+ "clearances": {
+  "FC": {
+   "code": "FC",
+   "label": "Forest Clearance",
+   "total": 28999,
+   "n_states": 37,
+   "funnel": {
+    "dead": 2663,
+    "delisted": 11723,
+    "in_process": 8479,
+    "granted": 6134
+   },
+   "grant_rate_pct_of_decided": 42.0,
+   "top_states": [
+    {
+     "state": "Haryana",
+     "total": 3333,
+     "granted": 866,
+     "pending": 661
+    },
+    {
+     "state": "Jammu And Kashmir",
+     "total": 2740,
+     "granted": 1054,
+     "pending": 670
+    },
+    {
+     "state": "Madhya Pradesh",
+     "total": 2486,
+     "granted": 600,
+     "pending": 686
+    },
+    {
+     "state": "Gujarat",
+     "total": 2365,
+     "granted": 634,
+     "pending": 806
+    },
+    {
+     "state": "Punjab",
+     "total": 2097,
+     "granted": 715,
+     "pending": 441
+    },
+    {
+     "state": "Uttar Pradesh",
+     "total": 2075,
+     "granted": 751,
+     "pending": 557
+    },
+    {
+     "state": "Karnataka",
+     "total": 1780,
+     "granted": 294,
+     "pending": 549
+    },
+    {
+     "state": "Himachal Pradesh",
+     "total": 1729,
+     "granted": 28,
+     "pending": 307
+    },
+    {
+     "state": "Maharashtra",
+     "total": 1724,
+     "granted": 57,
+     "pending": 642
+    },
+    {
+     "state": "Uttarakhand",
+     "total": 1085,
+     "granted": 32,
+     "pending": 598
+    }
+   ],
+   "forest_area_ha": {
+    "pipeline_total": 1046330,
+    "granted": 49641,
+    "acres_pipeline": 2585534,
+    "acres_granted": 122666,
+    "caveat": "pipeline_total mixes all statuses incl. delisted and is skewed by a single ~74,000-ha outlier; 'granted' is the trustworthy forest-actually-diverted figure"
+   },
+   "forest_area_by_state": [
+    {
+     "state": "Tripura",
+     "pipeline_ha": 184758,
+     "granted_ha": 44,
+     "granted_acres": 108
+    },
+    {
+     "state": "Chhattisgarh",
+     "pipeline_ha": 146970,
+     "granted_ha": 8061,
+     "granted_acres": 19920
+    },
+    {
+     "state": "Madhya Pradesh",
+     "pipeline_ha": 146905,
+     "granted_ha": 21146,
+     "granted_acres": 52252
+    },
+    {
+     "state": "Maharashtra",
+     "pipeline_ha": 88062,
+     "granted_ha": 1087,
+     "granted_acres": 2686
+    },
+    {
+     "state": "Andhra Pradesh",
+     "pipeline_ha": 71232,
+     "granted_ha": 738,
+     "granted_acres": 1824
+    },
+    {
+     "state": "Assam",
+     "pipeline_ha": 49780,
+     "granted_ha": 7746,
+     "granted_acres": 19141
+    },
+    {
+     "state": "Odisha",
+     "pipeline_ha": 44518,
+     "granted_ha": 1611,
+     "granted_acres": 3980
+    },
+    {
+     "state": "Arunachal Pradesh",
+     "pipeline_ha": 42080,
+     "granted_ha": 1084,
+     "granted_acres": 2679
+    },
+    {
+     "state": "Rajasthan",
+     "pipeline_ha": 35289,
+     "granted_ha": 1343,
+     "granted_acres": 3320
+    },
+    {
+     "state": "Meghalaya",
+     "pipeline_ha": 34793,
+     "granted_ha": 9,
+     "granted_acres": 21
+    },
+    {
+     "state": "Jharkhand",
+     "pipeline_ha": 26582,
+     "granted_ha": 17,
+     "granted_acres": 42
+    },
+    {
+     "state": "Karnataka",
+     "pipeline_ha": 26109,
+     "granted_ha": 81,
+     "granted_acres": 200
+    }
+   ],
+   "by_form_type": {
+    "fresh_diversion_FormA": 25546,
+    "re_diversion_FormE": 2097,
+    "renewal_FormBD": 213,
+    "transfer_FormF": 261,
+    "reading": "Form-A is a FRESH diversion of forest land; Form-B/D/E/F are renewals, transfers and re-diversions on already-diverted land -- the forest analogue of the EC fresh-vs-reuse split."
+   },
+   "top_user_agencies": [
+    {
+     "agency": "MAHESH NAIR",
+     "proposals": 1697
+    },
+    {
+     "agency": "Jal Shakti Department",
+     "proposals": 1223
+    },
+    {
+     "agency": "HIMACHAL PRADESH PUBLIC WORK DEPARTMENT",
+     "proposals": 769
+    },
+    {
+     "agency": "Public Works Department",
+     "proposals": 708
+    },
+    {
+     "agency": "BHARAT SANCHAR NIGAM LIMITED",
+     "proposals": 409
+    },
+    {
+     "agency": "Rural Development",
+     "proposals": 384
+    },
+    {
+     "agency": "JIO DIGITAL FIBRE PRIVATE LTD",
+     "proposals": 321
+    },
+    {
+     "agency": "Department of Irrigation",
+     "proposals": 279
+    }
+   ]
+  },
+  "WLC": {
+   "code": "WLC",
+   "label": "Wildlife Clearance",
+   "total": 4919,
+   "n_states": 37,
+   "funnel": {
+    "in_process": 4319,
+    "granted": 517,
+    "dead": 83
+   },
+   "grant_rate_pct_of_decided": 10.7,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "total": 621,
+     "granted": 0,
+     "pending": 606
+    },
+    {
+     "state": "Rajasthan",
+     "total": 530,
+     "granted": 99,
+     "pending": 423
+    },
+    {
+     "state": "Karnataka",
+     "total": 410,
+     "granted": 87,
+     "pending": 320
+    },
+    {
+     "state": "Madhya Pradesh",
+     "total": 324,
+     "granted": 42,
+     "pending": 277
+    },
+    {
+     "state": "Ladakh",
+     "total": 314,
+     "granted": 10,
+     "pending": 304
+    },
+    {
+     "state": "Kerala",
+     "total": 266,
+     "granted": 13,
+     "pending": 252
+    },
+    {
+     "state": "Gujarat",
+     "total": 252,
+     "granted": 14,
+     "pending": 233
+    },
+    {
+     "state": "Tamil Nadu",
+     "total": 252,
+     "granted": 17,
+     "pending": 233
+    },
+    {
+     "state": "Telangana",
+     "total": 227,
+     "granted": 18,
+     "pending": 197
+    },
+    {
+     "state": "Uttarakhand",
+     "total": 202,
+     "granted": 21,
+     "pending": 181
+    }
+   ]
+  },
+  "CRZ": {
+   "code": "CRZ",
+   "label": "CRZ Clearance",
+   "total": 2264,
+   "n_states": 17,
+   "funnel": {
+    "in_process": 1025,
+    "delisted": 689,
+    "granted": 468,
+    "dead": 82
+   },
+   "grant_rate_pct_of_decided": 31.3,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "total": 965,
+     "granted": 132,
+     "pending": 577
+    },
+    {
+     "state": "Karnataka",
+     "total": 502,
+     "granted": 138,
+     "pending": 118
+    },
+    {
+     "state": "Tamil Nadu",
+     "total": 188,
+     "granted": 37,
+     "pending": 77
+    },
+    {
+     "state": "Gujarat",
+     "total": 175,
+     "granted": 61,
+     "pending": 58
+    },
+    {
+     "state": "Odisha",
+     "total": 97,
+     "granted": 11,
+     "pending": 74
+    },
+    {
+     "state": "Andhra Pradesh",
+     "total": 96,
+     "granted": 24,
+     "pending": 20
+    },
+    {
+     "state": "Puducherry",
+     "total": 88,
+     "granted": 31,
+     "pending": 31
+    },
+    {
+     "state": "Goa",
+     "total": 49,
+     "granted": 7,
+     "pending": 16
+    },
+    {
+     "state": "Andaman And Nicobar Islands",
+     "total": 33,
+     "granted": 7,
+     "pending": 17
+    },
+    {
+     "state": "Kerala",
+     "total": 28,
+     "granted": 5,
+     "pending": 15
+    }
+   ]
+  }
+ }
+}

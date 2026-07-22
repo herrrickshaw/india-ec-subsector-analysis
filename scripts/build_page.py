@@ -88,6 +88,8 @@ show which state leads each sub-sector and how grant rates differ by activity. O
  <div class="stat"><div class="n">{mx['n_states']}</div><div class="l">states / UTs</div></div>
  <div class="stat"><div class="n">{sum(s['granted'] for s in subs):,}</div><div class="l">clearances granted</div></div>
 </div>
+<p style="margin:0 0 6px"><a href="funnel.html" style="color:var(--accent);font-size:14px">→ See the EC approval funnel (filed → granted, all stages)</a></p>
+<p style="margin:0 0 14px"><a href="other_clearances.html" style="color:var(--accent);font-size:14px">→ Forest, Wildlife &amp; CRZ clearances (the other three green gates — incl. forest land in hectares)</a></p>
 
 <div class="controls">
  <label style="font-size:13px;color:var(--ink2)">Repivot the state table by sub-sector:
