@@ -1,5 +1,7 @@
 # India Environmental Clearances — state × sub-sector
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/herrrickshaw/india-ec-subsector-analysis/blob/main/notebooks/colab_test.ipynb)
+
 The full national **Environmental Clearance (EC) register** from **PARIVESH 2.0**, pivoted to answer one
 question the government's own dashboards do not: **which state leads each industrial sub-sector, and how do
 clearance rates differ by activity?**
