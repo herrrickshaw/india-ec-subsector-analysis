@@ -1,0 +1,24 @@
+{
+ "built": "2026-07-22",
+ "source": "PARIVESH 2.0 EC register, 2022-2026",
+ "note": "Current-state snapshot: each proposal shows its LATEST status, so 'ToR granted' counts only those currently AT ToR \u2014 granted ECs already passed ToR and show as 'EC granted'.",
+ "total_filed": 113970,
+ "delisted": 25061,
+ "live": 88909,
+ "in_pipeline": 27549,
+ "decided": 61360,
+ "stages": {
+  "ec_granted": 54406,
+  "delisted": 25061,
+  "screening": 7197,
+  "tor_granted": 15869,
+  "withdrawn": 2622,
+  "returned": 1779,
+  "appraisal": 4482,
+  "ec_rejected": 2375,
+  "tor_rejected": 178,
+  "other": 1
+ },
+ "grant_rate_of_decided_pct": 88.7,
+ "grant_rate_of_live_pct": 61.2
+}
