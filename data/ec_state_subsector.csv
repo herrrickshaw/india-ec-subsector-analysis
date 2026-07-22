@@ -1,0 +1,2056 @@
+state,activity_code,activity_label,status,count
+ANDAMAN AND NICOBAR ISLANDS,1(a),Mining of minerals,granted,8
+ANDAMAN AND NICOBAR ISLANDS,1(a),Mining of minerals,in_process,1
+ANDAMAN AND NICOBAR ISLANDS,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,4
+ANDAMAN AND NICOBAR ISLANDS,1(d),Thermal Power Plants,dead,1
+ANDAMAN AND NICOBAR ISLANDS,6(a),Pipelines,tor_granted,1
+ANDAMAN AND NICOBAR ISLANDS,7(a),Airports,granted,1
+ANDAMAN AND NICOBAR ISLANDS,7(e),"Ports, harbors, breakwaters, dredging",dead,1
+ANDAMAN AND NICOBAR ISLANDS,7(e),"Ports, harbors, breakwaters, dredging",granted,2
+ANDAMAN AND NICOBAR ISLANDS,8(a),Building / Construction,delisted,1
+ANDHRA PRADESH,1,,granted,9
+ANDHRA PRADESH,1,,in_process,1
+ANDHRA PRADESH,1,,tor_granted,3
+ANDHRA PRADESH,1(a),Mining of minerals,dead,185
+ANDHRA PRADESH,1(a),Mining of minerals,delisted,375
+ANDHRA PRADESH,1(a),Mining of minerals,granted,1829
+ANDHRA PRADESH,1(a),Mining of minerals,in_process,268
+ANDHRA PRADESH,1(a),Mining of minerals,tor_granted,475
+ANDHRA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,6
+ANDHRA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,1
+ANDHRA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,9
+ANDHRA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,6
+ANDHRA PRADESH,1(c),River Valley/Irrigation projects,dead,2
+ANDHRA PRADESH,1(c),River Valley/Irrigation projects,delisted,3
+ANDHRA PRADESH,1(c),River Valley/Irrigation projects,granted,7
+ANDHRA PRADESH,1(c),River Valley/Irrigation projects,in_process,6
+ANDHRA PRADESH,1(c),River Valley/Irrigation projects,tor_granted,22
+ANDHRA PRADESH,1(d),Thermal Power Plants,dead,2
+ANDHRA PRADESH,1(d),Thermal Power Plants,delisted,1
+ANDHRA PRADESH,1(d),Thermal Power Plants,granted,3
+ANDHRA PRADESH,15,,tor_granted,1
+ANDHRA PRADESH,2(b),Mineral beneficiation,delisted,1
+ANDHRA PRADESH,2(b),Mineral beneficiation,granted,4
+ANDHRA PRADESH,2(b),Mineral beneficiation,tor_granted,2
+ANDHRA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,13
+ANDHRA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,17
+ANDHRA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),granted,28
+ANDHRA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,7
+ANDHRA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,14
+ANDHRA PRADESH,3(b),Cement plants,dead,8
+ANDHRA PRADESH,3(b),Cement plants,delisted,6
+ANDHRA PRADESH,3(b),Cement plants,granted,9
+ANDHRA PRADESH,3(b),Cement plants,in_process,2
+ANDHRA PRADESH,3(b),Cement plants,tor_granted,8
+ANDHRA PRADESH,4(a),Petroleum refining industry,granted,1
+ANDHRA PRADESH,4(a),Petroleum refining industry,in_process,2
+ANDHRA PRADESH,4(a),Petroleum refining industry,tor_granted,2
+ANDHRA PRADESH,4(b),Coke oven plants,tor_granted,1
+ANDHRA PRADESH,4(c),Asbestos milling / asbestos-based products,granted,1
+ANDHRA PRADESH,4(d),Chlor-alkali industry,delisted,2
+ANDHRA PRADESH,4(d),Chlor-alkali industry,granted,4
+ANDHRA PRADESH,4(d),Chlor-alkali industry,tor_granted,2
+ANDHRA PRADESH,4(f),Skin/hide processing including the tanning industry,delisted,1
+ANDHRA PRADESH,5(a),Chemical fertilizers,dead,5
+ANDHRA PRADESH,5(a),Chemical fertilizers,granted,8
+ANDHRA PRADESH,5(a),Chemical fertilizers,in_process,2
+ANDHRA PRADESH,5(a),Chemical fertilizers,tor_granted,5
+ANDHRA PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,dead,1
+ANDHRA PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,1
+ANDHRA PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,1
+ANDHRA PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,2
+ANDHRA PRADESH,5(e,,delisted,1
+ANDHRA PRADESH,5(e,,granted,2
+ANDHRA PRADESH,5(e,,tor_granted,3
+ANDHRA PRADESH,5(f),Synthetic organic chemicals industry,dead,14
+ANDHRA PRADESH,5(f),Synthetic organic chemicals industry,delisted,15
+ANDHRA PRADESH,5(f),Synthetic organic chemicals industry,granted,35
+ANDHRA PRADESH,5(f),Synthetic organic chemicals industry,in_process,3
+ANDHRA PRADESH,5(f),Synthetic organic chemicals industry,tor_granted,15
+ANDHRA PRADESH,5(g),Distilleries,dead,12
+ANDHRA PRADESH,5(g),Distilleries,delisted,5
+ANDHRA PRADESH,5(g),Distilleries,granted,24
+ANDHRA PRADESH,5(g),Distilleries,in_process,2
+ANDHRA PRADESH,5(g),Distilleries,tor_granted,8
+ANDHRA PRADESH,5(ga),Grain based distilleries,dead,2
+ANDHRA PRADESH,5(ga),Grain based distilleries,granted,7
+ANDHRA PRADESH,5(ga),Grain based distilleries,in_process,1
+ANDHRA PRADESH,5(ga),Grain based distilleries,tor_granted,5
+ANDHRA PRADESH,5(h),Integrated paint industry,dead,1
+ANDHRA PRADESH,5(h),Integrated paint industry,delisted,1
+ANDHRA PRADESH,5(h),Integrated paint industry,granted,1
+ANDHRA PRADESH,5(h),Integrated paint industry,tor_granted,2
+ANDHRA PRADESH,5(i),Pulp & Paper Industry,dead,1
+ANDHRA PRADESH,5(i),Pulp & Paper Industry,delisted,1
+ANDHRA PRADESH,7(a),Airports,delisted,6
+ANDHRA PRADESH,7(a),Airports,granted,1
+ANDHRA PRADESH,7(a),Airports,in_process,1
+ANDHRA PRADESH,7(a),Airports,tor_granted,6
+ANDHRA PRADESH,7(c,,dead,5
+ANDHRA PRADESH,7(c,,delisted,1
+ANDHRA PRADESH,7(c,,granted,10
+ANDHRA PRADESH,7(c,,in_process,2
+ANDHRA PRADESH,7(c,,tor_granted,3
+ANDHRA PRADESH,7(d,,granted,1
+ANDHRA PRADESH,7(d,,in_process,1
+ANDHRA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,delisted,3
+ANDHRA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+ANDHRA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+ANDHRA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+ANDHRA PRADESH,7(e),"Ports, harbors, breakwaters, dredging",dead,4
+ANDHRA PRADESH,7(e),"Ports, harbors, breakwaters, dredging",delisted,1
+ANDHRA PRADESH,7(e),"Ports, harbors, breakwaters, dredging",granted,15
+ANDHRA PRADESH,7(e),"Ports, harbors, breakwaters, dredging",in_process,3
+ANDHRA PRADESH,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,3
+ANDHRA PRADESH,7(f),Road,delisted,1
+ANDHRA PRADESH,7(f),Road,granted,2
+ANDHRA PRADESH,7(h),Common Effluent Treatment Plants (CETPs),delisted,1
+ANDHRA PRADESH,7(h),Common Effluent Treatment Plants (CETPs),granted,2
+ANDHRA PRADESH,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,3
+ANDHRA PRADESH,8(a),Building / Construction,dead,6
+ANDHRA PRADESH,8(a),Building / Construction,delisted,15
+ANDHRA PRADESH,8(a),Building / Construction,granted,89
+ANDHRA PRADESH,8(a),Building / Construction,in_process,16
+ANDHRA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+ANDHRA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,18
+ANDHRA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,7
+ANDHRA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,18
+ANDHRA PRADESH,Building,,granted,2
+ANDHRA PRADESH,Mining,,dead,1
+ANDHRA PRADESH,Mining,,granted,6
+ANDHRA PRADESH,UNCLASSIFIED,,dead,1
+ANDHRA PRADESH,UNCLASSIFIED,,delisted,1
+ANDHRA PRADESH,UNCLASSIFIED,,granted,254
+ANDHRA PRADESH,UNCLASSIFIED,,in_process,85
+ANDHRA PRADESH,UNCLASSIFIED,,tor_granted,106
+ARUNACHAL PRADESH,1(a),Mining of minerals,granted,2
+ARUNACHAL PRADESH,1(a),Mining of minerals,in_process,2
+ARUNACHAL PRADESH,1(a),Mining of minerals,tor_granted,1
+ARUNACHAL PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,4
+ARUNACHAL PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,3
+ARUNACHAL PRADESH,1(c),River Valley/Irrigation projects,dead,3
+ARUNACHAL PRADESH,1(c),River Valley/Irrigation projects,delisted,2
+ARUNACHAL PRADESH,1(c),River Valley/Irrigation projects,granted,7
+ARUNACHAL PRADESH,1(c),River Valley/Irrigation projects,in_process,4
+ARUNACHAL PRADESH,1(c),River Valley/Irrigation projects,tor_granted,9
+ARUNACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,1
+ARUNACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,3
+ARUNACHAL PRADESH,4(b),Coke oven plants,dead,1
+ARUNACHAL PRADESH,5(g),Distilleries,dead,1
+ARUNACHAL PRADESH,5(g),Distilleries,tor_granted,1
+ARUNACHAL PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+ARUNACHAL PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+ARUNACHAL PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+ASSAM,1,,granted,11
+ASSAM,1(a),Mining of minerals,dead,56
+ASSAM,1(a),Mining of minerals,delisted,288
+ASSAM,1(a),Mining of minerals,granted,722
+ASSAM,1(a),Mining of minerals,in_process,95
+ASSAM,1(a),Mining of minerals,tor_granted,28
+ASSAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,6
+ASSAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,6
+ASSAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,27
+ASSAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,3
+ASSAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,6
+ASSAM,1(c),River Valley/Irrigation projects,delisted,1
+ASSAM,1(c),River Valley/Irrigation projects,granted,1
+ASSAM,1(c),River Valley/Irrigation projects,tor_granted,6
+ASSAM,1(d),Thermal Power Plants,granted,1
+ASSAM,1(d),Thermal Power Plants,tor_granted,2
+ASSAM,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,6
+ASSAM,3(a),Metallurgical Industries (ferrous and non ferrous),granted,3
+ASSAM,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,3
+ASSAM,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,5
+ASSAM,3(b),Cement plants,dead,4
+ASSAM,3(b),Cement plants,delisted,1
+ASSAM,3(b),Cement plants,granted,12
+ASSAM,3(b),Cement plants,in_process,1
+ASSAM,3(b),Cement plants,tor_granted,10
+ASSAM,4(a),Petroleum refining industry,granted,1
+ASSAM,4(d),Chlor-alkali industry,tor_granted,1
+ASSAM,5(a),Chemical fertilizers,tor_granted,1
+ASSAM,5(c),Petro-chemical complexes (industries based on processing of ,granted,1
+ASSAM,5(f),Synthetic organic chemicals industry,dead,1
+ASSAM,5(f),Synthetic organic chemicals industry,delisted,1
+ASSAM,5(f),Synthetic organic chemicals industry,granted,11
+ASSAM,5(g),Distilleries,dead,1
+ASSAM,5(g),Distilleries,delisted,1
+ASSAM,5(g),Distilleries,granted,9
+ASSAM,5(ga),Grain based distilleries,delisted,1
+ASSAM,5(h),Integrated paint industry,delisted,1
+ASSAM,5(h),Integrated paint industry,granted,2
+ASSAM,5(i),Pulp & Paper Industry,delisted,1
+ASSAM,7(a),Airports,granted,3
+ASSAM,7(a),Airports,tor_granted,2
+ASSAM,7(c,,granted,1
+ASSAM,7(d,,granted,2
+ASSAM,7(d,,tor_granted,1
+ASSAM,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+ASSAM,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+ASSAM,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,4
+ASSAM,7(f),Road,dead,1
+ASSAM,7(f),Road,tor_granted,2
+ASSAM,8(a),Building / Construction,dead,10
+ASSAM,8(a),Building / Construction,delisted,12
+ASSAM,8(a),Building / Construction,granted,72
+ASSAM,8(a),Building / Construction,in_process,10
+ASSAM,8(a),Building / Construction,tor_granted,4
+ASSAM,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,1
+ASSAM,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,2
+ASSAM,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,6
+ASSAM,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,5
+ASSAM,Mining,,delisted,1
+ASSAM,Mining,,granted,5
+ASSAM,Off-shore,,granted,1
+ASSAM,UNCLASSIFIED,,delisted,1
+ASSAM,UNCLASSIFIED,,granted,169
+ASSAM,UNCLASSIFIED,,in_process,11
+ASSAM,UNCLASSIFIED,,tor_granted,10
+BIHAR,1,,tor_granted,10
+BIHAR,1(a),Mining of minerals,dead,41
+BIHAR,1(a),Mining of minerals,delisted,39
+BIHAR,1(a),Mining of minerals,granted,1352
+BIHAR,1(a),Mining of minerals,in_process,282
+BIHAR,1(a),Mining of minerals,tor_granted,314
+BIHAR,1(c),River Valley/Irrigation projects,delisted,1
+BIHAR,1(c),River Valley/Irrigation projects,tor_granted,5
+BIHAR,1(d),Thermal Power Plants,dead,4
+BIHAR,1(d),Thermal Power Plants,delisted,1
+BIHAR,1(d),Thermal Power Plants,granted,3
+BIHAR,1(d),Thermal Power Plants,in_process,1
+BIHAR,1(d),Thermal Power Plants,tor_granted,4
+BIHAR,3(a),Metallurgical Industries (ferrous and non ferrous),dead,1
+BIHAR,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,2
+BIHAR,3(a),Metallurgical Industries (ferrous and non ferrous),granted,9
+BIHAR,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,9
+BIHAR,3(b),Cement plants,delisted,1
+BIHAR,3(b),Cement plants,granted,5
+BIHAR,3(b),Cement plants,in_process,1
+BIHAR,3(b),Cement plants,tor_granted,6
+BIHAR,5(a),Chemical fertilizers,granted,1
+BIHAR,5(g),Distilleries,dead,2
+BIHAR,5(g),Distilleries,granted,9
+BIHAR,5(g),Distilleries,tor_granted,3
+BIHAR,5(ga),Grain based distilleries,granted,1
+BIHAR,5(ga),Grain based distilleries,in_process,1
+BIHAR,5(ga),Grain based distilleries,tor_granted,1
+BIHAR,7(a),Airports,granted,2
+BIHAR,7(a),Airports,tor_granted,2
+BIHAR,7(c,,delisted,1
+BIHAR,7(c,,granted,5
+BIHAR,7(c,,in_process,1
+BIHAR,7(c,,tor_granted,6
+BIHAR,7(da),Bio-Medical Waste Treatment Facilities,dead,1
+BIHAR,7(da),Bio-Medical Waste Treatment Facilities,in_process,2
+BIHAR,7(f),Road,dead,7
+BIHAR,7(f),Road,delisted,1
+BIHAR,7(f),Road,granted,6
+BIHAR,7(f),Road,tor_granted,6
+BIHAR,8(a),Building / Construction,dead,7
+BIHAR,8(a),Building / Construction,delisted,5
+BIHAR,8(a),Building / Construction,granted,79
+BIHAR,8(a),Building / Construction,in_process,7
+BIHAR,8(a),Building / Construction,tor_granted,1
+BIHAR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,1
+BIHAR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+BIHAR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,18
+BIHAR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,2
+BIHAR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,13
+BIHAR,Bio-Medical,,in_process,1
+BIHAR,Mining,,tor_granted,10
+BIHAR,UNCLASSIFIED,,granted,13
+BIHAR,UNCLASSIFIED,,in_process,21
+BIHAR,UNCLASSIFIED,,tor_granted,121
+CHANDIGARH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,1
+CHANDIGARH,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+CHANDIGARH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,1
+CHANDIGARH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,1
+CHANDIGARH,8(a),Building / Construction,dead,4
+CHANDIGARH,8(a),Building / Construction,delisted,5
+CHANDIGARH,8(a),Building / Construction,granted,5
+CHANDIGARH,8(a),Building / Construction,in_process,3
+CHANDIGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+CHANDIGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,1
+CHANDIGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,1
+CHHATTISGARH,1,,granted,6
+CHHATTISGARH,1,,tor_granted,2
+CHHATTISGARH,1(a),Mining of minerals,dead,267
+CHHATTISGARH,1(a),Mining of minerals,delisted,963
+CHHATTISGARH,1(a),Mining of minerals,granted,802
+CHHATTISGARH,1(a),Mining of minerals,in_process,358
+CHHATTISGARH,1(a),Mining of minerals,tor_granted,306
+CHHATTISGARH,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,2
+CHHATTISGARH,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,1
+CHHATTISGARH,1(c),River Valley/Irrigation projects,dead,2
+CHHATTISGARH,1(c),River Valley/Irrigation projects,delisted,1
+CHHATTISGARH,1(c),River Valley/Irrigation projects,in_process,2
+CHHATTISGARH,1(c),River Valley/Irrigation projects,tor_granted,13
+CHHATTISGARH,1(d),Thermal Power Plants,dead,7
+CHHATTISGARH,1(d),Thermal Power Plants,delisted,5
+CHHATTISGARH,1(d),Thermal Power Plants,granted,20
+CHHATTISGARH,1(d),Thermal Power Plants,in_process,6
+CHHATTISGARH,1(d),Thermal Power Plants,tor_granted,8
+CHHATTISGARH,10,,granted,1
+CHHATTISGARH,10,,in_process,1
+CHHATTISGARH,11,,granted,1
+CHHATTISGARH,2(a),Coal washeries,dead,3
+CHHATTISGARH,2(a),Coal washeries,delisted,3
+CHHATTISGARH,2(a),Coal washeries,granted,20
+CHHATTISGARH,2(a),Coal washeries,in_process,5
+CHHATTISGARH,2(a),Coal washeries,tor_granted,15
+CHHATTISGARH,2(b),Mineral beneficiation,dead,2
+CHHATTISGARH,2(b),Mineral beneficiation,delisted,2
+CHHATTISGARH,2(b),Mineral beneficiation,granted,6
+CHHATTISGARH,2(b),Mineral beneficiation,in_process,1
+CHHATTISGARH,2(b),Mineral beneficiation,tor_granted,1
+CHHATTISGARH,2(c),Pellet Plant,delisted,1
+CHHATTISGARH,2(c),Pellet Plant,granted,1
+CHHATTISGARH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,45
+CHHATTISGARH,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,54
+CHHATTISGARH,3(a),Metallurgical Industries (ferrous and non ferrous),granted,111
+CHHATTISGARH,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,49
+CHHATTISGARH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,127
+CHHATTISGARH,3(b),Cement plants,dead,3
+CHHATTISGARH,3(b),Cement plants,delisted,4
+CHHATTISGARH,3(b),Cement plants,granted,6
+CHHATTISGARH,3(b),Cement plants,in_process,3
+CHHATTISGARH,3(b),Cement plants,tor_granted,5
+CHHATTISGARH,4(b),Coke oven plants,delisted,3
+CHHATTISGARH,4(b),Coke oven plants,granted,1
+CHHATTISGARH,4(b),Coke oven plants,in_process,5
+CHHATTISGARH,4(b),Coke oven plants,tor_granted,6
+CHHATTISGARH,5(a),Chemical fertilizers,tor_granted,1
+CHHATTISGARH,5(c),Petro-chemical complexes (industries based on processing of ,dead,1
+CHHATTISGARH,5(e,,dead,1
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,tor_granted,4
+CHHATTISGARH,5(g),Distilleries,dead,2
+CHHATTISGARH,5(g),Distilleries,delisted,4
+CHHATTISGARH,5(g),Distilleries,granted,14
+CHHATTISGARH,5(g),Distilleries,in_process,2
+CHHATTISGARH,5(g),Distilleries,tor_granted,6
+CHHATTISGARH,5(ga),Grain based distilleries,in_process,2
+CHHATTISGARH,7(a),Airports,dead,1
+CHHATTISGARH,7(a),Airports,delisted,1
+CHHATTISGARH,7(d,,delisted,1
+CHHATTISGARH,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+CHHATTISGARH,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+CHHATTISGARH,7(da),Bio-Medical Waste Treatment Facilities,in_process,2
+CHHATTISGARH,7(f),Road,delisted,1
+CHHATTISGARH,7(f),Road,granted,2
+CHHATTISGARH,8(a),Building / Construction,dead,4
+CHHATTISGARH,8(a),Building / Construction,delisted,7
+CHHATTISGARH,8(a),Building / Construction,granted,20
+CHHATTISGARH,8(a),Building / Construction,in_process,8
+CHHATTISGARH,8(a),Building / Construction,tor_granted,1
+CHHATTISGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+CHHATTISGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,2
+CHHATTISGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,3
+CHHATTISGARH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,4
+CHHATTISGARH,Mining,,granted,1
+CHHATTISGARH,Mining,,tor_granted,1
+CHHATTISGARH,UNCLASSIFIED,,granted,49
+CHHATTISGARH,UNCLASSIFIED,,in_process,61
+CHHATTISGARH,UNCLASSIFIED,,tor_granted,60
+DELHI,1(a),Mining of minerals,dead,1
+DELHI,1(a),Mining of minerals,delisted,1
+DELHI,1(a),Mining of minerals,in_process,1
+DELHI,1(d),Thermal Power Plants,dead,1
+DELHI,1(d),Thermal Power Plants,delisted,1
+DELHI,1(d),Thermal Power Plants,granted,2
+DELHI,1(d),Thermal Power Plants,tor_granted,2
+DELHI,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,1
+DELHI,3(b),Cement plants,delisted,1
+DELHI,7(a),Airports,granted,1
+DELHI,7(d,,granted,1
+DELHI,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+DELHI,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,2
+DELHI,7(f),Road,dead,1
+DELHI,7(f),Road,granted,1
+DELHI,7(f),Road,in_process,1
+DELHI,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+DELHI,8(a),Building / Construction,dead,14
+DELHI,8(a),Building / Construction,delisted,22
+DELHI,8(a),Building / Construction,granted,64
+DELHI,8(a),Building / Construction,in_process,26
+DELHI,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,3
+DELHI,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,5
+DELHI,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,7
+DELHI,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,1
+DELHI,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,13
+DELHI,UNCLASSIFIED,,dead,1
+DELHI,UNCLASSIFIED,,granted,8
+GOA,1,,granted,1
+GOA,1(a),Mining of minerals,dead,4
+GOA,1(a),Mining of minerals,delisted,11
+GOA,1(a),Mining of minerals,granted,68
+GOA,1(a),Mining of minerals,in_process,8
+GOA,1(a),Mining of minerals,tor_granted,13
+GOA,2(b),Mineral beneficiation,dead,1
+GOA,2(b),Mineral beneficiation,granted,1
+GOA,2(b),Mineral beneficiation,tor_granted,1
+GOA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,2
+GOA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,5
+GOA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,6
+GOA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,1
+GOA,5(g),Distilleries,dead,1
+GOA,5(g),Distilleries,granted,1
+GOA,5(g),Distilleries,tor_granted,3
+GOA,5(h),Integrated paint industry,tor_granted,1
+GOA,7(e),"Ports, harbors, breakwaters, dredging",dead,1
+GOA,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,1
+GOA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+GOA,8(a),Building / Construction,dead,7
+GOA,8(a),Building / Construction,delisted,12
+GOA,8(a),Building / Construction,granted,28
+GOA,8(a),Building / Construction,in_process,16
+GOA,8(a),Building / Construction,tor_granted,1
+GOA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,1
+GOA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,1
+GOA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,1
+GOA,UNCLASSIFIED,,granted,8
+GOA,UNCLASSIFIED,,in_process,2
+GOA,UNCLASSIFIED,,tor_granted,2
+GUJARAT,1,,granted,1
+GUJARAT,1,,in_process,1
+GUJARAT,1,,tor_granted,3
+GUJARAT,1(a),Mining of minerals,dead,1022
+GUJARAT,1(a),Mining of minerals,delisted,809
+GUJARAT,1(a),Mining of minerals,granted,2284
+GUJARAT,1(a),Mining of minerals,in_process,431
+GUJARAT,1(a),Mining of minerals,tor_granted,858
+GUJARAT,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,16
+GUJARAT,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,10
+GUJARAT,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,44
+GUJARAT,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,10
+GUJARAT,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,16
+GUJARAT,1(c),River Valley/Irrigation projects,dead,3
+GUJARAT,1(c),River Valley/Irrigation projects,granted,1
+GUJARAT,1(c),River Valley/Irrigation projects,tor_granted,8
+GUJARAT,1(d),Thermal Power Plants,dead,4
+GUJARAT,1(d),Thermal Power Plants,delisted,4
+GUJARAT,1(d),Thermal Power Plants,granted,8
+GUJARAT,1(d),Thermal Power Plants,in_process,2
+GUJARAT,1(d),Thermal Power Plants,tor_granted,3
+GUJARAT,10,,tor_granted,2
+GUJARAT,2(b),Mineral beneficiation,dead,6
+GUJARAT,2(b),Mineral beneficiation,delisted,19
+GUJARAT,2(b),Mineral beneficiation,granted,35
+GUJARAT,2(b),Mineral beneficiation,in_process,7
+GUJARAT,2(b),Mineral beneficiation,tor_granted,4
+GUJARAT,20,,tor_granted,2
+GUJARAT,24,,granted,3
+GUJARAT,24,,in_process,1
+GUJARAT,24,,tor_granted,2
+GUJARAT,3(a),Metallurgical Industries (ferrous and non ferrous),dead,16
+GUJARAT,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,19
+GUJARAT,3(a),Metallurgical Industries (ferrous and non ferrous),granted,51
+GUJARAT,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,39
+GUJARAT,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,69
+GUJARAT,3(b),Cement plants,dead,8
+GUJARAT,3(b),Cement plants,delisted,11
+GUJARAT,3(b),Cement plants,granted,16
+GUJARAT,3(b),Cement plants,in_process,5
+GUJARAT,3(b),Cement plants,tor_granted,10
+GUJARAT,39,,granted,4
+GUJARAT,4(a),Petroleum refining industry,dead,4
+GUJARAT,4(a),Petroleum refining industry,delisted,2
+GUJARAT,4(a),Petroleum refining industry,granted,2
+GUJARAT,4(a),Petroleum refining industry,tor_granted,1
+GUJARAT,4(b),Coke oven plants,granted,2
+GUJARAT,4(d),Chlor-alkali industry,dead,1
+GUJARAT,4(d),Chlor-alkali industry,delisted,1
+GUJARAT,4(d),Chlor-alkali industry,granted,3
+GUJARAT,4(d),Chlor-alkali industry,in_process,3
+GUJARAT,4(d),Chlor-alkali industry,tor_granted,4
+GUJARAT,4(e),Soda ash Industry,granted,1
+GUJARAT,4(e),Soda ash Industry,tor_granted,1
+GUJARAT,5(a),Chemical fertilizers,dead,2
+GUJARAT,5(a),Chemical fertilizers,delisted,1
+GUJARAT,5(a),Chemical fertilizers,granted,14
+GUJARAT,5(a),Chemical fertilizers,in_process,3
+GUJARAT,5(a),Chemical fertilizers,tor_granted,10
+GUJARAT,5(b),Pesticides industry and pesticide specific intermediates (ex,dead,28
+GUJARAT,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,10
+GUJARAT,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,79
+GUJARAT,5(b),Pesticides industry and pesticide specific intermediates (ex,in_process,9
+GUJARAT,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,67
+GUJARAT,5(c),Petro-chemical complexes (industries based on processing of ,dead,2
+GUJARAT,5(c),Petro-chemical complexes (industries based on processing of ,delisted,1
+GUJARAT,5(c),Petro-chemical complexes (industries based on processing of ,granted,6
+GUJARAT,5(c),Petro-chemical complexes (industries based on processing of ,tor_granted,6
+GUJARAT,5(d),Manmade fibers manufacturing,granted,7
+GUJARAT,5(d),Manmade fibers manufacturing,tor_granted,4
+GUJARAT,5(e,,dead,7
+GUJARAT,5(e,,granted,7
+GUJARAT,5(e,,in_process,4
+GUJARAT,5(e,,tor_granted,4
+GUJARAT,5(f),Synthetic organic chemicals industry,dead,187
+GUJARAT,5(f),Synthetic organic chemicals industry,delisted,127
+GUJARAT,5(f),Synthetic organic chemicals industry,granted,669
+GUJARAT,5(f),Synthetic organic chemicals industry,in_process,136
+GUJARAT,5(f),Synthetic organic chemicals industry,tor_granted,505
+GUJARAT,5(g),Distilleries,dead,4
+GUJARAT,5(g),Distilleries,delisted,3
+GUJARAT,5(g),Distilleries,granted,8
+GUJARAT,5(g),Distilleries,in_process,1
+GUJARAT,5(g),Distilleries,tor_granted,1
+GUJARAT,5(ga),Grain based distilleries,delisted,1
+GUJARAT,5(ga),Grain based distilleries,in_process,1
+GUJARAT,5(h),Integrated paint industry,granted,1
+GUJARAT,5(h),Integrated paint industry,in_process,1
+GUJARAT,5(h),Integrated paint industry,tor_granted,1
+GUJARAT,5(i),Pulp & Paper Industry,granted,2
+GUJARAT,5(i),Pulp & Paper Industry,in_process,1
+GUJARAT,5(j),Sugar Industry,granted,3
+GUJARAT,5(j),Sugar Industry,in_process,1
+GUJARAT,5(j),Sugar Industry,tor_granted,1
+GUJARAT,6(a),Pipelines,delisted,1
+GUJARAT,6(a),Pipelines,granted,1
+GUJARAT,6(a),Pipelines,in_process,2
+GUJARAT,6(a),Pipelines,tor_granted,3
+GUJARAT,7(a),Airports,dead,1
+GUJARAT,7(a),Airports,delisted,1
+GUJARAT,7(a),Airports,granted,1
+GUJARAT,7(a),Airports,tor_granted,1
+GUJARAT,7(b),Ship breaking yards including ship breaking units,granted,1
+GUJARAT,7(b),Ship breaking yards including ship breaking units,tor_granted,1
+GUJARAT,7(c,,dead,3
+GUJARAT,7(c,,delisted,1
+GUJARAT,7(c,,granted,6
+GUJARAT,7(c,,in_process,2
+GUJARAT,7(c,,tor_granted,4
+GUJARAT,7(d,,dead,3
+GUJARAT,7(d,,delisted,2
+GUJARAT,7(d,,granted,7
+GUJARAT,7(d,,tor_granted,3
+GUJARAT,7(da),Bio-Medical Waste Treatment Facilities,dead,5
+GUJARAT,7(da),Bio-Medical Waste Treatment Facilities,delisted,4
+GUJARAT,7(da),Bio-Medical Waste Treatment Facilities,granted,6
+GUJARAT,7(da),Bio-Medical Waste Treatment Facilities,in_process,7
+GUJARAT,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,8
+GUJARAT,7(e),"Ports, harbors, breakwaters, dredging",dead,7
+GUJARAT,7(e),"Ports, harbors, breakwaters, dredging",delisted,5
+GUJARAT,7(e),"Ports, harbors, breakwaters, dredging",granted,24
+GUJARAT,7(e),"Ports, harbors, breakwaters, dredging",in_process,7
+GUJARAT,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,16
+GUJARAT,7(f),Road,granted,1
+GUJARAT,7(f),Road,tor_granted,4
+GUJARAT,7(h),Common Effluent Treatment Plants (CETPs),dead,3
+GUJARAT,7(h),Common Effluent Treatment Plants (CETPs),delisted,2
+GUJARAT,7(h),Common Effluent Treatment Plants (CETPs),granted,2
+GUJARAT,7(h),Common Effluent Treatment Plants (CETPs),in_process,1
+GUJARAT,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,3
+GUJARAT,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,3
+GUJARAT,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,4
+GUJARAT,8(a),Building / Construction,dead,83
+GUJARAT,8(a),Building / Construction,delisted,79
+GUJARAT,8(a),Building / Construction,granted,1632
+GUJARAT,8(a),Building / Construction,in_process,207
+GUJARAT,8(a),Building / Construction,tor_granted,2
+GUJARAT,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,4
+GUJARAT,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+GUJARAT,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,45
+GUJARAT,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,10
+GUJARAT,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,51
+GUJARAT,Building,,granted,11
+GUJARAT,Metallurgical,,tor_granted,1
+GUJARAT,Mining,,granted,5
+GUJARAT,Mining,,in_process,1
+GUJARAT,Mining,,tor_granted,2
+GUJARAT,Off-shore,,granted,1
+GUJARAT,Synthetic,,granted,1
+GUJARAT,Synthetic,,tor_granted,2
+GUJARAT,UNCLASSIFIED,,dead,5
+GUJARAT,UNCLASSIFIED,,delisted,3
+GUJARAT,UNCLASSIFIED,,granted,367
+GUJARAT,UNCLASSIFIED,,in_process,524
+GUJARAT,UNCLASSIFIED,,tor_granted,199
+HARYANA,1,,tor_granted,1
+HARYANA,1(a),Mining of minerals,dead,2
+HARYANA,1(a),Mining of minerals,delisted,6
+HARYANA,1(a),Mining of minerals,granted,46
+HARYANA,1(a),Mining of minerals,in_process,8
+HARYANA,1(a),Mining of minerals,tor_granted,31
+HARYANA,1(d),Thermal Power Plants,granted,2
+HARYANA,23,,in_process,1
+HARYANA,3(a),Metallurgical Industries (ferrous and non ferrous),dead,3
+HARYANA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,2
+HARYANA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,7
+HARYANA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,1
+HARYANA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,11
+HARYANA,3(b),Cement plants,delisted,1
+HARYANA,3(b),Cement plants,granted,3
+HARYANA,3(b),Cement plants,in_process,1
+HARYANA,3(b),Cement plants,tor_granted,5
+HARYANA,39,,granted,1
+HARYANA,4(a),Petroleum refining industry,dead,1
+HARYANA,4(f),Skin/hide processing including the tanning industry,tor_granted,1
+HARYANA,40,,granted,1
+HARYANA,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,1
+HARYANA,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,2
+HARYANA,5(b),Pesticides industry and pesticide specific intermediates (ex,in_process,2
+HARYANA,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,1
+HARYANA,5(c),Petro-chemical complexes (industries based on processing of ,dead,4
+HARYANA,5(f),Synthetic organic chemicals industry,dead,7
+HARYANA,5(f),Synthetic organic chemicals industry,delisted,9
+HARYANA,5(f),Synthetic organic chemicals industry,granted,9
+HARYANA,5(f),Synthetic organic chemicals industry,in_process,6
+HARYANA,5(f),Synthetic organic chemicals industry,tor_granted,16
+HARYANA,5(g),Distilleries,dead,10
+HARYANA,5(g),Distilleries,delisted,3
+HARYANA,5(g),Distilleries,granted,9
+HARYANA,5(g),Distilleries,in_process,1
+HARYANA,5(g),Distilleries,tor_granted,6
+HARYANA,5(ga),Grain based distilleries,dead,1
+HARYANA,5(ga),Grain based distilleries,delisted,1
+HARYANA,5(h),Integrated paint industry,granted,1
+HARYANA,5(h),Integrated paint industry,tor_granted,1
+HARYANA,7(a),Airports,delisted,1
+HARYANA,7(c,,dead,3
+HARYANA,7(c,,granted,1
+HARYANA,7(c,,in_process,2
+HARYANA,7(c,,tor_granted,6
+HARYANA,7(da),Bio-Medical Waste Treatment Facilities,dead,1
+HARYANA,7(da),Bio-Medical Waste Treatment Facilities,delisted,2
+HARYANA,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+HARYANA,7(da),Bio-Medical Waste Treatment Facilities,in_process,4
+HARYANA,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,5
+HARYANA,7(f),Road,in_process,1
+HARYANA,7(h),Common Effluent Treatment Plants (CETPs),dead,2
+HARYANA,7(h),Common Effluent Treatment Plants (CETPs),delisted,5
+HARYANA,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,2
+HARYANA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+HARYANA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+HARYANA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,8
+HARYANA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+HARYANA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,5
+HARYANA,8(a),Building / Construction,dead,17
+HARYANA,8(a),Building / Construction,delisted,68
+HARYANA,8(a),Building / Construction,granted,231
+HARYANA,8(a),Building / Construction,in_process,105
+HARYANA,8(a),Building / Construction,tor_granted,6
+HARYANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,24
+HARYANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,15
+HARYANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,140
+HARYANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,50
+HARYANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,179
+HARYANA,Building,,tor_granted,1
+HARYANA,Common,,dead,1
+HARYANA,UNCLASSIFIED,,delisted,2
+HARYANA,UNCLASSIFIED,,granted,42
+HARYANA,UNCLASSIFIED,,in_process,9
+HARYANA,UNCLASSIFIED,,tor_granted,27
+HIMACHAL PRADESH,1,,granted,1
+HIMACHAL PRADESH,1(a),Mining of minerals,dead,27
+HIMACHAL PRADESH,1(a),Mining of minerals,delisted,42
+HIMACHAL PRADESH,1(a),Mining of minerals,granted,365
+HIMACHAL PRADESH,1(a),Mining of minerals,in_process,67
+HIMACHAL PRADESH,1(a),Mining of minerals,tor_granted,54
+HIMACHAL PRADESH,1(c),River Valley/Irrigation projects,dead,1
+HIMACHAL PRADESH,1(c),River Valley/Irrigation projects,granted,2
+HIMACHAL PRADESH,1(c),River Valley/Irrigation projects,in_process,4
+HIMACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,2
+HIMACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,8
+HIMACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),granted,4
+HIMACHAL PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,3
+HIMACHAL PRADESH,3(b),Cement plants,delisted,1
+HIMACHAL PRADESH,31,,tor_granted,1
+HIMACHAL PRADESH,4(d),Chlor-alkali industry,dead,2
+HIMACHAL PRADESH,5(f),Synthetic organic chemicals industry,delisted,1
+HIMACHAL PRADESH,5(f),Synthetic organic chemicals industry,granted,1
+HIMACHAL PRADESH,5(f),Synthetic organic chemicals industry,tor_granted,2
+HIMACHAL PRADESH,5(g),Distilleries,granted,3
+HIMACHAL PRADESH,5(g),Distilleries,in_process,2
+HIMACHAL PRADESH,5(g),Distilleries,tor_granted,3
+HIMACHAL PRADESH,5(ga),Grain based distilleries,granted,1
+HIMACHAL PRADESH,7(a),Airports,in_process,1
+HIMACHAL PRADESH,7(c,,granted,2
+HIMACHAL PRADESH,7(c,,tor_granted,1
+HIMACHAL PRADESH,7(d,,in_process,1
+HIMACHAL PRADESH,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+HIMACHAL PRADESH,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+HIMACHAL PRADESH,8(a),Building / Construction,dead,1
+HIMACHAL PRADESH,8(a),Building / Construction,delisted,7
+HIMACHAL PRADESH,8(a),Building / Construction,granted,17
+HIMACHAL PRADESH,8(a),Building / Construction,in_process,3
+HIMACHAL PRADESH,8(a),Building / Construction,tor_granted,1
+HIMACHAL PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,2
+HIMACHAL PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+HIMACHAL PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,3
+HIMACHAL PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,3
+HIMACHAL PRADESH,Mining,,granted,2
+HIMACHAL PRADESH,Mining,,tor_granted,1
+HIMACHAL PRADESH,UNCLASSIFIED,,dead,1
+HIMACHAL PRADESH,UNCLASSIFIED,,granted,30
+HIMACHAL PRADESH,UNCLASSIFIED,,in_process,6
+HIMACHAL PRADESH,UNCLASSIFIED,,tor_granted,8
+JAMMU AND KASHMIR,1,,tor_granted,1
+JAMMU AND KASHMIR,1(a),Mining of minerals,dead,22
+JAMMU AND KASHMIR,1(a),Mining of minerals,delisted,97
+JAMMU AND KASHMIR,1(a),Mining of minerals,granted,164
+JAMMU AND KASHMIR,1(a),Mining of minerals,in_process,23
+JAMMU AND KASHMIR,1(a),Mining of minerals,tor_granted,4
+JAMMU AND KASHMIR,1(c),River Valley/Irrigation projects,dead,1
+JAMMU AND KASHMIR,1(c),River Valley/Irrigation projects,granted,3
+JAMMU AND KASHMIR,1(c),River Valley/Irrigation projects,tor_granted,2
+JAMMU AND KASHMIR,3(a),Metallurgical Industries (ferrous and non ferrous),dead,6
+JAMMU AND KASHMIR,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,3
+JAMMU AND KASHMIR,3(a),Metallurgical Industries (ferrous and non ferrous),granted,2
+JAMMU AND KASHMIR,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,3
+JAMMU AND KASHMIR,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,6
+JAMMU AND KASHMIR,3(b),Cement plants,delisted,2
+JAMMU AND KASHMIR,3(b),Cement plants,granted,1
+JAMMU AND KASHMIR,3(b),Cement plants,tor_granted,2
+JAMMU AND KASHMIR,5(d),Manmade fibers manufacturing,dead,1
+JAMMU AND KASHMIR,5(d),Manmade fibers manufacturing,delisted,2
+JAMMU AND KASHMIR,5(d),Manmade fibers manufacturing,granted,1
+JAMMU AND KASHMIR,5(f),Synthetic organic chemicals industry,dead,3
+JAMMU AND KASHMIR,5(f),Synthetic organic chemicals industry,delisted,3
+JAMMU AND KASHMIR,5(f),Synthetic organic chemicals industry,granted,3
+JAMMU AND KASHMIR,5(f),Synthetic organic chemicals industry,in_process,1
+JAMMU AND KASHMIR,5(f),Synthetic organic chemicals industry,tor_granted,2
+JAMMU AND KASHMIR,5(g),Distilleries,delisted,1
+JAMMU AND KASHMIR,5(g),Distilleries,granted,1
+JAMMU AND KASHMIR,7(a),Airports,dead,1
+JAMMU AND KASHMIR,7(a),Airports,granted,1
+JAMMU AND KASHMIR,7(a),Airports,in_process,1
+JAMMU AND KASHMIR,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+JAMMU AND KASHMIR,7(f),Road,delisted,1
+JAMMU AND KASHMIR,7(h),Common Effluent Treatment Plants (CETPs),delisted,8
+JAMMU AND KASHMIR,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,2
+JAMMU AND KASHMIR,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+JAMMU AND KASHMIR,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,3
+JAMMU AND KASHMIR,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,4
+JAMMU AND KASHMIR,8(a),Building / Construction,delisted,1
+JAMMU AND KASHMIR,8(a),Building / Construction,granted,2
+JAMMU AND KASHMIR,8(a),Building / Construction,in_process,3
+JAMMU AND KASHMIR,8(a),Building / Construction,tor_granted,1
+JAMMU AND KASHMIR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+JAMMU AND KASHMIR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,1
+JAMMU AND KASHMIR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,1
+JAMMU AND KASHMIR,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,2
+JAMMU AND KASHMIR,UNCLASSIFIED,,tor_granted,1
+JHARKHAND,1,,granted,11
+JHARKHAND,1,,in_process,1
+JHARKHAND,1,,tor_granted,1
+JHARKHAND,1(a),Mining of minerals,dead,94
+JHARKHAND,1(a),Mining of minerals,delisted,123
+JHARKHAND,1(a),Mining of minerals,granted,1134
+JHARKHAND,1(a),Mining of minerals,in_process,120
+JHARKHAND,1(a),Mining of minerals,tor_granted,200
+JHARKHAND,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,1
+JHARKHAND,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,1
+JHARKHAND,1(d),Thermal Power Plants,dead,2
+JHARKHAND,1(d),Thermal Power Plants,delisted,2
+JHARKHAND,1(d),Thermal Power Plants,granted,4
+JHARKHAND,1(d),Thermal Power Plants,in_process,1
+JHARKHAND,1(d),Thermal Power Plants,tor_granted,1
+JHARKHAND,10,,tor_granted,2
+JHARKHAND,11,,granted,2
+JHARKHAND,2(a),Coal washeries,dead,2
+JHARKHAND,2(a),Coal washeries,delisted,5
+JHARKHAND,2(a),Coal washeries,granted,8
+JHARKHAND,2(a),Coal washeries,in_process,3
+JHARKHAND,2(a),Coal washeries,tor_granted,4
+JHARKHAND,2(b),Mineral beneficiation,granted,1
+JHARKHAND,2(c),Pellet Plant,granted,1
+JHARKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),dead,13
+JHARKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,31
+JHARKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),granted,50
+JHARKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,10
+JHARKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,44
+JHARKHAND,3(b),Cement plants,delisted,2
+JHARKHAND,3(b),Cement plants,granted,2
+JHARKHAND,3(b),Cement plants,in_process,1
+JHARKHAND,3(b),Cement plants,tor_granted,4
+JHARKHAND,4(b),Coke oven plants,in_process,1
+JHARKHAND,4(b),Coke oven plants,tor_granted,2
+JHARKHAND,5(a),Chemical fertilizers,granted,1
+JHARKHAND,5(a),Chemical fertilizers,tor_granted,3
+JHARKHAND,5(e,,dead,1
+JHARKHAND,5(e,,granted,1
+JHARKHAND,5(f),Synthetic organic chemicals industry,dead,1
+JHARKHAND,5(f),Synthetic organic chemicals industry,delisted,1
+JHARKHAND,5(f),Synthetic organic chemicals industry,tor_granted,1
+JHARKHAND,5(g),Distilleries,delisted,2
+JHARKHAND,5(g),Distilleries,granted,3
+JHARKHAND,5(ga),Grain based distilleries,delisted,1
+JHARKHAND,5(ga),Grain based distilleries,granted,2
+JHARKHAND,5(ga),Grain based distilleries,tor_granted,1
+JHARKHAND,7(d,,delisted,3
+JHARKHAND,7(d,,in_process,2
+JHARKHAND,7(da),Bio-Medical Waste Treatment Facilities,granted,2
+JHARKHAND,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+JHARKHAND,7(f),Road,delisted,2
+JHARKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,4
+JHARKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,4
+JHARKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+JHARKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,2
+JHARKHAND,8(a),Building / Construction,dead,3
+JHARKHAND,8(a),Building / Construction,delisted,8
+JHARKHAND,8(a),Building / Construction,granted,72
+JHARKHAND,8(a),Building / Construction,in_process,8
+JHARKHAND,8(a),Building / Construction,tor_granted,2
+JHARKHAND,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,3
+JHARKHAND,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,3
+JHARKHAND,Metallurgical,,granted,1
+JHARKHAND,Metallurgical,,tor_granted,1
+JHARKHAND,UNCLASSIFIED,,granted,81
+JHARKHAND,UNCLASSIFIED,,in_process,20
+JHARKHAND,UNCLASSIFIED,,tor_granted,24
+KARNATAKA,1,,granted,6
+KARNATAKA,1(a),Mining of minerals,dead,75
+KARNATAKA,1(a),Mining of minerals,delisted,715
+KARNATAKA,1(a),Mining of minerals,granted,1506
+KARNATAKA,1(a),Mining of minerals,in_process,376
+KARNATAKA,1(a),Mining of minerals,tor_granted,157
+KARNATAKA,1(c),River Valley/Irrigation projects,dead,1
+KARNATAKA,1(c),River Valley/Irrigation projects,delisted,4
+KARNATAKA,1(c),River Valley/Irrigation projects,granted,2
+KARNATAKA,1(c),River Valley/Irrigation projects,tor_granted,4
+KARNATAKA,1(d),Thermal Power Plants,delisted,2
+KARNATAKA,2(b),Mineral beneficiation,dead,4
+KARNATAKA,2(b),Mineral beneficiation,delisted,11
+KARNATAKA,2(b),Mineral beneficiation,granted,13
+KARNATAKA,2(b),Mineral beneficiation,in_process,2
+KARNATAKA,2(b),Mineral beneficiation,tor_granted,14
+KARNATAKA,25,,granted,1
+KARNATAKA,3(a),Metallurgical Industries (ferrous and non ferrous),dead,16
+KARNATAKA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,16
+KARNATAKA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,43
+KARNATAKA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,10
+KARNATAKA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,25
+KARNATAKA,3(b),Cement plants,dead,5
+KARNATAKA,3(b),Cement plants,delisted,5
+KARNATAKA,3(b),Cement plants,granted,12
+KARNATAKA,3(b),Cement plants,tor_granted,10
+KARNATAKA,39,,granted,3
+KARNATAKA,4(a),Petroleum refining industry,dead,1
+KARNATAKA,4(a),Petroleum refining industry,delisted,1
+KARNATAKA,4(a),Petroleum refining industry,granted,1
+KARNATAKA,4(b),Coke oven plants,dead,2
+KARNATAKA,4(b),Coke oven plants,granted,2
+KARNATAKA,4(d),Chlor-alkali industry,granted,1
+KARNATAKA,40,,granted,1
+KARNATAKA,5(a),Chemical fertilizers,dead,2
+KARNATAKA,5(a),Chemical fertilizers,granted,2
+KARNATAKA,5(a),Chemical fertilizers,in_process,2
+KARNATAKA,5(a),Chemical fertilizers,tor_granted,2
+KARNATAKA,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,2
+KARNATAKA,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,4
+KARNATAKA,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,3
+KARNATAKA,5(d),Manmade fibers manufacturing,granted,1
+KARNATAKA,5(e,,dead,1
+KARNATAKA,5(e,,granted,2
+KARNATAKA,5(e,,tor_granted,1
+KARNATAKA,5(f),Synthetic organic chemicals industry,dead,12
+KARNATAKA,5(f),Synthetic organic chemicals industry,delisted,27
+KARNATAKA,5(f),Synthetic organic chemicals industry,granted,61
+KARNATAKA,5(f),Synthetic organic chemicals industry,in_process,9
+KARNATAKA,5(f),Synthetic organic chemicals industry,tor_granted,48
+KARNATAKA,5(g),Distilleries,dead,28
+KARNATAKA,5(g),Distilleries,delisted,15
+KARNATAKA,5(g),Distilleries,granted,39
+KARNATAKA,5(g),Distilleries,in_process,10
+KARNATAKA,5(g),Distilleries,tor_granted,29
+KARNATAKA,5(h),Integrated paint industry,granted,1
+KARNATAKA,5(i),Pulp & Paper Industry,tor_granted,1
+KARNATAKA,5(j),Sugar Industry,dead,6
+KARNATAKA,5(j),Sugar Industry,delisted,5
+KARNATAKA,5(j),Sugar Industry,granted,15
+KARNATAKA,5(j),Sugar Industry,in_process,3
+KARNATAKA,5(j),Sugar Industry,tor_granted,7
+KARNATAKA,6(a),Pipelines,dead,1
+KARNATAKA,6(a),Pipelines,tor_granted,1
+KARNATAKA,7(a),Airports,delisted,2
+KARNATAKA,7(a),Airports,granted,3
+KARNATAKA,7(a),Airports,in_process,1
+KARNATAKA,7(a),Airports,tor_granted,4
+KARNATAKA,7(c,,dead,6
+KARNATAKA,7(c,,delisted,6
+KARNATAKA,7(c,,granted,21
+KARNATAKA,7(c,,in_process,11
+KARNATAKA,7(c,,tor_granted,39
+KARNATAKA,7(d,,dead,1
+KARNATAKA,7(d,,delisted,3
+KARNATAKA,7(d,,granted,2
+KARNATAKA,7(d,,in_process,2
+KARNATAKA,7(d,,tor_granted,3
+KARNATAKA,7(da),Bio-Medical Waste Treatment Facilities,dead,3
+KARNATAKA,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+KARNATAKA,7(da),Bio-Medical Waste Treatment Facilities,granted,4
+KARNATAKA,7(da),Bio-Medical Waste Treatment Facilities,in_process,2
+KARNATAKA,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,3
+KARNATAKA,7(e),"Ports, harbors, breakwaters, dredging",dead,3
+KARNATAKA,7(e),"Ports, harbors, breakwaters, dredging",delisted,1
+KARNATAKA,7(e),"Ports, harbors, breakwaters, dredging",granted,4
+KARNATAKA,7(e),"Ports, harbors, breakwaters, dredging",in_process,5
+KARNATAKA,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,7
+KARNATAKA,7(f),Road,dead,1
+KARNATAKA,7(f),Road,delisted,1
+KARNATAKA,7(f),Road,granted,2
+KARNATAKA,7(f),Road,tor_granted,2
+KARNATAKA,7(h),Common Effluent Treatment Plants (CETPs),dead,1
+KARNATAKA,7(h),Common Effluent Treatment Plants (CETPs),granted,3
+KARNATAKA,7(h),Common Effluent Treatment Plants (CETPs),in_process,1
+KARNATAKA,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,2
+KARNATAKA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+KARNATAKA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+KARNATAKA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,2
+KARNATAKA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,8
+KARNATAKA,8(a),Building / Construction,dead,51
+KARNATAKA,8(a),Building / Construction,delisted,121
+KARNATAKA,8(a),Building / Construction,granted,746
+KARNATAKA,8(a),Building / Construction,in_process,145
+KARNATAKA,8(a),Building / Construction,tor_granted,24
+KARNATAKA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,12
+KARNATAKA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,35
+KARNATAKA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,145
+KARNATAKA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,43
+KARNATAKA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,176
+KARNATAKA,9,,granted,1
+KARNATAKA,Building,,granted,4
+KARNATAKA,Distilleries,,dead,1
+KARNATAKA,Metallurgical,,in_process,1
+KARNATAKA,Metallurgical,,tor_granted,1
+KARNATAKA,Mining,,granted,10
+KARNATAKA,Mining,,tor_granted,2
+KARNATAKA,Synthetic,,tor_granted,1
+KARNATAKA,Townships/,,granted,1
+KARNATAKA,UNCLASSIFIED,,dead,4
+KARNATAKA,UNCLASSIFIED,,delisted,1
+KARNATAKA,UNCLASSIFIED,,granted,332
+KARNATAKA,UNCLASSIFIED,,in_process,48
+KARNATAKA,UNCLASSIFIED,,tor_granted,58
+KERALA,1,,granted,1
+KERALA,1(a),Mining of minerals,dead,101
+KERALA,1(a),Mining of minerals,delisted,110
+KERALA,1(a),Mining of minerals,granted,278
+KERALA,1(a),Mining of minerals,in_process,648
+KERALA,1(a),Mining of minerals,tor_granted,113
+KERALA,1(c),River Valley/Irrigation projects,dead,1
+KERALA,1(c),River Valley/Irrigation projects,in_process,2
+KERALA,1(c),River Valley/Irrigation projects,tor_granted,1
+KERALA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,8
+KERALA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,4
+KERALA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,9
+KERALA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,3
+KERALA,4(a),Petroleum refining industry,dead,1
+KERALA,5(c),Petro-chemical complexes (industries based on processing of ,granted,1
+KERALA,5(f),Synthetic organic chemicals industry,delisted,1
+KERALA,5(f),Synthetic organic chemicals industry,tor_granted,1
+KERALA,7(a),Airports,delisted,1
+KERALA,7(a),Airports,granted,3
+KERALA,7(a),Airports,in_process,3
+KERALA,7(a),Airports,tor_granted,3
+KERALA,7(c,,granted,1
+KERALA,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+KERALA,7(da),Bio-Medical Waste Treatment Facilities,granted,2
+KERALA,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+KERALA,7(e),"Ports, harbors, breakwaters, dredging",delisted,2
+KERALA,7(e),"Ports, harbors, breakwaters, dredging",granted,3
+KERALA,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,4
+KERALA,7(f),Road,granted,3
+KERALA,7(f),Road,in_process,1
+KERALA,7(f),Road,tor_granted,3
+KERALA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+KERALA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+KERALA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,2
+KERALA,8(a),Building / Construction,dead,7
+KERALA,8(a),Building / Construction,delisted,7
+KERALA,8(a),Building / Construction,granted,54
+KERALA,8(a),Building / Construction,in_process,61
+KERALA,8(a),Building / Construction,tor_granted,1
+KERALA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,1
+KERALA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,1
+KERALA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,7
+KERALA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,7
+KERALA,Mining,,granted,1
+KERALA,Mining,,in_process,1
+KERALA,UNCLASSIFIED,,granted,70
+KERALA,UNCLASSIFIED,,in_process,2
+KERALA,UNCLASSIFIED,,tor_granted,11
+LADAKH,1(a),Mining of minerals,dead,5
+LADAKH,1(a),Mining of minerals,delisted,7
+LADAKH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+LADAKH,8(a),Building / Construction,dead,1
+LADAKH,8(a),Building / Construction,in_process,1
+LAKSHADWEEP,7(a),Airports,tor_granted,9
+LAKSHADWEEP,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,3
+MADHYA PRADESH,1,,dead,1
+MADHYA PRADESH,1,,granted,20
+MADHYA PRADESH,1,,in_process,1
+MADHYA PRADESH,1,,tor_granted,4
+MADHYA PRADESH,1(a),Mining of minerals,dead,170
+MADHYA PRADESH,1(a),Mining of minerals,delisted,2191
+MADHYA PRADESH,1(a),Mining of minerals,granted,2145
+MADHYA PRADESH,1(a),Mining of minerals,in_process,1133
+MADHYA PRADESH,1(a),Mining of minerals,tor_granted,1979
+MADHYA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,1
+MADHYA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,1
+MADHYA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,7
+MADHYA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,2
+MADHYA PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,2
+MADHYA PRADESH,1(c),River Valley/Irrigation projects,dead,2
+MADHYA PRADESH,1(c),River Valley/Irrigation projects,delisted,5
+MADHYA PRADESH,1(c),River Valley/Irrigation projects,granted,20
+MADHYA PRADESH,1(c),River Valley/Irrigation projects,in_process,17
+MADHYA PRADESH,1(c),River Valley/Irrigation projects,tor_granted,38
+MADHYA PRADESH,1(d),Thermal Power Plants,dead,5
+MADHYA PRADESH,1(d),Thermal Power Plants,delisted,2
+MADHYA PRADESH,1(d),Thermal Power Plants,granted,11
+MADHYA PRADESH,1(d),Thermal Power Plants,in_process,4
+MADHYA PRADESH,1(d),Thermal Power Plants,tor_granted,5
+MADHYA PRADESH,2(a),Coal washeries,dead,8
+MADHYA PRADESH,2(a),Coal washeries,delisted,2
+MADHYA PRADESH,2(a),Coal washeries,granted,5
+MADHYA PRADESH,2(a),Coal washeries,in_process,1
+MADHYA PRADESH,2(a),Coal washeries,tor_granted,4
+MADHYA PRADESH,2(b),Mineral beneficiation,dead,3
+MADHYA PRADESH,2(b),Mineral beneficiation,delisted,1
+MADHYA PRADESH,2(b),Mineral beneficiation,granted,6
+MADHYA PRADESH,2(b),Mineral beneficiation,in_process,3
+MADHYA PRADESH,2(b),Mineral beneficiation,tor_granted,4
+MADHYA PRADESH,24,,tor_granted,1
+MADHYA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,3
+MADHYA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,5
+MADHYA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),granted,8
+MADHYA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,10
+MADHYA PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,10
+MADHYA PRADESH,3(b),Cement plants,dead,3
+MADHYA PRADESH,3(b),Cement plants,delisted,3
+MADHYA PRADESH,3(b),Cement plants,granted,12
+MADHYA PRADESH,3(b),Cement plants,in_process,4
+MADHYA PRADESH,3(b),Cement plants,tor_granted,14
+MADHYA PRADESH,39,,tor_granted,1
+MADHYA PRADESH,4(a),Petroleum refining industry,granted,1
+MADHYA PRADESH,4(a),Petroleum refining industry,in_process,1
+MADHYA PRADESH,4(c),Asbestos milling / asbestos-based products,dead,1
+MADHYA PRADESH,4(c),Asbestos milling / asbestos-based products,delisted,1
+MADHYA PRADESH,5,,tor_granted,2
+MADHYA PRADESH,5(a),Chemical fertilizers,dead,1
+MADHYA PRADESH,5(a),Chemical fertilizers,delisted,3
+MADHYA PRADESH,5(a),Chemical fertilizers,granted,3
+MADHYA PRADESH,5(a),Chemical fertilizers,in_process,1
+MADHYA PRADESH,5(a),Chemical fertilizers,tor_granted,6
+MADHYA PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,in_process,1
+MADHYA PRADESH,5(e,,granted,2
+MADHYA PRADESH,5(e,,tor_granted,2
+MADHYA PRADESH,5(f),Synthetic organic chemicals industry,dead,2
+MADHYA PRADESH,5(f),Synthetic organic chemicals industry,delisted,2
+MADHYA PRADESH,5(f),Synthetic organic chemicals industry,granted,14
+MADHYA PRADESH,5(f),Synthetic organic chemicals industry,in_process,9
+MADHYA PRADESH,5(f),Synthetic organic chemicals industry,tor_granted,21
+MADHYA PRADESH,5(g),Distilleries,delisted,6
+MADHYA PRADESH,5(g),Distilleries,granted,15
+MADHYA PRADESH,5(g),Distilleries,in_process,1
+MADHYA PRADESH,5(g),Distilleries,tor_granted,9
+MADHYA PRADESH,5(ga),Grain based distilleries,delisted,3
+MADHYA PRADESH,5(ga),Grain based distilleries,in_process,1
+MADHYA PRADESH,5(ga),Grain based distilleries,tor_granted,3
+MADHYA PRADESH,5(h),Integrated paint industry,in_process,1
+MADHYA PRADESH,5(i),Pulp & Paper Industry,delisted,1
+MADHYA PRADESH,7(a),Airports,dead,1
+MADHYA PRADESH,7(a),Airports,tor_granted,1
+MADHYA PRADESH,7(c,,dead,2
+MADHYA PRADESH,7(c,,delisted,1
+MADHYA PRADESH,7(c,,granted,3
+MADHYA PRADESH,7(c,,tor_granted,4
+MADHYA PRADESH,7(d,,dead,1
+MADHYA PRADESH,7(d,,granted,1
+MADHYA PRADESH,7(d,,tor_granted,1
+MADHYA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,delisted,7
+MADHYA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,granted,4
+MADHYA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,in_process,2
+MADHYA PRADESH,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,11
+MADHYA PRADESH,7(f),Road,dead,2
+MADHYA PRADESH,7(f),Road,delisted,5
+MADHYA PRADESH,7(f),Road,granted,3
+MADHYA PRADESH,7(f),Road,in_process,2
+MADHYA PRADESH,7(f),Road,tor_granted,5
+MADHYA PRADESH,7(h),Common Effluent Treatment Plants (CETPs),granted,1
+MADHYA PRADESH,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,1
+MADHYA PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+MADHYA PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,4
+MADHYA PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,1
+MADHYA PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,7
+MADHYA PRADESH,8(a),Building / Construction,dead,2
+MADHYA PRADESH,8(a),Building / Construction,delisted,15
+MADHYA PRADESH,8(a),Building / Construction,granted,66
+MADHYA PRADESH,8(a),Building / Construction,in_process,46
+MADHYA PRADESH,8(a),Building / Construction,tor_granted,8
+MADHYA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,1
+MADHYA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,2
+MADHYA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,4
+MADHYA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,8
+MADHYA PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,16
+MADHYA PRADESH,Building,,tor_granted,1
+MADHYA PRADESH,Distilleries,,granted,1
+MADHYA PRADESH,Mining,,granted,10
+MADHYA PRADESH,Mining,,tor_granted,8
+MADHYA PRADESH,UNCLASSIFIED,,dead,1
+MADHYA PRADESH,UNCLASSIFIED,,delisted,1
+MADHYA PRADESH,UNCLASSIFIED,,granted,270
+MADHYA PRADESH,UNCLASSIFIED,,in_process,47
+MADHYA PRADESH,UNCLASSIFIED,,tor_granted,138
+MAHARASHTRA,1,,granted,44
+MAHARASHTRA,1(a),Mining of minerals,dead,369
+MAHARASHTRA,1(a),Mining of minerals,delisted,295
+MAHARASHTRA,1(a),Mining of minerals,granted,3190
+MAHARASHTRA,1(a),Mining of minerals,in_process,155
+MAHARASHTRA,1(a),Mining of minerals,tor_granted,81
+MAHARASHTRA,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,2
+MAHARASHTRA,1(c),River Valley/Irrigation projects,dead,9
+MAHARASHTRA,1(c),River Valley/Irrigation projects,delisted,7
+MAHARASHTRA,1(c),River Valley/Irrigation projects,granted,16
+MAHARASHTRA,1(c),River Valley/Irrigation projects,in_process,16
+MAHARASHTRA,1(c),River Valley/Irrigation projects,tor_granted,38
+MAHARASHTRA,1(d),Thermal Power Plants,dead,1
+MAHARASHTRA,1(d),Thermal Power Plants,delisted,5
+MAHARASHTRA,1(d),Thermal Power Plants,granted,8
+MAHARASHTRA,1(d),Thermal Power Plants,in_process,3
+MAHARASHTRA,1(d),Thermal Power Plants,tor_granted,2
+MAHARASHTRA,2(a),Coal washeries,granted,1
+MAHARASHTRA,2(a),Coal washeries,in_process,1
+MAHARASHTRA,2(a),Coal washeries,tor_granted,1
+MAHARASHTRA,2(b),Mineral beneficiation,dead,3
+MAHARASHTRA,2(b),Mineral beneficiation,granted,4
+MAHARASHTRA,2(b),Mineral beneficiation,tor_granted,4
+MAHARASHTRA,25,,granted,1
+MAHARASHTRA,25,,tor_granted,1
+MAHARASHTRA,26,,granted,1
+MAHARASHTRA,3(a),Metallurgical Industries (ferrous and non ferrous),dead,22
+MAHARASHTRA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,29
+MAHARASHTRA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,40
+MAHARASHTRA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,22
+MAHARASHTRA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,74
+MAHARASHTRA,3(b),Cement plants,dead,1
+MAHARASHTRA,3(b),Cement plants,delisted,4
+MAHARASHTRA,3(b),Cement plants,granted,8
+MAHARASHTRA,3(b),Cement plants,in_process,4
+MAHARASHTRA,3(b),Cement plants,tor_granted,13
+MAHARASHTRA,39,,granted,6
+MAHARASHTRA,39,,in_process,1
+MAHARASHTRA,39,,tor_granted,3
+MAHARASHTRA,4(a),Petroleum refining industry,dead,3
+MAHARASHTRA,4(a),Petroleum refining industry,granted,1
+MAHARASHTRA,40,,tor_granted,2
+MAHARASHTRA,5(a),Chemical fertilizers,dead,3
+MAHARASHTRA,5(a),Chemical fertilizers,delisted,6
+MAHARASHTRA,5(a),Chemical fertilizers,granted,14
+MAHARASHTRA,5(a),Chemical fertilizers,in_process,1
+MAHARASHTRA,5(a),Chemical fertilizers,tor_granted,10
+MAHARASHTRA,5(b),Pesticides industry and pesticide specific intermediates (ex,dead,5
+MAHARASHTRA,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,3
+MAHARASHTRA,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,17
+MAHARASHTRA,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,17
+MAHARASHTRA,5(c),Petro-chemical complexes (industries based on processing of ,dead,1
+MAHARASHTRA,5(c),Petro-chemical complexes (industries based on processing of ,delisted,1
+MAHARASHTRA,5(c),Petro-chemical complexes (industries based on processing of ,granted,5
+MAHARASHTRA,5(c),Petro-chemical complexes (industries based on processing of ,tor_granted,4
+MAHARASHTRA,5(d),Manmade fibers manufacturing,dead,2
+MAHARASHTRA,5(d),Manmade fibers manufacturing,delisted,2
+MAHARASHTRA,5(d),Manmade fibers manufacturing,granted,2
+MAHARASHTRA,5(d),Manmade fibers manufacturing,tor_granted,4
+MAHARASHTRA,5(e,,dead,2
+MAHARASHTRA,5(e,,delisted,1
+MAHARASHTRA,5(e,,granted,2
+MAHARASHTRA,5(e,,tor_granted,3
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,dead,71
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,delisted,44
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,granted,156
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,in_process,32
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,tor_granted,233
+MAHARASHTRA,5(g),Distilleries,dead,43
+MAHARASHTRA,5(g),Distilleries,delisted,32
+MAHARASHTRA,5(g),Distilleries,granted,72
+MAHARASHTRA,5(g),Distilleries,in_process,15
+MAHARASHTRA,5(g),Distilleries,tor_granted,64
+MAHARASHTRA,5(ga),Grain based distilleries,dead,1
+MAHARASHTRA,5(ga),Grain based distilleries,delisted,1
+MAHARASHTRA,5(h),Integrated paint industry,delisted,1
+MAHARASHTRA,5(h),Integrated paint industry,tor_granted,1
+MAHARASHTRA,5(i),Pulp & Paper Industry,delisted,1
+MAHARASHTRA,5(j),Sugar Industry,dead,3
+MAHARASHTRA,5(j),Sugar Industry,delisted,4
+MAHARASHTRA,5(j),Sugar Industry,granted,12
+MAHARASHTRA,5(j),Sugar Industry,in_process,2
+MAHARASHTRA,5(j),Sugar Industry,tor_granted,15
+MAHARASHTRA,6(a),Pipelines,granted,1
+MAHARASHTRA,7(a),Airports,dead,1
+MAHARASHTRA,7(a),Airports,granted,1
+MAHARASHTRA,7(a),Airports,tor_granted,1
+MAHARASHTRA,7(c,,delisted,2
+MAHARASHTRA,7(c,,granted,7
+MAHARASHTRA,7(c,,tor_granted,3
+MAHARASHTRA,7(d,,dead,2
+MAHARASHTRA,7(d,,delisted,1
+MAHARASHTRA,7(d,,granted,3
+MAHARASHTRA,7(d,,in_process,1
+MAHARASHTRA,7(d,,tor_granted,1
+MAHARASHTRA,7(da),Bio-Medical Waste Treatment Facilities,dead,3
+MAHARASHTRA,7(da),Bio-Medical Waste Treatment Facilities,delisted,5
+MAHARASHTRA,7(da),Bio-Medical Waste Treatment Facilities,granted,16
+MAHARASHTRA,7(da),Bio-Medical Waste Treatment Facilities,in_process,5
+MAHARASHTRA,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,19
+MAHARASHTRA,7(e),"Ports, harbors, breakwaters, dredging",dead,6
+MAHARASHTRA,7(e),"Ports, harbors, breakwaters, dredging",delisted,8
+MAHARASHTRA,7(e),"Ports, harbors, breakwaters, dredging",granted,16
+MAHARASHTRA,7(e),"Ports, harbors, breakwaters, dredging",in_process,3
+MAHARASHTRA,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,7
+MAHARASHTRA,7(f),Road,dead,6
+MAHARASHTRA,7(f),Road,delisted,7
+MAHARASHTRA,7(f),Road,granted,2
+MAHARASHTRA,7(f),Road,in_process,4
+MAHARASHTRA,7(f),Road,tor_granted,26
+MAHARASHTRA,7(h),Common Effluent Treatment Plants (CETPs),delisted,1
+MAHARASHTRA,7(h),Common Effluent Treatment Plants (CETPs),granted,3
+MAHARASHTRA,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,2
+MAHARASHTRA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+MAHARASHTRA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,2
+MAHARASHTRA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+MAHARASHTRA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,5
+MAHARASHTRA,8(a),Building / Construction,dead,709
+MAHARASHTRA,8(a),Building / Construction,delisted,656
+MAHARASHTRA,8(a),Building / Construction,granted,2669
+MAHARASHTRA,8(a),Building / Construction,in_process,550
+MAHARASHTRA,8(a),Building / Construction,tor_granted,62
+MAHARASHTRA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,99
+MAHARASHTRA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,91
+MAHARASHTRA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,589
+MAHARASHTRA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,161
+MAHARASHTRA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,926
+MAHARASHTRA,Building,,granted,9
+MAHARASHTRA,Building,,tor_granted,3
+MAHARASHTRA,Mining,,granted,23
+MAHARASHTRA,Mining,,in_process,1
+MAHARASHTRA,Synthetic,,tor_granted,1
+MAHARASHTRA,Townships/,,granted,1
+MAHARASHTRA,Townships/,,tor_granted,2
+MAHARASHTRA,UNCLASSIFIED,,dead,4
+MAHARASHTRA,UNCLASSIFIED,,delisted,2
+MAHARASHTRA,UNCLASSIFIED,,granted,1008
+MAHARASHTRA,UNCLASSIFIED,,in_process,181
+MAHARASHTRA,UNCLASSIFIED,,tor_granted,224
+MANIPUR,1(a),Mining of minerals,delisted,2
+MANIPUR,1(a),Mining of minerals,granted,1
+MANIPUR,1(a),Mining of minerals,in_process,1
+MANIPUR,UNCLASSIFIED,,granted,2
+MEGHALAYA,1(a),Mining of minerals,dead,7
+MEGHALAYA,1(a),Mining of minerals,delisted,20
+MEGHALAYA,1(a),Mining of minerals,granted,130
+MEGHALAYA,1(a),Mining of minerals,in_process,50
+MEGHALAYA,1(a),Mining of minerals,tor_granted,46
+MEGHALAYA,1(c),River Valley/Irrigation projects,delisted,1
+MEGHALAYA,1(c),River Valley/Irrigation projects,tor_granted,1
+MEGHALAYA,1(d),Thermal Power Plants,dead,2
+MEGHALAYA,1(d),Thermal Power Plants,granted,2
+MEGHALAYA,3(b),Cement plants,dead,3
+MEGHALAYA,3(b),Cement plants,delisted,1
+MEGHALAYA,3(b),Cement plants,granted,4
+MEGHALAYA,3(b),Cement plants,tor_granted,2
+MEGHALAYA,5(g),Distilleries,granted,1
+MEGHALAYA,7(a),Airports,granted,1
+MEGHALAYA,7(a),Airports,tor_granted,1
+MEGHALAYA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,1
+MEGHALAYA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,1
+MEGHALAYA,8(a),Building / Construction,delisted,1
+MEGHALAYA,UNCLASSIFIED,,delisted,1
+MEGHALAYA,UNCLASSIFIED,,granted,10
+MEGHALAYA,UNCLASSIFIED,,in_process,3
+MEGHALAYA,UNCLASSIFIED,,tor_granted,3
+MIZORAM,1(a),Mining of minerals,dead,1
+MIZORAM,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,1
+MIZORAM,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+MIZORAM,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,1
+MIZORAM,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,5
+MIZORAM,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,1
+NAGALAND,1(a),Mining of minerals,delisted,1
+ODISHA,1,,in_process,1
+ODISHA,1,,tor_granted,1
+ODISHA,1(a),Mining of minerals,dead,623
+ODISHA,1(a),Mining of minerals,delisted,252
+ODISHA,1(a),Mining of minerals,granted,1350
+ODISHA,1(a),Mining of minerals,in_process,231
+ODISHA,1(a),Mining of minerals,tor_granted,95
+ODISHA,1(c),River Valley/Irrigation projects,dead,2
+ODISHA,1(c),River Valley/Irrigation projects,delisted,3
+ODISHA,1(c),River Valley/Irrigation projects,granted,2
+ODISHA,1(c),River Valley/Irrigation projects,in_process,2
+ODISHA,1(c),River Valley/Irrigation projects,tor_granted,9
+ODISHA,1(d),Thermal Power Plants,dead,9
+ODISHA,1(d),Thermal Power Plants,delisted,3
+ODISHA,1(d),Thermal Power Plants,granted,13
+ODISHA,1(d),Thermal Power Plants,in_process,1
+ODISHA,1(d),Thermal Power Plants,tor_granted,11
+ODISHA,2(a),Coal washeries,dead,2
+ODISHA,2(a),Coal washeries,delisted,1
+ODISHA,2(a),Coal washeries,granted,5
+ODISHA,2(a),Coal washeries,in_process,3
+ODISHA,2(a),Coal washeries,tor_granted,2
+ODISHA,2(b),Mineral beneficiation,dead,6
+ODISHA,2(b),Mineral beneficiation,delisted,6
+ODISHA,2(b),Mineral beneficiation,granted,18
+ODISHA,2(b),Mineral beneficiation,in_process,7
+ODISHA,2(b),Mineral beneficiation,tor_granted,23
+ODISHA,2(c),Pellet Plant,dead,2
+ODISHA,2(c),Pellet Plant,delisted,1
+ODISHA,2(c),Pellet Plant,tor_granted,2
+ODISHA,3(a),Metallurgical Industries (ferrous and non ferrous),dead,28
+ODISHA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,44
+ODISHA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,43
+ODISHA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,17
+ODISHA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,31
+ODISHA,3(b),Cement plants,dead,2
+ODISHA,3(b),Cement plants,delisted,2
+ODISHA,3(b),Cement plants,granted,3
+ODISHA,3(b),Cement plants,in_process,3
+ODISHA,3(b),Cement plants,tor_granted,5
+ODISHA,39,,granted,2
+ODISHA,4(b),Coke oven plants,dead,3
+ODISHA,4(b),Coke oven plants,delisted,1
+ODISHA,4(b),Coke oven plants,granted,3
+ODISHA,4(b),Coke oven plants,in_process,1
+ODISHA,4(b),Coke oven plants,tor_granted,4
+ODISHA,5(a),Chemical fertilizers,delisted,2
+ODISHA,5(a),Chemical fertilizers,granted,2
+ODISHA,5(a),Chemical fertilizers,in_process,1
+ODISHA,5(a),Chemical fertilizers,tor_granted,1
+ODISHA,5(b),Pesticides industry and pesticide specific intermediates (ex,in_process,1
+ODISHA,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,1
+ODISHA,5(e,,dead,1
+ODISHA,5(e,,in_process,1
+ODISHA,5(f),Synthetic organic chemicals industry,granted,1
+ODISHA,5(f),Synthetic organic chemicals industry,in_process,1
+ODISHA,5(f),Synthetic organic chemicals industry,tor_granted,2
+ODISHA,5(g),Distilleries,dead,25
+ODISHA,5(g),Distilleries,delisted,23
+ODISHA,5(g),Distilleries,granted,198
+ODISHA,5(g),Distilleries,in_process,29
+ODISHA,5(g),Distilleries,tor_granted,1
+ODISHA,5(ga),Grain based distilleries,dead,1
+ODISHA,5(ga),Grain based distilleries,delisted,1
+ODISHA,5(ga),Grain based distilleries,granted,1
+ODISHA,5(ga),Grain based distilleries,tor_granted,1
+ODISHA,7(a),Airports,in_process,1
+ODISHA,7(a),Airports,tor_granted,1
+ODISHA,7(c,,delisted,1
+ODISHA,7(d,,dead,4
+ODISHA,7(d,,in_process,1
+ODISHA,7(d,,tor_granted,1
+ODISHA,7(da),Bio-Medical Waste Treatment Facilities,dead,3
+ODISHA,7(da),Bio-Medical Waste Treatment Facilities,granted,6
+ODISHA,7(da),Bio-Medical Waste Treatment Facilities,in_process,3
+ODISHA,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,11
+ODISHA,7(e),"Ports, harbors, breakwaters, dredging",dead,3
+ODISHA,7(e),"Ports, harbors, breakwaters, dredging",delisted,2
+ODISHA,7(e),"Ports, harbors, breakwaters, dredging",granted,3
+ODISHA,7(e),"Ports, harbors, breakwaters, dredging",in_process,3
+ODISHA,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,6
+ODISHA,7(f),Road,dead,1
+ODISHA,7(f),Road,delisted,1
+ODISHA,7(f),Road,granted,4
+ODISHA,7(f),Road,tor_granted,7
+ODISHA,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,1
+ODISHA,8(a),Building / Construction,dead,23
+ODISHA,8(a),Building / Construction,delisted,21
+ODISHA,8(a),Building / Construction,granted,119
+ODISHA,8(a),Building / Construction,in_process,48
+ODISHA,8(a),Building / Construction,tor_granted,1
+ODISHA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,4
+ODISHA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,5
+ODISHA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,11
+ODISHA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,5
+ODISHA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,17
+ODISHA,Building,,tor_granted,1
+ODISHA,Coaltar,,granted,1
+ODISHA,Metallurgical,,tor_granted,1
+ODISHA,Mining,,granted,2
+ODISHA,Mining,,in_process,2
+ODISHA,UNCLASSIFIED,,dead,3
+ODISHA,UNCLASSIFIED,,delisted,1
+ODISHA,UNCLASSIFIED,,granted,126
+ODISHA,UNCLASSIFIED,,in_process,68
+ODISHA,UNCLASSIFIED,,tor_granted,36
+PUDUCHERRY,3(a),Metallurgical Industries (ferrous and non ferrous),dead,1
+PUDUCHERRY,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,5
+PUDUCHERRY,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,3
+PUDUCHERRY,4(d),Chlor-alkali industry,delisted,1
+PUDUCHERRY,4(d),Chlor-alkali industry,tor_granted,2
+PUDUCHERRY,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,1
+PUDUCHERRY,5(e,,dead,1
+PUDUCHERRY,5(e,,delisted,1
+PUDUCHERRY,5(e,,granted,1
+PUDUCHERRY,5(e,,tor_granted,3
+PUDUCHERRY,5(f),Synthetic organic chemicals industry,granted,1
+PUDUCHERRY,5(f),Synthetic organic chemicals industry,tor_granted,2
+PUDUCHERRY,5(g),Distilleries,in_process,1
+PUDUCHERRY,5(g),Distilleries,tor_granted,1
+PUDUCHERRY,5(h),Integrated paint industry,tor_granted,1
+PUDUCHERRY,7(d,,granted,1
+PUDUCHERRY,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,1
+PUDUCHERRY,8(a),Building / Construction,dead,1
+PUDUCHERRY,8(a),Building / Construction,granted,3
+PUDUCHERRY,8(a),Building / Construction,in_process,1
+PUDUCHERRY,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,1
+PUDUCHERRY,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,1
+PUDUCHERRY,UNCLASSIFIED,,granted,1
+PUDUCHERRY,UNCLASSIFIED,,tor_granted,1
+PUNJAB,1(a),Mining of minerals,dead,18
+PUNJAB,1(a),Mining of minerals,delisted,20
+PUNJAB,1(a),Mining of minerals,granted,153
+PUNJAB,1(a),Mining of minerals,in_process,39
+PUNJAB,1(a),Mining of minerals,tor_granted,102
+PUNJAB,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,1
+PUNJAB,1(c),River Valley/Irrigation projects,tor_granted,1
+PUNJAB,1(d),Thermal Power Plants,dead,1
+PUNJAB,1(d),Thermal Power Plants,delisted,3
+PUNJAB,1(d),Thermal Power Plants,granted,2
+PUNJAB,1(d),Thermal Power Plants,tor_granted,1
+PUNJAB,3(a),Metallurgical Industries (ferrous and non ferrous),dead,12
+PUNJAB,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,27
+PUNJAB,3(a),Metallurgical Industries (ferrous and non ferrous),granted,55
+PUNJAB,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,7
+PUNJAB,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,40
+PUNJAB,3(b),Cement plants,granted,3
+PUNJAB,3(b),Cement plants,in_process,2
+PUNJAB,3(b),Cement plants,tor_granted,6
+PUNJAB,4(a),Petroleum refining industry,tor_granted,1
+PUNJAB,4(d),Chlor-alkali industry,granted,2
+PUNJAB,4(d),Chlor-alkali industry,tor_granted,1
+PUNJAB,5(a),Chemical fertilizers,granted,1
+PUNJAB,5(a),Chemical fertilizers,tor_granted,1
+PUNJAB,5(b),Pesticides industry and pesticide specific intermediates (ex,dead,2
+PUNJAB,5(b),Pesticides industry and pesticide specific intermediates (ex,delisted,1
+PUNJAB,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,3
+PUNJAB,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,2
+PUNJAB,5(c),Petro-chemical complexes (industries based on processing of ,dead,2
+PUNJAB,5(e,,granted,1
+PUNJAB,5(e,,tor_granted,1
+PUNJAB,5(f),Synthetic organic chemicals industry,dead,7
+PUNJAB,5(f),Synthetic organic chemicals industry,delisted,2
+PUNJAB,5(f),Synthetic organic chemicals industry,granted,23
+PUNJAB,5(f),Synthetic organic chemicals industry,in_process,2
+PUNJAB,5(f),Synthetic organic chemicals industry,tor_granted,21
+PUNJAB,5(g),Distilleries,dead,2
+PUNJAB,5(g),Distilleries,delisted,4
+PUNJAB,5(g),Distilleries,granted,8
+PUNJAB,5(g),Distilleries,tor_granted,1
+PUNJAB,5(ga),Grain based distilleries,dead,2
+PUNJAB,5(ga),Grain based distilleries,granted,1
+PUNJAB,5(ga),Grain based distilleries,in_process,1
+PUNJAB,5(h),Integrated paint industry,in_process,1
+PUNJAB,5(i),Pulp & Paper Industry,delisted,3
+PUNJAB,5(i),Pulp & Paper Industry,granted,1
+PUNJAB,5(i),Pulp & Paper Industry,tor_granted,1
+PUNJAB,7(c,,granted,2
+PUNJAB,7(d,,dead,1
+PUNJAB,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+PUNJAB,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+PUNJAB,7(f),Road,delisted,1
+PUNJAB,7(h),Common Effluent Treatment Plants (CETPs),dead,4
+PUNJAB,7(h),Common Effluent Treatment Plants (CETPs),granted,1
+PUNJAB,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,1
+PUNJAB,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+PUNJAB,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,2
+PUNJAB,8(a),Building / Construction,dead,19
+PUNJAB,8(a),Building / Construction,delisted,41
+PUNJAB,8(a),Building / Construction,granted,235
+PUNJAB,8(a),Building / Construction,in_process,45
+PUNJAB,8(a),Building / Construction,tor_granted,12
+PUNJAB,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,14
+PUNJAB,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,10
+PUNJAB,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,71
+PUNJAB,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,24
+PUNJAB,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,102
+PUNJAB,Building,,tor_granted,2
+PUNJAB,UNCLASSIFIED,,granted,22
+PUNJAB,UNCLASSIFIED,,in_process,19
+PUNJAB,UNCLASSIFIED,,tor_granted,31
+RAJASTHAN,1,,granted,15
+RAJASTHAN,1,,tor_granted,5
+RAJASTHAN,1(a),Mining of minerals,dead,728
+RAJASTHAN,1(a),Mining of minerals,delisted,14847
+RAJASTHAN,1(a),Mining of minerals,granted,14071
+RAJASTHAN,1(a),Mining of minerals,in_process,1697
+RAJASTHAN,1(a),Mining of minerals,tor_granted,2038
+RAJASTHAN,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,3
+RAJASTHAN,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,5
+RAJASTHAN,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,2
+RAJASTHAN,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,3
+RAJASTHAN,1(c),River Valley/Irrigation projects,delisted,3
+RAJASTHAN,1(c),River Valley/Irrigation projects,granted,1
+RAJASTHAN,1(c),River Valley/Irrigation projects,tor_granted,8
+RAJASTHAN,1(d),Thermal Power Plants,delisted,2
+RAJASTHAN,1(d),Thermal Power Plants,granted,2
+RAJASTHAN,1(d),Thermal Power Plants,tor_granted,1
+RAJASTHAN,11,,granted,1
+RAJASTHAN,2(b),Mineral beneficiation,delisted,32
+RAJASTHAN,2(b),Mineral beneficiation,granted,3
+RAJASTHAN,2(b),Mineral beneficiation,tor_granted,3
+RAJASTHAN,3(a),Metallurgical Industries (ferrous and non ferrous),dead,5
+RAJASTHAN,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,10
+RAJASTHAN,3(a),Metallurgical Industries (ferrous and non ferrous),granted,23
+RAJASTHAN,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,5
+RAJASTHAN,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,12
+RAJASTHAN,3(b),Cement plants,dead,6
+RAJASTHAN,3(b),Cement plants,delisted,7
+RAJASTHAN,3(b),Cement plants,granted,24
+RAJASTHAN,3(b),Cement plants,in_process,5
+RAJASTHAN,3(b),Cement plants,tor_granted,19
+RAJASTHAN,39,,granted,2
+RAJASTHAN,4(a),Petroleum refining industry,granted,1
+RAJASTHAN,4(a),Petroleum refining industry,tor_granted,1
+RAJASTHAN,4(c),Asbestos milling / asbestos-based products,dead,2
+RAJASTHAN,4(c),Asbestos milling / asbestos-based products,delisted,2
+RAJASTHAN,4(c),Asbestos milling / asbestos-based products,granted,2
+RAJASTHAN,4(c),Asbestos milling / asbestos-based products,tor_granted,1
+RAJASTHAN,4(d),Chlor-alkali industry,dead,2
+RAJASTHAN,4(d),Chlor-alkali industry,in_process,1
+RAJASTHAN,4(d),Chlor-alkali industry,tor_granted,1
+RAJASTHAN,4(f),Skin/hide processing including the tanning industry,delisted,1
+RAJASTHAN,4(f),Skin/hide processing including the tanning industry,in_process,2
+RAJASTHAN,4(f),Skin/hide processing including the tanning industry,tor_granted,1
+RAJASTHAN,5(a),Chemical fertilizers,dead,4
+RAJASTHAN,5(a),Chemical fertilizers,delisted,3
+RAJASTHAN,5(a),Chemical fertilizers,granted,6
+RAJASTHAN,5(a),Chemical fertilizers,in_process,3
+RAJASTHAN,5(a),Chemical fertilizers,tor_granted,8
+RAJASTHAN,5(b),Pesticides industry and pesticide specific intermediates (ex,dead,2
+RAJASTHAN,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,5
+RAJASTHAN,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,6
+RAJASTHAN,5(f),Synthetic organic chemicals industry,dead,13
+RAJASTHAN,5(f),Synthetic organic chemicals industry,delisted,14
+RAJASTHAN,5(f),Synthetic organic chemicals industry,granted,39
+RAJASTHAN,5(f),Synthetic organic chemicals industry,in_process,8
+RAJASTHAN,5(f),Synthetic organic chemicals industry,tor_granted,53
+RAJASTHAN,5(g),Distilleries,dead,2
+RAJASTHAN,5(g),Distilleries,delisted,2
+RAJASTHAN,5(g),Distilleries,granted,17
+RAJASTHAN,5(g),Distilleries,tor_granted,4
+RAJASTHAN,5(ga),Grain based distilleries,dead,1
+RAJASTHAN,5(ga),Grain based distilleries,delisted,1
+RAJASTHAN,5(j),Sugar Industry,tor_granted,1
+RAJASTHAN,7(a),Airports,dead,1
+RAJASTHAN,7(a),Airports,granted,3
+RAJASTHAN,7(a),Airports,tor_granted,2
+RAJASTHAN,7(c,,dead,14
+RAJASTHAN,7(c,,delisted,8
+RAJASTHAN,7(c,,granted,5
+RAJASTHAN,7(c,,in_process,3
+RAJASTHAN,7(c,,tor_granted,7
+RAJASTHAN,7(d,,dead,2
+RAJASTHAN,7(d,,delisted,1
+RAJASTHAN,7(d,,in_process,2
+RAJASTHAN,7(da),Bio-Medical Waste Treatment Facilities,delisted,1
+RAJASTHAN,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+RAJASTHAN,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,4
+RAJASTHAN,7(f),Road,dead,1
+RAJASTHAN,7(f),Road,delisted,1
+RAJASTHAN,7(f),Road,tor_granted,6
+RAJASTHAN,7(h),Common Effluent Treatment Plants (CETPs),delisted,2
+RAJASTHAN,7(h),Common Effluent Treatment Plants (CETPs),granted,1
+RAJASTHAN,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,1
+RAJASTHAN,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,2
+RAJASTHAN,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,2
+RAJASTHAN,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,3
+RAJASTHAN,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,7
+RAJASTHAN,8(a),Building / Construction,dead,22
+RAJASTHAN,8(a),Building / Construction,delisted,55
+RAJASTHAN,8(a),Building / Construction,granted,202
+RAJASTHAN,8(a),Building / Construction,in_process,78
+RAJASTHAN,8(a),Building / Construction,tor_granted,10
+RAJASTHAN,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,4
+RAJASTHAN,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,9
+RAJASTHAN,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,21
+RAJASTHAN,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,13
+RAJASTHAN,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,36
+RAJASTHAN,Metallurgical,,tor_granted,1
+RAJASTHAN,Mining,,granted,11
+RAJASTHAN,Mining,,in_process,3
+RAJASTHAN,Mining,,tor_granted,5
+RAJASTHAN,Synthetic,,tor_granted,3
+RAJASTHAN,UNCLASSIFIED,,dead,1
+RAJASTHAN,UNCLASSIFIED,,delisted,2
+RAJASTHAN,UNCLASSIFIED,,granted,403
+RAJASTHAN,UNCLASSIFIED,,in_process,20
+RAJASTHAN,UNCLASSIFIED,,tor_granted,253
+SIKKIM,1(c),River Valley/Irrigation projects,dead,2
+SIKKIM,1(c),River Valley/Irrigation projects,granted,4
+SIKKIM,1(c),River Valley/Irrigation projects,tor_granted,3
+SIKKIM,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,1
+SIKKIM,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,1
+SIKKIM,8(a),Building / Construction,dead,1
+SIKKIM,8(a),Building / Construction,delisted,2
+SIKKIM,8(a),Building / Construction,granted,4
+SIKKIM,8(a),Building / Construction,in_process,1
+SIKKIM,UNCLASSIFIED,,delisted,1
+TAMIL NADU,1,,dead,1
+TAMIL NADU,1,,granted,10
+TAMIL NADU,1,,in_process,1
+TAMIL NADU,1(a),Mining of minerals,dead,195
+TAMIL NADU,1(a),Mining of minerals,delisted,260
+TAMIL NADU,1(a),Mining of minerals,granted,2058
+TAMIL NADU,1(a),Mining of minerals,in_process,375
+TAMIL NADU,1(a),Mining of minerals,tor_granted,481
+TAMIL NADU,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,2
+TAMIL NADU,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,1
+TAMIL NADU,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,2
+TAMIL NADU,1(c),River Valley/Irrigation projects,dead,2
+TAMIL NADU,1(c),River Valley/Irrigation projects,delisted,3
+TAMIL NADU,1(c),River Valley/Irrigation projects,granted,4
+TAMIL NADU,1(c),River Valley/Irrigation projects,in_process,4
+TAMIL NADU,1(c),River Valley/Irrigation projects,tor_granted,6
+TAMIL NADU,1(d),Thermal Power Plants,dead,6
+TAMIL NADU,1(d),Thermal Power Plants,delisted,11
+TAMIL NADU,1(d),Thermal Power Plants,granted,14
+TAMIL NADU,1(d),Thermal Power Plants,tor_granted,3
+TAMIL NADU,2(b),Mineral beneficiation,granted,3
+TAMIL NADU,2(b),Mineral beneficiation,in_process,1
+TAMIL NADU,3(a),Metallurgical Industries (ferrous and non ferrous),dead,8
+TAMIL NADU,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,10
+TAMIL NADU,3(a),Metallurgical Industries (ferrous and non ferrous),granted,21
+TAMIL NADU,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,10
+TAMIL NADU,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,22
+TAMIL NADU,3(b),Cement plants,delisted,1
+TAMIL NADU,3(b),Cement plants,granted,4
+TAMIL NADU,3(b),Cement plants,tor_granted,8
+TAMIL NADU,39,,granted,1
+TAMIL NADU,4(a),Petroleum refining industry,dead,1
+TAMIL NADU,4(a),Petroleum refining industry,delisted,1
+TAMIL NADU,4(c),Asbestos milling / asbestos-based products,granted,1
+TAMIL NADU,4(e),Soda ash Industry,dead,1
+TAMIL NADU,40,,tor_granted,1
+TAMIL NADU,5(a),Chemical fertilizers,dead,4
+TAMIL NADU,5(a),Chemical fertilizers,delisted,1
+TAMIL NADU,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,1
+TAMIL NADU,5(e,,dead,1
+TAMIL NADU,5(e,,granted,4
+TAMIL NADU,5(e,,in_process,1
+TAMIL NADU,5(e,,tor_granted,4
+TAMIL NADU,5(f),Synthetic organic chemicals industry,dead,10
+TAMIL NADU,5(f),Synthetic organic chemicals industry,delisted,5
+TAMIL NADU,5(f),Synthetic organic chemicals industry,granted,27
+TAMIL NADU,5(f),Synthetic organic chemicals industry,in_process,8
+TAMIL NADU,5(f),Synthetic organic chemicals industry,tor_granted,28
+TAMIL NADU,5(g),Distilleries,dead,5
+TAMIL NADU,5(g),Distilleries,delisted,1
+TAMIL NADU,5(g),Distilleries,granted,10
+TAMIL NADU,5(g),Distilleries,in_process,1
+TAMIL NADU,5(g),Distilleries,tor_granted,3
+TAMIL NADU,5(ga),Grain based distilleries,delisted,1
+TAMIL NADU,5(ga),Grain based distilleries,granted,1
+TAMIL NADU,5(h),Integrated paint industry,granted,1
+TAMIL NADU,5(h),Integrated paint industry,in_process,1
+TAMIL NADU,5(h),Integrated paint industry,tor_granted,1
+TAMIL NADU,5(i),Pulp & Paper Industry,dead,2
+TAMIL NADU,5(i),Pulp & Paper Industry,delisted,2
+TAMIL NADU,5(i),Pulp & Paper Industry,granted,1
+TAMIL NADU,6(a),Pipelines,dead,2
+TAMIL NADU,6(a),Pipelines,granted,1
+TAMIL NADU,7(a),Airports,dead,1
+TAMIL NADU,7(a),Airports,granted,1
+TAMIL NADU,7(a),Airports,in_process,1
+TAMIL NADU,7(a),Airports,tor_granted,1
+TAMIL NADU,7(b),Ship breaking yards including ship breaking units,in_process,1
+TAMIL NADU,7(c,,dead,1
+TAMIL NADU,7(c,,delisted,1
+TAMIL NADU,7(c,,granted,3
+TAMIL NADU,7(c,,in_process,2
+TAMIL NADU,7(c,,tor_granted,3
+TAMIL NADU,7(d,,delisted,2
+TAMIL NADU,7(d,,granted,2
+TAMIL NADU,7(d,,tor_granted,1
+TAMIL NADU,7(da),Bio-Medical Waste Treatment Facilities,granted,4
+TAMIL NADU,7(da),Bio-Medical Waste Treatment Facilities,in_process,2
+TAMIL NADU,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,7
+TAMIL NADU,7(e),"Ports, harbors, breakwaters, dredging",dead,8
+TAMIL NADU,7(e),"Ports, harbors, breakwaters, dredging",delisted,2
+TAMIL NADU,7(e),"Ports, harbors, breakwaters, dredging",granted,13
+TAMIL NADU,7(e),"Ports, harbors, breakwaters, dredging",in_process,3
+TAMIL NADU,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,9
+TAMIL NADU,7(f),Road,granted,2
+TAMIL NADU,8(a),Building / Construction,dead,39
+TAMIL NADU,8(a),Building / Construction,delisted,76
+TAMIL NADU,8(a),Building / Construction,granted,480
+TAMIL NADU,8(a),Building / Construction,in_process,138
+TAMIL NADU,8(a),Building / Construction,tor_granted,2
+TAMIL NADU,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,14
+TAMIL NADU,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,17
+TAMIL NADU,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,105
+TAMIL NADU,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,36
+TAMIL NADU,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,105
+TAMIL NADU,Mining,,granted,9
+TAMIL NADU,Mining,,tor_granted,2
+TAMIL NADU,Road,,tor_granted,1
+TAMIL NADU,Synthetic,,granted,1
+TAMIL NADU,UNCLASSIFIED,,dead,2
+TAMIL NADU,UNCLASSIFIED,,delisted,3
+TAMIL NADU,UNCLASSIFIED,,granted,266
+TAMIL NADU,UNCLASSIFIED,,in_process,30
+TAMIL NADU,UNCLASSIFIED,,tor_granted,93
+TELANGANA,1,,granted,3
+TELANGANA,1,,tor_granted,1
+TELANGANA,1(a),Mining of minerals,dead,66
+TELANGANA,1(a),Mining of minerals,delisted,195
+TELANGANA,1(a),Mining of minerals,granted,970
+TELANGANA,1(a),Mining of minerals,in_process,129
+TELANGANA,1(a),Mining of minerals,tor_granted,104
+TELANGANA,1(c),River Valley/Irrigation projects,delisted,3
+TELANGANA,1(c),River Valley/Irrigation projects,granted,1
+TELANGANA,1(c),River Valley/Irrigation projects,tor_granted,2
+TELANGANA,1(d),Thermal Power Plants,dead,1
+TELANGANA,1(d),Thermal Power Plants,delisted,2
+TELANGANA,1(d),Thermal Power Plants,granted,2
+TELANGANA,1(d),Thermal Power Plants,tor_granted,1
+TELANGANA,3(a),Metallurgical Industries (ferrous and non ferrous),dead,7
+TELANGANA,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,5
+TELANGANA,3(a),Metallurgical Industries (ferrous and non ferrous),granted,22
+TELANGANA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,2
+TELANGANA,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,20
+TELANGANA,3(b),Cement plants,dead,3
+TELANGANA,3(b),Cement plants,delisted,1
+TELANGANA,3(b),Cement plants,granted,4
+TELANGANA,3(b),Cement plants,in_process,1
+TELANGANA,3(b),Cement plants,tor_granted,2
+TELANGANA,39,,granted,1
+TELANGANA,40,,granted,2
+TELANGANA,40,,tor_granted,1
+TELANGANA,5(d),Manmade fibers manufacturing,dead,2
+TELANGANA,5(d),Manmade fibers manufacturing,granted,1
+TELANGANA,5(d),Manmade fibers manufacturing,in_process,1
+TELANGANA,5(f),Synthetic organic chemicals industry,dead,17
+TELANGANA,5(f),Synthetic organic chemicals industry,delisted,13
+TELANGANA,5(f),Synthetic organic chemicals industry,granted,62
+TELANGANA,5(f),Synthetic organic chemicals industry,in_process,11
+TELANGANA,5(f),Synthetic organic chemicals industry,tor_granted,25
+TELANGANA,5(g),Distilleries,delisted,4
+TELANGANA,5(g),Distilleries,granted,8
+TELANGANA,5(g),Distilleries,in_process,2
+TELANGANA,5(g),Distilleries,tor_granted,4
+TELANGANA,5(ga),Grain based distilleries,granted,1
+TELANGANA,5(i),Pulp & Paper Industry,granted,1
+TELANGANA,7(a),Airports,granted,1
+TELANGANA,7(c,,dead,1
+TELANGANA,7(c,,delisted,1
+TELANGANA,7(c,,granted,1
+TELANGANA,7(c,,tor_granted,3
+TELANGANA,7(da),Bio-Medical Waste Treatment Facilities,delisted,2
+TELANGANA,7(da),Bio-Medical Waste Treatment Facilities,granted,1
+TELANGANA,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,8
+TELANGANA,7(f),Road,dead,1
+TELANGANA,7(f),Road,delisted,1
+TELANGANA,7(f),Road,granted,3
+TELANGANA,7(f),Road,tor_granted,3
+TELANGANA,8(a),Building / Construction,dead,53
+TELANGANA,8(a),Building / Construction,delisted,97
+TELANGANA,8(a),Building / Construction,granted,616
+TELANGANA,8(a),Building / Construction,in_process,97
+TELANGANA,8(a),Building / Construction,tor_granted,6
+TELANGANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,15
+TELANGANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,45
+TELANGANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,220
+TELANGANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,30
+TELANGANA,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,278
+TELANGANA,Building,,granted,2
+TELANGANA,Mining,,granted,1
+TELANGANA,Townships/,,granted,2
+TELANGANA,UNCLASSIFIED,,delisted,1
+TELANGANA,UNCLASSIFIED,,granted,190
+TELANGANA,UNCLASSIFIED,,in_process,103
+TELANGANA,UNCLASSIFIED,,tor_granted,87
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,1(a),Mining of minerals,delisted,6
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,1(a),Mining of minerals,in_process,2
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,3(a),Metallurgical Industries (ferrous and non ferrous),dead,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,3(a),Metallurgical Industries (ferrous and non ferrous),granted,2
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,5(d),Manmade fibers manufacturing,delisted,2
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,5(d),Manmade fibers manufacturing,granted,3
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,5(d),Manmade fibers manufacturing,in_process,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,5(f),Synthetic organic chemicals industry,tor_granted,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,6(a),Pipelines,delisted,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,6(a),Pipelines,tor_granted,1
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8(a),Building / Construction,dead,8
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8(a),Building / Construction,delisted,3
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8(a),Building / Construction,granted,27
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8(a),Building / Construction,in_process,7
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,UNCLASSIFIED,,tor_granted,1
+TRIPURA,1(a),Mining of minerals,dead,6
+TRIPURA,1(a),Mining of minerals,in_process,94
+TRIPURA,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,6
+TRIPURA,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,4
+TRIPURA,1(b),"Off-shore and onshore oil and gas exploration,  development ",in_process,20
+TRIPURA,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,2
+TRIPURA,1(d),Thermal Power Plants,granted,1
+TRIPURA,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,4
+TRIPURA,8(a),Building / Construction,in_process,4
+TRIPURA,UNCLASSIFIED,,granted,19
+TRIPURA,UNCLASSIFIED,,tor_granted,1
+UTTAR PRADESH,1,,granted,3
+UTTAR PRADESH,1,,tor_granted,2
+UTTAR PRADESH,1(a),Mining of minerals,dead,40
+UTTAR PRADESH,1(a),Mining of minerals,delisted,222
+UTTAR PRADESH,1(a),Mining of minerals,granted,1428
+UTTAR PRADESH,1(a),Mining of minerals,in_process,369
+UTTAR PRADESH,1(a),Mining of minerals,tor_granted,808
+UTTAR PRADESH,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,1
+UTTAR PRADESH,1(c),River Valley/Irrigation projects,dead,6
+UTTAR PRADESH,1(c),River Valley/Irrigation projects,delisted,5
+UTTAR PRADESH,1(c),River Valley/Irrigation projects,in_process,6
+UTTAR PRADESH,1(c),River Valley/Irrigation projects,tor_granted,20
+UTTAR PRADESH,1(d),Thermal Power Plants,dead,5
+UTTAR PRADESH,1(d),Thermal Power Plants,delisted,9
+UTTAR PRADESH,1(d),Thermal Power Plants,granted,6
+UTTAR PRADESH,1(d),Thermal Power Plants,in_process,3
+UTTAR PRADESH,1(d),Thermal Power Plants,tor_granted,3
+UTTAR PRADESH,10,,tor_granted,2
+UTTAR PRADESH,28,,tor_granted,1
+UTTAR PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),dead,1
+UTTAR PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,7
+UTTAR PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),granted,21
+UTTAR PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,5
+UTTAR PRADESH,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,11
+UTTAR PRADESH,3(b),Cement plants,delisted,4
+UTTAR PRADESH,3(b),Cement plants,granted,14
+UTTAR PRADESH,3(b),Cement plants,in_process,4
+UTTAR PRADESH,3(b),Cement plants,tor_granted,11
+UTTAR PRADESH,39,,granted,4
+UTTAR PRADESH,4(d),Chlor-alkali industry,granted,1
+UTTAR PRADESH,4(d),Chlor-alkali industry,tor_granted,1
+UTTAR PRADESH,4(e),Soda ash Industry,tor_granted,1
+UTTAR PRADESH,4(f),Skin/hide processing including the tanning industry,delisted,2
+UTTAR PRADESH,5(a),Chemical fertilizers,dead,1
+UTTAR PRADESH,5(a),Chemical fertilizers,granted,4
+UTTAR PRADESH,5(a),Chemical fertilizers,in_process,1
+UTTAR PRADESH,5(a),Chemical fertilizers,tor_granted,3
+UTTAR PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,1
+UTTAR PRADESH,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,1
+UTTAR PRADESH,5(d),Manmade fibers manufacturing,delisted,1
+UTTAR PRADESH,5(f),Synthetic organic chemicals industry,dead,5
+UTTAR PRADESH,5(f),Synthetic organic chemicals industry,delisted,2
+UTTAR PRADESH,5(f),Synthetic organic chemicals industry,granted,13
+UTTAR PRADESH,5(f),Synthetic organic chemicals industry,in_process,1
+UTTAR PRADESH,5(f),Synthetic organic chemicals industry,tor_granted,14
+UTTAR PRADESH,5(g),Distilleries,dead,3
+UTTAR PRADESH,5(g),Distilleries,delisted,10
+UTTAR PRADESH,5(g),Distilleries,granted,43
+UTTAR PRADESH,5(g),Distilleries,in_process,10
+UTTAR PRADESH,5(g),Distilleries,tor_granted,28
+UTTAR PRADESH,5(ga),Grain based distilleries,dead,1
+UTTAR PRADESH,5(ga),Grain based distilleries,delisted,1
+UTTAR PRADESH,5(ga),Grain based distilleries,in_process,3
+UTTAR PRADESH,5(ga),Grain based distilleries,tor_granted,2
+UTTAR PRADESH,5(h),Integrated paint industry,dead,1
+UTTAR PRADESH,5(h),Integrated paint industry,granted,1
+UTTAR PRADESH,5(i),Pulp & Paper Industry,dead,1
+UTTAR PRADESH,5(i),Pulp & Paper Industry,delisted,1
+UTTAR PRADESH,5(i),Pulp & Paper Industry,granted,2
+UTTAR PRADESH,5(i),Pulp & Paper Industry,in_process,1
+UTTAR PRADESH,5(i),Pulp & Paper Industry,tor_granted,2
+UTTAR PRADESH,5(j),Sugar Industry,delisted,1
+UTTAR PRADESH,5(j),Sugar Industry,granted,21
+UTTAR PRADESH,5(j),Sugar Industry,in_process,3
+UTTAR PRADESH,5(j),Sugar Industry,tor_granted,19
+UTTAR PRADESH,6(a),Pipelines,dead,1
+UTTAR PRADESH,6(a),Pipelines,tor_granted,1
+UTTAR PRADESH,7(a),Airports,dead,2
+UTTAR PRADESH,7(a),Airports,delisted,1
+UTTAR PRADESH,7(a),Airports,granted,5
+UTTAR PRADESH,7(a),Airports,tor_granted,5
+UTTAR PRADESH,7(c,,dead,2
+UTTAR PRADESH,7(c,,delisted,1
+UTTAR PRADESH,7(c,,granted,7
+UTTAR PRADESH,7(c,,in_process,4
+UTTAR PRADESH,7(c,,tor_granted,16
+UTTAR PRADESH,7(d,,dead,3
+UTTAR PRADESH,7(d,,delisted,2
+UTTAR PRADESH,7(d,,granted,3
+UTTAR PRADESH,7(d,,in_process,1
+UTTAR PRADESH,7(d,,tor_granted,2
+UTTAR PRADESH,7(da),Bio-Medical Waste Treatment Facilities,dead,1
+UTTAR PRADESH,7(da),Bio-Medical Waste Treatment Facilities,delisted,8
+UTTAR PRADESH,7(da),Bio-Medical Waste Treatment Facilities,granted,7
+UTTAR PRADESH,7(da),Bio-Medical Waste Treatment Facilities,in_process,5
+UTTAR PRADESH,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,4
+UTTAR PRADESH,7(f),Road,dead,4
+UTTAR PRADESH,7(f),Road,delisted,3
+UTTAR PRADESH,7(f),Road,granted,3
+UTTAR PRADESH,7(f),Road,in_process,8
+UTTAR PRADESH,7(f),Road,tor_granted,15
+UTTAR PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,1
+UTTAR PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),in_process,2
+UTTAR PRADESH,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,3
+UTTAR PRADESH,8(a),Building / Construction,dead,36
+UTTAR PRADESH,8(a),Building / Construction,delisted,56
+UTTAR PRADESH,8(a),Building / Construction,granted,344
+UTTAR PRADESH,8(a),Building / Construction,in_process,120
+UTTAR PRADESH,8(a),Building / Construction,tor_granted,3
+UTTAR PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,17
+UTTAR PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,14
+UTTAR PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,116
+UTTAR PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,27
+UTTAR PRADESH,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,124
+UTTAR PRADESH,Bio-Medical,,granted,1
+UTTAR PRADESH,Building,,granted,1
+UTTAR PRADESH,Distilleries,,granted,1
+UTTAR PRADESH,Mining,,granted,8
+UTTAR PRADESH,Mining,,tor_granted,3
+UTTAR PRADESH,Pulp,,tor_granted,1
+UTTAR PRADESH,UNCLASSIFIED,,dead,2
+UTTAR PRADESH,UNCLASSIFIED,,delisted,1
+UTTAR PRADESH,UNCLASSIFIED,,granted,214
+UTTAR PRADESH,UNCLASSIFIED,,in_process,49
+UTTAR PRADESH,UNCLASSIFIED,,tor_granted,136
+UTTARAKHAND,1,,granted,3
+UTTARAKHAND,1,,tor_granted,2
+UTTARAKHAND,1(a),Mining of minerals,dead,37
+UTTARAKHAND,1(a),Mining of minerals,delisted,38
+UTTARAKHAND,1(a),Mining of minerals,granted,322
+UTTARAKHAND,1(a),Mining of minerals,in_process,8
+UTTARAKHAND,1(a),Mining of minerals,tor_granted,92
+UTTARAKHAND,1(c),River Valley/Irrigation projects,delisted,1
+UTTARAKHAND,1(c),River Valley/Irrigation projects,granted,1
+UTTARAKHAND,1(c),River Valley/Irrigation projects,in_process,1
+UTTARAKHAND,1(c),River Valley/Irrigation projects,tor_granted,2
+UTTARAKHAND,1(d),Thermal Power Plants,in_process,2
+UTTARAKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),granted,12
+UTTARAKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,2
+UTTARAKHAND,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,5
+UTTARAKHAND,3(b),Cement plants,granted,1
+UTTARAKHAND,3(b),Cement plants,tor_granted,1
+UTTARAKHAND,39,,granted,1
+UTTARAKHAND,4(b),Coke oven plants,granted,2
+UTTARAKHAND,5(f),Synthetic organic chemicals industry,dead,2
+UTTARAKHAND,5(f),Synthetic organic chemicals industry,delisted,1
+UTTARAKHAND,5(f),Synthetic organic chemicals industry,granted,54
+UTTARAKHAND,5(f),Synthetic organic chemicals industry,in_process,2
+UTTARAKHAND,5(f),Synthetic organic chemicals industry,tor_granted,4
+UTTARAKHAND,5(g),Distilleries,dead,1
+UTTARAKHAND,5(g),Distilleries,delisted,1
+UTTARAKHAND,5(g),Distilleries,granted,5
+UTTARAKHAND,5(g),Distilleries,tor_granted,5
+UTTARAKHAND,5(ga),Grain based distilleries,dead,1
+UTTARAKHAND,5(ga),Grain based distilleries,granted,1
+UTTARAKHAND,5(i),Pulp & Paper Industry,delisted,1
+UTTARAKHAND,5(i),Pulp & Paper Industry,tor_granted,1
+UTTARAKHAND,5(j),Sugar Industry,granted,1
+UTTARAKHAND,5(j),Sugar Industry,tor_granted,1
+UTTARAKHAND,6,,granted,1
+UTTARAKHAND,7(a),Airports,in_process,1
+UTTARAKHAND,7(a),Airports,tor_granted,1
+UTTARAKHAND,7(c,,dead,1
+UTTARAKHAND,7(c,,delisted,3
+UTTARAKHAND,7(c,,granted,18
+UTTARAKHAND,7(d,,dead,1
+UTTARAKHAND,7(d,,delisted,1
+UTTARAKHAND,7(d,,tor_granted,1
+UTTARAKHAND,7(da),Bio-Medical Waste Treatment Facilities,granted,2
+UTTARAKHAND,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,3
+UTTARAKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),dead,2
+UTTARAKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),delisted,3
+UTTARAKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),granted,2
+UTTARAKHAND,7(i),Common Municipal Solid Waste Management Facility (CMSWMF),tor_granted,10
+UTTARAKHAND,8(a),Building / Construction,dead,9
+UTTARAKHAND,8(a),Building / Construction,delisted,4
+UTTARAKHAND,8(a),Building / Construction,granted,110
+UTTARAKHAND,8(a),Building / Construction,in_process,7
+UTTARAKHAND,8(a),Building / Construction,tor_granted,6
+UTTARAKHAND,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,1
+UTTARAKHAND,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,1
+UTTARAKHAND,UNCLASSIFIED,,granted,23
+UTTARAKHAND,UNCLASSIFIED,,in_process,9
+UTTARAKHAND,UNCLASSIFIED,,tor_granted,20
+WEST BENGAL,1(a),Mining of minerals,dead,80
+WEST BENGAL,1(a),Mining of minerals,delisted,137
+WEST BENGAL,1(a),Mining of minerals,granted,368
+WEST BENGAL,1(a),Mining of minerals,in_process,130
+WEST BENGAL,1(a),Mining of minerals,tor_granted,326
+WEST BENGAL,1(b),"Off-shore and onshore oil and gas exploration,  development ",dead,4
+WEST BENGAL,1(b),"Off-shore and onshore oil and gas exploration,  development ",delisted,1
+WEST BENGAL,1(b),"Off-shore and onshore oil and gas exploration,  development ",granted,7
+WEST BENGAL,1(b),"Off-shore and onshore oil and gas exploration,  development ",tor_granted,1
+WEST BENGAL,1(c),River Valley/Irrigation projects,tor_granted,1
+WEST BENGAL,1(d),Thermal Power Plants,delisted,2
+WEST BENGAL,1(d),Thermal Power Plants,granted,4
+WEST BENGAL,1(d),Thermal Power Plants,in_process,2
+WEST BENGAL,1(d),Thermal Power Plants,tor_granted,3
+WEST BENGAL,10,,granted,1
+WEST BENGAL,2(a),Coal washeries,tor_granted,1
+WEST BENGAL,3(a),Metallurgical Industries (ferrous and non ferrous),dead,49
+WEST BENGAL,3(a),Metallurgical Industries (ferrous and non ferrous),delisted,38
+WEST BENGAL,3(a),Metallurgical Industries (ferrous and non ferrous),granted,77
+WEST BENGAL,3(a),Metallurgical Industries (ferrous and non ferrous),in_process,26
+WEST BENGAL,3(a),Metallurgical Industries (ferrous and non ferrous),tor_granted,66
+WEST BENGAL,3(b),Cement plants,delisted,1
+WEST BENGAL,3(b),Cement plants,granted,5
+WEST BENGAL,3(b),Cement plants,tor_granted,1
+WEST BENGAL,4(a),Petroleum refining industry,dead,3
+WEST BENGAL,4(a),Petroleum refining industry,delisted,1
+WEST BENGAL,4(a),Petroleum refining industry,in_process,1
+WEST BENGAL,4(b),Coke oven plants,dead,1
+WEST BENGAL,4(b),Coke oven plants,delisted,1
+WEST BENGAL,4(b),Coke oven plants,granted,3
+WEST BENGAL,4(b),Coke oven plants,tor_granted,2
+WEST BENGAL,40,,dead,1
+WEST BENGAL,5(a),Chemical fertilizers,dead,1
+WEST BENGAL,5(a),Chemical fertilizers,granted,1
+WEST BENGAL,5(a),Chemical fertilizers,in_process,1
+WEST BENGAL,5(a),Chemical fertilizers,tor_granted,1
+WEST BENGAL,5(b),Pesticides industry and pesticide specific intermediates (ex,granted,2
+WEST BENGAL,5(b),Pesticides industry and pesticide specific intermediates (ex,tor_granted,1
+WEST BENGAL,5(c),Petro-chemical complexes (industries based on processing of ,dead,1
+WEST BENGAL,5(c),Petro-chemical complexes (industries based on processing of ,delisted,1
+WEST BENGAL,5(c),Petro-chemical complexes (industries based on processing of ,granted,4
+WEST BENGAL,5(c),Petro-chemical complexes (industries based on processing of ,in_process,2
+WEST BENGAL,5(e,,dead,1
+WEST BENGAL,5(e,,delisted,1
+WEST BENGAL,5(e,,granted,3
+WEST BENGAL,5(e,,tor_granted,1
+WEST BENGAL,5(f),Synthetic organic chemicals industry,dead,4
+WEST BENGAL,5(f),Synthetic organic chemicals industry,granted,12
+WEST BENGAL,5(f),Synthetic organic chemicals industry,in_process,4
+WEST BENGAL,5(f),Synthetic organic chemicals industry,tor_granted,20
+WEST BENGAL,5(g),Distilleries,dead,4
+WEST BENGAL,5(g),Distilleries,delisted,3
+WEST BENGAL,5(g),Distilleries,granted,7
+WEST BENGAL,5(g),Distilleries,tor_granted,4
+WEST BENGAL,5(ga),Grain based distilleries,granted,1
+WEST BENGAL,5(h),Integrated paint industry,granted,1
+WEST BENGAL,5(h),Integrated paint industry,tor_granted,1
+WEST BENGAL,5(i),Pulp & Paper Industry,dead,1
+WEST BENGAL,5(i),Pulp & Paper Industry,delisted,2
+WEST BENGAL,5(i),Pulp & Paper Industry,granted,4
+WEST BENGAL,7(a),Airports,granted,1
+WEST BENGAL,7(a),Airports,tor_granted,1
+WEST BENGAL,7(c,,dead,1
+WEST BENGAL,7(c,,granted,1
+WEST BENGAL,7(da),Bio-Medical Waste Treatment Facilities,granted,7
+WEST BENGAL,7(da),Bio-Medical Waste Treatment Facilities,in_process,1
+WEST BENGAL,7(da),Bio-Medical Waste Treatment Facilities,tor_granted,1
+WEST BENGAL,7(e),"Ports, harbors, breakwaters, dredging",dead,2
+WEST BENGAL,7(e),"Ports, harbors, breakwaters, dredging",granted,1
+WEST BENGAL,7(e),"Ports, harbors, breakwaters, dredging",in_process,2
+WEST BENGAL,7(e),"Ports, harbors, breakwaters, dredging",tor_granted,4
+WEST BENGAL,7(f),Road,dead,2
+WEST BENGAL,7(f),Road,granted,1
+WEST BENGAL,7(f),Road,in_process,1
+WEST BENGAL,7(f),Road,tor_granted,3
+WEST BENGAL,7(h),Common Effluent Treatment Plants (CETPs),tor_granted,1
+WEST BENGAL,8(a),Building / Construction,dead,15
+WEST BENGAL,8(a),Building / Construction,delisted,13
+WEST BENGAL,8(a),Building / Construction,granted,107
+WEST BENGAL,8(a),Building / Construction,in_process,17
+WEST BENGAL,8(a),Building / Construction,tor_granted,11
+WEST BENGAL,8(b),Townships/ Area Development Projects / Rehabilitation Centre,dead,2
+WEST BENGAL,8(b),Townships/ Area Development Projects / Rehabilitation Centre,delisted,5
+WEST BENGAL,8(b),Townships/ Area Development Projects / Rehabilitation Centre,granted,22
+WEST BENGAL,8(b),Townships/ Area Development Projects / Rehabilitation Centre,in_process,6
+WEST BENGAL,8(b),Townships/ Area Development Projects / Rehabilitation Centre,tor_granted,22
+WEST BENGAL,Building,,granted,1
+WEST BENGAL,Metallurgical,,granted,1
+WEST BENGAL,Mining,,granted,1
+WEST BENGAL,UNCLASSIFIED,,dead,2
+WEST BENGAL,UNCLASSIFIED,,granted,61
+WEST BENGAL,UNCLASSIFIED,,in_process,52
+WEST BENGAL,UNCLASSIFIED,,tor_granted,20

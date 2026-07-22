@@ -1,0 +1,878 @@
+{
+ "built": "2026-07-22",
+ "n_subsectors": 22,
+ "subsector_analysis": [
+  {
+   "activity": "1(a)",
+   "label": "Mining of minerals",
+   "total": 78867,
+   "granted": 36746,
+   "tor_granted": 8706,
+   "in_process": 7101,
+   "dead": 4242,
+   "delisted": 22072,
+   "grant_rate_pct": 69.9,
+   "top_states": [
+    {
+     "state": "Rajasthan",
+     "granted": 14071,
+     "share_pct": 38.3
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 3190,
+     "share_pct": 8.7
+    },
+    {
+     "state": "Gujarat",
+     "granted": 2284,
+     "share_pct": 6.2
+    },
+    {
+     "state": "Madhya Pradesh",
+     "granted": 2145,
+     "share_pct": 5.8
+    }
+   ]
+  },
+  {
+   "activity": "8(a)",
+   "label": "Building / Construction",
+   "total": 12598,
+   "granted": 8093,
+   "tor_granted": 165,
+   "in_process": 1778,
+   "dead": 1152,
+   "delisted": 1410,
+   "grant_rate_pct": 80.6,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "granted": 2669,
+     "share_pct": 33.0
+    },
+    {
+     "state": "Gujarat",
+     "granted": 1632,
+     "share_pct": 20.2
+    },
+    {
+     "state": "Karnataka",
+     "granted": 746,
+     "share_pct": 9.2
+    },
+    {
+     "state": "Telangana",
+     "granted": 616,
+     "share_pct": 7.6
+    }
+   ]
+  },
+  {
+   "activity": "8(b)",
+   "label": "Townships/ Area Development Projects / Rehabilitation Centre",
+   "total": 4572,
+   "granted": 1548,
+   "tor_granted": 2103,
+   "in_process": 440,
+   "dead": 218,
+   "delisted": 263,
+   "grant_rate_pct": 37.8,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "granted": 589,
+     "share_pct": 38.0
+    },
+    {
+     "state": "Telangana",
+     "granted": 220,
+     "share_pct": 14.2
+    },
+    {
+     "state": "Karnataka",
+     "granted": 145,
+     "share_pct": 9.4
+    },
+    {
+     "state": "Haryana",
+     "granted": 140,
+     "share_pct": 9.0
+    }
+   ]
+  },
+  {
+   "activity": "5(f)",
+   "label": "Synthetic organic chemicals industry",
+   "total": 3066,
+   "granted": 1191,
+   "tor_granted": 1018,
+   "in_process": 233,
+   "dead": 356,
+   "delisted": 268,
+   "grant_rate_pct": 48.8,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 669,
+     "share_pct": 56.2
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 156,
+     "share_pct": 13.1
+    },
+    {
+     "state": "Telangana",
+     "granted": 62,
+     "share_pct": 5.2
+    },
+    {
+     "state": "Karnataka",
+     "granted": 61,
+     "share_pct": 5.1
+    }
+   ]
+  },
+  {
+   "activity": "3(a)",
+   "label": "Metallurgical Industries (ferrous and non ferrous)",
+   "total": 2107,
+   "granted": 641,
+   "tor_granted": 615,
+   "in_process": 248,
+   "dead": 253,
+   "delisted": 350,
+   "grant_rate_pct": 42.6,
+   "top_states": [
+    {
+     "state": "Chhattisgarh",
+     "granted": 111,
+     "share_pct": 17.3
+    },
+    {
+     "state": "West Bengal",
+     "granted": 77,
+     "share_pct": 12.0
+    },
+    {
+     "state": "Punjab",
+     "granted": 55,
+     "share_pct": 8.6
+    },
+    {
+     "state": "Gujarat",
+     "granted": 51,
+     "share_pct": 8.0
+    }
+   ]
+  },
+  {
+   "activity": "5(g)",
+   "label": "Distilleries",
+   "total": 1031,
+   "granted": 504,
+   "tor_granted": 184,
+   "in_process": 77,
+   "dead": 146,
+   "delisted": 120,
+   "grant_rate_pct": 65.9,
+   "top_states": [
+    {
+     "state": "Odisha",
+     "granted": 198,
+     "share_pct": 39.3
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 72,
+     "share_pct": 14.3
+    },
+    {
+     "state": "Uttar Pradesh",
+     "granted": 43,
+     "share_pct": 8.5
+    },
+    {
+     "state": "Karnataka",
+     "granted": 39,
+     "share_pct": 7.7
+    }
+   ]
+  },
+  {
+   "activity": "3(b)",
+   "label": "Cement plants",
+   "total": 432,
+   "granted": 148,
+   "tor_granted": 142,
+   "in_process": 37,
+   "dead": 46,
+   "delisted": 59,
+   "grant_rate_pct": 45.3,
+   "top_states": [
+    {
+     "state": "Rajasthan",
+     "granted": 24,
+     "share_pct": 16.2
+    },
+    {
+     "state": "Gujarat",
+     "granted": 16,
+     "share_pct": 10.8
+    },
+    {
+     "state": "Uttar Pradesh",
+     "granted": 14,
+     "share_pct": 9.5
+    },
+    {
+     "state": "Karnataka",
+     "granted": 12,
+     "share_pct": 8.1
+    }
+   ]
+  },
+  {
+   "activity": "1(c)",
+   "label": "River Valley/Irrigation projects",
+   "total": 415,
+   "granted": 72,
+   "tor_granted": 199,
+   "in_process": 64,
+   "dead": 37,
+   "delisted": 43,
+   "grant_rate_pct": 21.5,
+   "top_states": [
+    {
+     "state": "Madhya Pradesh",
+     "granted": 20,
+     "share_pct": 27.8
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 16,
+     "share_pct": 22.2
+    },
+    {
+     "state": "Arunachal Pradesh",
+     "granted": 7,
+     "share_pct": 9.7
+    },
+    {
+     "state": "Andhra Pradesh",
+     "granted": 7,
+     "share_pct": 9.7
+    }
+   ]
+  },
+  {
+   "activity": "1(d)",
+   "label": "Thermal Power Plants",
+   "total": 289,
+   "granted": 108,
+   "tor_granted": 50,
+   "in_process": 25,
+   "dead": 51,
+   "delisted": 55,
+   "grant_rate_pct": 59.0,
+   "top_states": [
+    {
+     "state": "Chhattisgarh",
+     "granted": 20,
+     "share_pct": 18.5
+    },
+    {
+     "state": "Tamil Nadu",
+     "granted": 14,
+     "share_pct": 13.0
+    },
+    {
+     "state": "Odisha",
+     "granted": 13,
+     "share_pct": 12.0
+    },
+    {
+     "state": "Madhya Pradesh",
+     "granted": 11,
+     "share_pct": 10.2
+    }
+   ]
+  },
+  {
+   "activity": "5(b)",
+   "label": "Pesticides industry and pesticide specific intermediates (ex",
+   "total": 286,
+   "granted": 116,
+   "tor_granted": 101,
+   "in_process": 13,
+   "dead": 38,
+   "delisted": 18,
+   "grant_rate_pct": 50.4,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 79,
+     "share_pct": 68.1
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 17,
+     "share_pct": 14.7
+    },
+    {
+     "state": "Rajasthan",
+     "granted": 5,
+     "share_pct": 4.3
+    },
+    {
+     "state": "Karnataka",
+     "granted": 4,
+     "share_pct": 3.4
+    }
+   ]
+  },
+  {
+   "activity": "2(b)",
+   "label": "Mineral beneficiation",
+   "total": 268,
+   "granted": 94,
+   "tor_granted": 56,
+   "in_process": 21,
+   "dead": 25,
+   "delisted": 72,
+   "grant_rate_pct": 55.0,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 35,
+     "share_pct": 37.2
+    },
+    {
+     "state": "Odisha",
+     "granted": 18,
+     "share_pct": 19.1
+    },
+    {
+     "state": "Karnataka",
+     "granted": 13,
+     "share_pct": 13.8
+    },
+    {
+     "state": "Chhattisgarh",
+     "granted": 6,
+     "share_pct": 6.4
+    }
+   ]
+  },
+  {
+   "activity": "1(b)",
+   "label": "Off-shore and onshore oil and gas exploration,  development ",
+   "total": 263,
+   "granted": 119,
+   "tor_granted": 39,
+   "in_process": 43,
+   "dead": 39,
+   "delisted": 23,
+   "grant_rate_pct": 59.2,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 44,
+     "share_pct": 37.0
+    },
+    {
+     "state": "Assam",
+     "granted": 27,
+     "share_pct": 22.7
+    },
+    {
+     "state": "Andhra Pradesh",
+     "granted": 9,
+     "share_pct": 7.6
+    },
+    {
+     "state": "West Bengal",
+     "granted": 7,
+     "share_pct": 5.9
+    }
+   ]
+  },
+  {
+   "activity": "7(da)",
+   "label": "Bio-Medical Waste Treatment Facilities",
+   "total": 255,
+   "granted": 66,
+   "tor_granted": 95,
+   "in_process": 40,
+   "dead": 17,
+   "delisted": 37,
+   "grant_rate_pct": 32.8,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "granted": 16,
+     "share_pct": 24.2
+    },
+    {
+     "state": "Uttar Pradesh",
+     "granted": 7,
+     "share_pct": 10.6
+    },
+    {
+     "state": "West Bengal",
+     "granted": 7,
+     "share_pct": 10.6
+    },
+    {
+     "state": "Gujarat",
+     "granted": 6,
+     "share_pct": 9.1
+    }
+   ]
+  },
+  {
+   "activity": "7(e)",
+   "label": "Ports, harbors, breakwaters, dredging",
+   "total": 224,
+   "granted": 81,
+   "tor_granted": 61,
+   "in_process": 26,
+   "dead": 35,
+   "delisted": 21,
+   "grant_rate_pct": 48.2,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 24,
+     "share_pct": 29.6
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 16,
+     "share_pct": 19.8
+    },
+    {
+     "state": "Andhra Pradesh",
+     "granted": 15,
+     "share_pct": 18.5
+    },
+    {
+     "state": "Tamil Nadu",
+     "granted": 13,
+     "share_pct": 16.0
+    }
+   ]
+  },
+  {
+   "activity": "7(f)",
+   "label": "Road",
+   "total": 188,
+   "granted": 35,
+   "tor_granted": 82,
+   "in_process": 18,
+   "dead": 27,
+   "delisted": 26,
+   "grant_rate_pct": 25.9,
+   "top_states": [
+    {
+     "state": "Bihar",
+     "granted": 6,
+     "share_pct": 17.1
+    },
+    {
+     "state": "Odisha",
+     "granted": 4,
+     "share_pct": 11.4
+    },
+    {
+     "state": "Telangana",
+     "granted": 3,
+     "share_pct": 8.6
+    },
+    {
+     "state": "Kerala",
+     "granted": 3,
+     "share_pct": 8.6
+    }
+   ]
+  },
+  {
+   "activity": "5(a)",
+   "label": "Chemical fertilizers",
+   "total": 163,
+   "granted": 57,
+   "tor_granted": 52,
+   "in_process": 15,
+   "dead": 23,
+   "delisted": 16,
+   "grant_rate_pct": 46.0,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "granted": 14,
+     "share_pct": 24.6
+    },
+    {
+     "state": "Gujarat",
+     "granted": 14,
+     "share_pct": 24.6
+    },
+    {
+     "state": "Andhra Pradesh",
+     "granted": 8,
+     "share_pct": 14.0
+    },
+    {
+     "state": "Rajasthan",
+     "granted": 6,
+     "share_pct": 10.5
+    }
+   ]
+  },
+  {
+   "activity": "7(i)",
+   "label": "Common Municipal Solid Waste Management Facility (CMSWMF)",
+   "total": 142,
+   "granted": 24,
+   "tor_granted": 60,
+   "in_process": 16,
+   "dead": 19,
+   "delisted": 23,
+   "grant_rate_pct": 24.0,
+   "top_states": [
+    {
+     "state": "Haryana",
+     "granted": 8,
+     "share_pct": 33.3
+    },
+    {
+     "state": "Rajasthan",
+     "granted": 3,
+     "share_pct": 12.5
+    },
+    {
+     "state": "Gujarat",
+     "granted": 3,
+     "share_pct": 12.5
+    },
+    {
+     "state": "Karnataka",
+     "granted": 2,
+     "share_pct": 8.3
+    }
+   ]
+  },
+  {
+   "activity": "5(j)",
+   "label": "Sugar Industry",
+   "total": 124,
+   "granted": 52,
+   "tor_granted": 44,
+   "in_process": 9,
+   "dead": 9,
+   "delisted": 10,
+   "grant_rate_pct": 49.5,
+   "top_states": [
+    {
+     "state": "Uttar Pradesh",
+     "granted": 21,
+     "share_pct": 40.4
+    },
+    {
+     "state": "Karnataka",
+     "granted": 15,
+     "share_pct": 28.8
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 12,
+     "share_pct": 23.1
+    },
+    {
+     "state": "Gujarat",
+     "granted": 3,
+     "share_pct": 5.8
+    }
+   ]
+  },
+  {
+   "activity": "2(a)",
+   "label": "Coal washeries",
+   "total": 105,
+   "granted": 39,
+   "tor_granted": 27,
+   "in_process": 13,
+   "dead": 15,
+   "delisted": 11,
+   "grant_rate_pct": 49.4,
+   "top_states": [
+    {
+     "state": "Chhattisgarh",
+     "granted": 20,
+     "share_pct": 51.3
+    },
+    {
+     "state": "Jharkhand",
+     "granted": 8,
+     "share_pct": 20.5
+    },
+    {
+     "state": "Madhya Pradesh",
+     "granted": 5,
+     "share_pct": 12.8
+    },
+    {
+     "state": "Odisha",
+     "granted": 5,
+     "share_pct": 12.8
+    }
+   ]
+  },
+  {
+   "activity": "7(a)",
+   "label": "Airports",
+   "total": 102,
+   "granted": 29,
+   "tor_granted": 41,
+   "in_process": 10,
+   "dead": 9,
+   "delisted": 13,
+   "grant_rate_pct": 36.2,
+   "top_states": [
+    {
+     "state": "Uttar Pradesh",
+     "granted": 5,
+     "share_pct": 17.2
+    },
+    {
+     "state": "Assam",
+     "granted": 3,
+     "share_pct": 10.3
+    },
+    {
+     "state": "Kerala",
+     "granted": 3,
+     "share_pct": 10.3
+    },
+    {
+     "state": "Karnataka",
+     "granted": 3,
+     "share_pct": 10.3
+    }
+   ]
+  },
+  {
+   "activity": "5(ga)",
+   "label": "Grain based distilleries",
+   "total": 62,
+   "granted": 17,
+   "tor_granted": 13,
+   "in_process": 10,
+   "dead": 10,
+   "delisted": 12,
+   "grant_rate_pct": 42.5,
+   "top_states": [
+    {
+     "state": "Andhra Pradesh",
+     "granted": 7,
+     "share_pct": 41.2
+    },
+    {
+     "state": "Jharkhand",
+     "granted": 2,
+     "share_pct": 11.8
+    },
+    {
+     "state": "Himachal Pradesh",
+     "granted": 1,
+     "share_pct": 5.9
+    },
+    {
+     "state": "Odisha",
+     "granted": 1,
+     "share_pct": 5.9
+    }
+   ]
+  },
+  {
+   "activity": "7(h)",
+   "label": "Common Effluent Treatment Plants (CETPs)",
+   "total": 60,
+   "granted": 13,
+   "tor_granted": 16,
+   "in_process": 2,
+   "dead": 10,
+   "delisted": 19,
+   "grant_rate_pct": 41.9,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "granted": 3,
+     "share_pct": 23.1
+    },
+    {
+     "state": "Karnataka",
+     "granted": 3,
+     "share_pct": 23.1
+    },
+    {
+     "state": "Andhra Pradesh",
+     "granted": 2,
+     "share_pct": 15.4
+    },
+    {
+     "state": "Gujarat",
+     "granted": 2,
+     "share_pct": 15.4
+    }
+   ]
+  }
+ ],
+ "state_totals": [
+  {
+   "state": "Rajasthan",
+   "total": 35029
+  },
+  {
+   "state": "Maharashtra",
+   "total": 13542
+  },
+  {
+   "state": "Gujarat",
+   "total": 11209
+  },
+  {
+   "state": "Madhya Pradesh",
+   "total": 8706
+  },
+  {
+   "state": "Karnataka",
+   "total": 5512
+  },
+  {
+   "state": "Tamil Nadu",
+   "total": 5149
+  },
+  {
+   "state": "Uttar Pradesh",
+   "total": 4621
+  },
+  {
+   "state": "Andhra Pradesh",
+   "total": 4239
+  },
+  {
+   "state": "Odisha",
+   "total": 3730
+  },
+  {
+   "state": "Telangana",
+   "total": 3572
+  },
+  {
+   "state": "Chhattisgarh",
+   "total": 3525
+  },
+  {
+   "state": "Bihar",
+   "total": 2449
+  },
+  {
+   "state": "Jharkhand",
+   "total": 2149
+  },
+  {
+   "state": "West Bengal",
+   "total": 1821
+  },
+  {
+   "state": "Assam",
+   "total": 1675
+  },
+  {
+   "state": "Kerala",
+   "total": 1549
+  },
+  {
+   "state": "Punjab",
+   "total": 1253
+  },
+  {
+   "state": "Haryana",
+   "total": 1194
+  },
+  {
+   "state": "Uttarakhand",
+   "total": 854
+  },
+  {
+   "state": "Himachal Pradesh",
+   "total": 690
+  },
+  {
+   "state": "Jammu And Kashmir",
+   "total": 396
+  },
+  {
+   "state": "Meghalaya",
+   "total": 292
+  },
+  {
+   "state": "Goa",
+   "total": 210
+  },
+  {
+   "state": "Delhi",
+   "total": 184
+  },
+  {
+   "state": "Tripura",
+   "total": 161
+  },
+  {
+   "state": "The Dadra And Nagar Haveli And Daman And Diu",
+   "total": 68
+  },
+  {
+   "state": "Arunachal Pradesh",
+   "total": 47
+  },
+  {
+   "state": "Puducherry",
+   "total": 36
+  },
+  {
+   "state": "Chandigarh",
+   "total": 24
+  },
+  {
+   "state": "Andaman And Nicobar Islands",
+   "total": 20
+  },
+  {
+   "state": "Sikkim",
+   "total": 20
+  },
+  {
+   "state": "Ladakh",
+   "total": 15
+  },
+  {
+   "state": "Lakshadweep",
+   "total": 12
+  },
+  {
+   "state": "Mizoram",
+   "total": 10
+  },
+  {
+   "state": "Manipur",
+   "total": 6
+  },
+  {
+   "state": "Nagaland",
+   "total": 1
+  }
+ ]
+}

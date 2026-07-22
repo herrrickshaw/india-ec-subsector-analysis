@@ -1,0 +1,12377 @@
+{
+"built": "2026-07-22",
+"source": "PARIVESH 2.0 advanceSearchData?majorClearanceType=1 (Environmental Clearance), full register",
+"total_proposals": 113970,
+"n_states": 36,
+"n_subsectors": 35,
+"unclassified_activity": 8037,
+"activity_labels": {
+"1(a)": "Mining of minerals",
+"7(e)": "Ports, harbors, breakwaters, dredging",
+"8(a)": "Building / Construction",
+"3(a)": "Metallurgical Industries (ferrous and non ferrous)",
+"1(c)": "River Valley/Irrigation projects",
+"8(b)": "Townships/ Area Development Projects / Rehabilitation Centre",
+"4(d)": "Chlor-alkali industry",
+"5(f)": "Synthetic organic chemicals industry",
+"2(b)": "Mineral beneficiation",
+"7(i)": "Common Municipal Solid Waste Management Facility (CMSWMF)",
+"5(b)": "Pesticides industry and pesticide specific intermediates (ex",
+"1(b)": "Off-shore and onshore oil and gas exploration,  development ",
+"5(g)": "Distilleries",
+"5(c)": "Petro-chemical complexes (industries based on processing of ",
+"3(b)": "Cement plants",
+"7(da)": "Bio-Medical Waste Treatment Facilities",
+"7(f)": "Road",
+"1(d)": "Thermal Power Plants",
+"5(h)": "Integrated paint industry",
+"5(a)": "Chemical fertilizers",
+"2(a)": "Coal washeries",
+"5(ga)": "Grain based distilleries",
+"4(b)": "Coke oven plants",
+"5(j)": "Sugar Industry",
+"5(i)": "Pulp & Paper Industry",
+"7(a)": "Airports",
+"5(d)": "Manmade fibers manufacturing",
+"4(f)": "Skin/hide processing including the tanning industry",
+"7(h)": "Common Effluent Treatment Plants (CETPs)",
+"6(a)": "Pipelines",
+"4(a)": "Petroleum refining industry",
+"4(c)": "Asbestos milling / asbestos-based products",
+"2(c)": "Pellet Plant",
+"4(e)": "Soda ash Industry",
+"7(b)": "Ship breaking yards including ship breaking units"
+},
+"matrix": [
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "1(a)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "1(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "1(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "1(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "6(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "7(e)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "7(e)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ANDAMAN AND NICOBAR ISLANDS",
+"activity": "8(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1",
+"status": "granted",
+"count": 9
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(a)",
+"status": "dead",
+"count": 185
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 375
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(a)",
+"status": "granted",
+"count": 1829
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 268
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 475
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(b)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(c)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(c)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 22
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "1(d)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "15",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "2(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "2(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(a)",
+"status": "dead",
+"count": 13
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(a)",
+"status": "delisted",
+"count": 17
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(a)",
+"status": "granted",
+"count": 28
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(a)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 14
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(b)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(b)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(b)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(d)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "4(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(a)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(a)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(e",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(e",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(f)",
+"status": "dead",
+"count": 14
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(f)",
+"status": "delisted",
+"count": 15
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(f)",
+"status": "granted",
+"count": 35
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(f)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 15
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(g)",
+"status": "dead",
+"count": 12
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(g)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(g)",
+"status": "granted",
+"count": 24
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(g)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(ga)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(ga)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(h)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(h)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(a)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(c",
+"status": "dead",
+"count": 5
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(c",
+"status": "granted",
+"count": 10
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(c",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(d",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(d",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(da)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(e)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(e)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(e)",
+"status": "granted",
+"count": 15
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(e)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(f)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(h)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(h)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(a)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 15
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(a)",
+"status": "granted",
+"count": 89
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 16
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(b)",
+"status": "granted",
+"count": 18
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 18
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "Building",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "Mining",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "Mining",
+"status": "granted",
+"count": 6
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 254
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 85
+},
+{
+"state": "ANDHRA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 106
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(c)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(c)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(c)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "3(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "4(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "5(g)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ARUNACHAL PRADESH",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "1",
+"status": "granted",
+"count": 11
+},
+{
+"state": "ASSAM",
+"activity": "1(a)",
+"status": "dead",
+"count": 56
+},
+{
+"state": "ASSAM",
+"activity": "1(a)",
+"status": "delisted",
+"count": 288
+},
+{
+"state": "ASSAM",
+"activity": "1(a)",
+"status": "granted",
+"count": 722
+},
+{
+"state": "ASSAM",
+"activity": "1(a)",
+"status": "in_process",
+"count": 95
+},
+{
+"state": "ASSAM",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 28
+},
+{
+"state": "ASSAM",
+"activity": "1(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "1(b)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "1(b)",
+"status": "granted",
+"count": 27
+},
+{
+"state": "ASSAM",
+"activity": "1(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ASSAM",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "1(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "1(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "1(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "3(a)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "3(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ASSAM",
+"activity": "3(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ASSAM",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "ASSAM",
+"activity": "3(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "ASSAM",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "3(b)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "ASSAM",
+"activity": "3(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "ASSAM",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(f)",
+"status": "granted",
+"count": 11
+},
+{
+"state": "ASSAM",
+"activity": "5(g)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(g)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(g)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "ASSAM",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(h)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "5(h)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ASSAM",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "7(c",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(d",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "ASSAM",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "8(a)",
+"status": "dead",
+"count": 10
+},
+{
+"state": "ASSAM",
+"activity": "8(a)",
+"status": "delisted",
+"count": 12
+},
+{
+"state": "ASSAM",
+"activity": "8(a)",
+"status": "granted",
+"count": 72
+},
+{
+"state": "ASSAM",
+"activity": "8(a)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "ASSAM",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "ASSAM",
+"activity": "8(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "8(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ASSAM",
+"activity": "8(b)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "ASSAM",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "ASSAM",
+"activity": "Mining",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "Mining",
+"status": "granted",
+"count": 5
+},
+{
+"state": "ASSAM",
+"activity": "Off-shore",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ASSAM",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 169
+},
+{
+"state": "ASSAM",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 11
+},
+{
+"state": "ASSAM",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "BIHAR",
+"activity": "1",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "BIHAR",
+"activity": "1(a)",
+"status": "dead",
+"count": 41
+},
+{
+"state": "BIHAR",
+"activity": "1(a)",
+"status": "delisted",
+"count": 39
+},
+{
+"state": "BIHAR",
+"activity": "1(a)",
+"status": "granted",
+"count": 1352
+},
+{
+"state": "BIHAR",
+"activity": "1(a)",
+"status": "in_process",
+"count": 282
+},
+{
+"state": "BIHAR",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 314
+},
+{
+"state": "BIHAR",
+"activity": "1(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "BIHAR",
+"activity": "1(d)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "BIHAR",
+"activity": "1(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "1(d)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "BIHAR",
+"activity": "1(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "BIHAR",
+"activity": "3(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "3(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "3(a)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "BIHAR",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "BIHAR",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "3(b)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "BIHAR",
+"activity": "3(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "BIHAR",
+"activity": "5(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "5(g)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "5(g)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "BIHAR",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "BIHAR",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "7(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "7(c",
+"status": "granted",
+"count": 5
+},
+{
+"state": "BIHAR",
+"activity": "7(c",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "BIHAR",
+"activity": "7(da)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "7(da)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "7(f)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "BIHAR",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "7(f)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "BIHAR",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "BIHAR",
+"activity": "8(a)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "BIHAR",
+"activity": "8(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "BIHAR",
+"activity": "8(a)",
+"status": "granted",
+"count": 79
+},
+{
+"state": "BIHAR",
+"activity": "8(a)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "BIHAR",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "8(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "8(b)",
+"status": "granted",
+"count": 18
+},
+{
+"state": "BIHAR",
+"activity": "8(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "BIHAR",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 13
+},
+{
+"state": "BIHAR",
+"activity": "Bio-Medical",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "BIHAR",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "BIHAR",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 13
+},
+{
+"state": "BIHAR",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 21
+},
+{
+"state": "BIHAR",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 121
+},
+{
+"state": "CHANDIGARH",
+"activity": "3(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "7(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(a)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "CHANDIGARH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1",
+"status": "granted",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(a)",
+"status": "dead",
+"count": 267
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 963
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(a)",
+"status": "granted",
+"count": 802
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 358
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 306
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 13
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(d)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(d)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(d)",
+"status": "granted",
+"count": 20
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(d)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "CHHATTISGARH",
+"activity": "10",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "10",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "11",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(a)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(a)",
+"status": "granted",
+"count": 20
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(a)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 15
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(b)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "2(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(a)",
+"status": "dead",
+"count": 45
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(a)",
+"status": "delisted",
+"count": 54
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(a)",
+"status": "granted",
+"count": 111
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(a)",
+"status": "in_process",
+"count": 49
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 127
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(b)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(b)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "CHHATTISGARH",
+"activity": "4(b)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "4(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "4(b)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "CHHATTISGARH",
+"activity": "4(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(g)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(g)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(g)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(g)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "CHHATTISGARH",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(d",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(da)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "7(f)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(a)",
+"status": "granted",
+"count": 20
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "CHHATTISGARH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "CHHATTISGARH",
+"activity": "Mining",
+"status": "granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "CHHATTISGARH",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 49
+},
+{
+"state": "CHHATTISGARH",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 61
+},
+{
+"state": "CHHATTISGARH",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 60
+},
+{
+"state": "DELHI",
+"activity": "1(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "1(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "1(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "1(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "1(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "DELHI",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "DELHI",
+"activity": "3(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(d",
+"status": "granted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "DELHI",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "8(a)",
+"status": "dead",
+"count": 14
+},
+{
+"state": "DELHI",
+"activity": "8(a)",
+"status": "delisted",
+"count": 22
+},
+{
+"state": "DELHI",
+"activity": "8(a)",
+"status": "granted",
+"count": 64
+},
+{
+"state": "DELHI",
+"activity": "8(a)",
+"status": "in_process",
+"count": 26
+},
+{
+"state": "DELHI",
+"activity": "8(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "DELHI",
+"activity": "8(b)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "DELHI",
+"activity": "8(b)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "DELHI",
+"activity": "8(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 13
+},
+{
+"state": "DELHI",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 1
+},
+{
+"state": "DELHI",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 8
+},
+{
+"state": "GOA",
+"activity": "1",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "1(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "GOA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 11
+},
+{
+"state": "GOA",
+"activity": "1(a)",
+"status": "granted",
+"count": 68
+},
+{
+"state": "GOA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "GOA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 13
+},
+{
+"state": "GOA",
+"activity": "2(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "2(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "GOA",
+"activity": "3(a)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "GOA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "GOA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "5(g)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "5(g)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GOA",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "7(e)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "8(a)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "GOA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 12
+},
+{
+"state": "GOA",
+"activity": "8(a)",
+"status": "granted",
+"count": 28
+},
+{
+"state": "GOA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 16
+},
+{
+"state": "GOA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "8(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GOA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 8
+},
+{
+"state": "GOA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "GOA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "1",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "1",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "1(a)",
+"status": "dead",
+"count": 1022
+},
+{
+"state": "GUJARAT",
+"activity": "1(a)",
+"status": "delisted",
+"count": 809
+},
+{
+"state": "GUJARAT",
+"activity": "1(a)",
+"status": "granted",
+"count": 2284
+},
+{
+"state": "GUJARAT",
+"activity": "1(a)",
+"status": "in_process",
+"count": 431
+},
+{
+"state": "GUJARAT",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 858
+},
+{
+"state": "GUJARAT",
+"activity": "1(b)",
+"status": "dead",
+"count": 16
+},
+{
+"state": "GUJARAT",
+"activity": "1(b)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "1(b)",
+"status": "granted",
+"count": 44
+},
+{
+"state": "GUJARAT",
+"activity": "1(b)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 16
+},
+{
+"state": "GUJARAT",
+"activity": "1(c)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "1(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "GUJARAT",
+"activity": "1(d)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "1(d)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "1(d)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "GUJARAT",
+"activity": "1(d)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "10",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "2(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "GUJARAT",
+"activity": "2(b)",
+"status": "delisted",
+"count": 19
+},
+{
+"state": "GUJARAT",
+"activity": "2(b)",
+"status": "granted",
+"count": 35
+},
+{
+"state": "GUJARAT",
+"activity": "2(b)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "20",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "24",
+"status": "granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "24",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "24",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "3(a)",
+"status": "dead",
+"count": 16
+},
+{
+"state": "GUJARAT",
+"activity": "3(a)",
+"status": "delisted",
+"count": 19
+},
+{
+"state": "GUJARAT",
+"activity": "3(a)",
+"status": "granted",
+"count": 51
+},
+{
+"state": "GUJARAT",
+"activity": "3(a)",
+"status": "in_process",
+"count": 39
+},
+{
+"state": "GUJARAT",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 69
+},
+{
+"state": "GUJARAT",
+"activity": "3(b)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "GUJARAT",
+"activity": "3(b)",
+"status": "delisted",
+"count": 11
+},
+{
+"state": "GUJARAT",
+"activity": "3(b)",
+"status": "granted",
+"count": 16
+},
+{
+"state": "GUJARAT",
+"activity": "3(b)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "GUJARAT",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "39",
+"status": "granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "4(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "4(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "4(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "4(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "4(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "4(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "4(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "4(d)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "4(d)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "4(e)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "4(e)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "5(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(a)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "GUJARAT",
+"activity": "5(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "5(b)",
+"status": "dead",
+"count": 28
+},
+{
+"state": "GUJARAT",
+"activity": "5(b)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "5(b)",
+"status": "granted",
+"count": 79
+},
+{
+"state": "GUJARAT",
+"activity": "5(b)",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "GUJARAT",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 67
+},
+{
+"state": "GUJARAT",
+"activity": "5(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "5(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(c)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "GUJARAT",
+"activity": "5(c)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "GUJARAT",
+"activity": "5(d)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "5(d)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "5(e",
+"status": "dead",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "5(e",
+"status": "granted",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "5(e",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "5(f)",
+"status": "dead",
+"count": 187
+},
+{
+"state": "GUJARAT",
+"activity": "5(f)",
+"status": "delisted",
+"count": 127
+},
+{
+"state": "GUJARAT",
+"activity": "5(f)",
+"status": "granted",
+"count": 669
+},
+{
+"state": "GUJARAT",
+"activity": "5(f)",
+"status": "in_process",
+"count": 136
+},
+{
+"state": "GUJARAT",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 505
+},
+{
+"state": "GUJARAT",
+"activity": "5(g)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "5(g)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "5(g)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "GUJARAT",
+"activity": "5(g)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(i)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "5(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(j)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "5(j)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "6(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "6(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "6(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "6(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(c",
+"status": "dead",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(c",
+"status": "granted",
+"count": 6
+},
+{
+"state": "GUJARAT",
+"activity": "7(c",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "7(d",
+"status": "dead",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(d",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "7(d",
+"status": "granted",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(da)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "GUJARAT",
+"activity": "7(da)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "7(da)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "GUJARAT",
+"activity": "7(da)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "GUJARAT",
+"activity": "7(e)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "7(e)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "GUJARAT",
+"activity": "7(e)",
+"status": "granted",
+"count": 24
+},
+{
+"state": "GUJARAT",
+"activity": "7(e)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "GUJARAT",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 16
+},
+{
+"state": "GUJARAT",
+"activity": "7(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "7(h)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(h)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "7(h)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "7(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(i)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "8(a)",
+"status": "dead",
+"count": 83
+},
+{
+"state": "GUJARAT",
+"activity": "8(a)",
+"status": "delisted",
+"count": 79
+},
+{
+"state": "GUJARAT",
+"activity": "8(a)",
+"status": "granted",
+"count": 1632
+},
+{
+"state": "GUJARAT",
+"activity": "8(a)",
+"status": "in_process",
+"count": 207
+},
+{
+"state": "GUJARAT",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "8(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "GUJARAT",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "8(b)",
+"status": "granted",
+"count": 45
+},
+{
+"state": "GUJARAT",
+"activity": "8(b)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "GUJARAT",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 51
+},
+{
+"state": "GUJARAT",
+"activity": "Building",
+"status": "granted",
+"count": 11
+},
+{
+"state": "GUJARAT",
+"activity": "Metallurgical",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "Mining",
+"status": "granted",
+"count": 5
+},
+{
+"state": "GUJARAT",
+"activity": "Mining",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "Off-shore",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "Synthetic",
+"status": "granted",
+"count": 1
+},
+{
+"state": "GUJARAT",
+"activity": "Synthetic",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "GUJARAT",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 5
+},
+{
+"state": "GUJARAT",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "GUJARAT",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 367
+},
+{
+"state": "GUJARAT",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 524
+},
+{
+"state": "GUJARAT",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 199
+},
+{
+"state": "HARYANA",
+"activity": "1",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "1(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "HARYANA",
+"activity": "1(a)",
+"status": "granted",
+"count": 46
+},
+{
+"state": "HARYANA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "HARYANA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 31
+},
+{
+"state": "HARYANA",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "23",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "3(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "HARYANA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "3(a)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "HARYANA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "HARYANA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "3(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "HARYANA",
+"activity": "3(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "HARYANA",
+"activity": "39",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "4(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "4(f)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "40",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "5(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(c)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "HARYANA",
+"activity": "5(f)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "HARYANA",
+"activity": "5(f)",
+"status": "delisted",
+"count": 9
+},
+{
+"state": "HARYANA",
+"activity": "5(f)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "HARYANA",
+"activity": "5(f)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "HARYANA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 16
+},
+{
+"state": "HARYANA",
+"activity": "5(g)",
+"status": "dead",
+"count": 10
+},
+{
+"state": "HARYANA",
+"activity": "5(g)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "HARYANA",
+"activity": "5(g)",
+"status": "granted",
+"count": 9
+},
+{
+"state": "HARYANA",
+"activity": "5(g)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "HARYANA",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(c",
+"status": "dead",
+"count": 3
+},
+{
+"state": "HARYANA",
+"activity": "7(c",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(c",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "HARYANA",
+"activity": "7(da)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(da)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(da)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "HARYANA",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "HARYANA",
+"activity": "7(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(h)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "7(h)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "HARYANA",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(i)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "HARYANA",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "HARYANA",
+"activity": "8(a)",
+"status": "dead",
+"count": 17
+},
+{
+"state": "HARYANA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 68
+},
+{
+"state": "HARYANA",
+"activity": "8(a)",
+"status": "granted",
+"count": 231
+},
+{
+"state": "HARYANA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 105
+},
+{
+"state": "HARYANA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "HARYANA",
+"activity": "8(b)",
+"status": "dead",
+"count": 24
+},
+{
+"state": "HARYANA",
+"activity": "8(b)",
+"status": "delisted",
+"count": 15
+},
+{
+"state": "HARYANA",
+"activity": "8(b)",
+"status": "granted",
+"count": 140
+},
+{
+"state": "HARYANA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 50
+},
+{
+"state": "HARYANA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 179
+},
+{
+"state": "HARYANA",
+"activity": "Building",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "Common",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HARYANA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "HARYANA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 42
+},
+{
+"state": "HARYANA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "HARYANA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 27
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(a)",
+"status": "dead",
+"count": 27
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 42
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(a)",
+"status": "granted",
+"count": 365
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 67
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 54
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(c)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "3(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "3(a)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "3(a)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "31",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "4(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(g)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(g)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(c",
+"status": "granted",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(d",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(a)",
+"status": "granted",
+"count": 17
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "Mining",
+"status": "granted",
+"count": 2
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 1
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 30
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "HIMACHAL PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(a)",
+"status": "dead",
+"count": 22
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(a)",
+"status": "delisted",
+"count": 97
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(a)",
+"status": "granted",
+"count": 164
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(a)",
+"status": "in_process",
+"count": 23
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(c)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(a)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(a)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(f)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(f)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(f)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(g)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "5(g)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(h)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(i)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(i)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JAMMU AND KASHMIR",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1",
+"status": "granted",
+"count": 11
+},
+{
+"state": "JHARKHAND",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1(a)",
+"status": "dead",
+"count": 94
+},
+{
+"state": "JHARKHAND",
+"activity": "1(a)",
+"status": "delisted",
+"count": 123
+},
+{
+"state": "JHARKHAND",
+"activity": "1(a)",
+"status": "granted",
+"count": 1134
+},
+{
+"state": "JHARKHAND",
+"activity": "1(a)",
+"status": "in_process",
+"count": 120
+},
+{
+"state": "JHARKHAND",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 200
+},
+{
+"state": "JHARKHAND",
+"activity": "1(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "1(d)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "JHARKHAND",
+"activity": "1(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "10",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "11",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "2(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "2(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "JHARKHAND",
+"activity": "2(a)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "JHARKHAND",
+"activity": "2(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "JHARKHAND",
+"activity": "2(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "2(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "3(a)",
+"status": "dead",
+"count": 13
+},
+{
+"state": "JHARKHAND",
+"activity": "3(a)",
+"status": "delisted",
+"count": 31
+},
+{
+"state": "JHARKHAND",
+"activity": "3(a)",
+"status": "granted",
+"count": 50
+},
+{
+"state": "JHARKHAND",
+"activity": "3(a)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "JHARKHAND",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 44
+},
+{
+"state": "JHARKHAND",
+"activity": "3(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "3(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "3(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "JHARKHAND",
+"activity": "4(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "4(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "5(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(e",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(g)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "5(g)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "5(ga)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "7(d",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "7(d",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "7(da)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "7(f)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "7(i)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "JHARKHAND",
+"activity": "7(i)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "JHARKHAND",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "8(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "8(a)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "JHARKHAND",
+"activity": "8(a)",
+"status": "granted",
+"count": 72
+},
+{
+"state": "JHARKHAND",
+"activity": "8(a)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "JHARKHAND",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "JHARKHAND",
+"activity": "8(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "JHARKHAND",
+"activity": "Metallurgical",
+"status": "granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "Metallurgical",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "JHARKHAND",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 81
+},
+{
+"state": "JHARKHAND",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 20
+},
+{
+"state": "JHARKHAND",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 24
+},
+{
+"state": "KARNATAKA",
+"activity": "1",
+"status": "granted",
+"count": 6
+},
+{
+"state": "KARNATAKA",
+"activity": "1(a)",
+"status": "dead",
+"count": 75
+},
+{
+"state": "KARNATAKA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 715
+},
+{
+"state": "KARNATAKA",
+"activity": "1(a)",
+"status": "granted",
+"count": 1506
+},
+{
+"state": "KARNATAKA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 376
+},
+{
+"state": "KARNATAKA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 157
+},
+{
+"state": "KARNATAKA",
+"activity": "1(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "1(c)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "1(c)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "2(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "2(b)",
+"status": "delisted",
+"count": 11
+},
+{
+"state": "KARNATAKA",
+"activity": "2(b)",
+"status": "granted",
+"count": 13
+},
+{
+"state": "KARNATAKA",
+"activity": "2(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 14
+},
+{
+"state": "KARNATAKA",
+"activity": "25",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "3(a)",
+"status": "dead",
+"count": 16
+},
+{
+"state": "KARNATAKA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 16
+},
+{
+"state": "KARNATAKA",
+"activity": "3(a)",
+"status": "granted",
+"count": 43
+},
+{
+"state": "KARNATAKA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "KARNATAKA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 25
+},
+{
+"state": "KARNATAKA",
+"activity": "3(b)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "KARNATAKA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "KARNATAKA",
+"activity": "3(b)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "KARNATAKA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "KARNATAKA",
+"activity": "39",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "4(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "4(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "4(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "4(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "4(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "40",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "5(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(e",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(f)",
+"status": "dead",
+"count": 12
+},
+{
+"state": "KARNATAKA",
+"activity": "5(f)",
+"status": "delisted",
+"count": 27
+},
+{
+"state": "KARNATAKA",
+"activity": "5(f)",
+"status": "granted",
+"count": 61
+},
+{
+"state": "KARNATAKA",
+"activity": "5(f)",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "KARNATAKA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 48
+},
+{
+"state": "KARNATAKA",
+"activity": "5(g)",
+"status": "dead",
+"count": 28
+},
+{
+"state": "KARNATAKA",
+"activity": "5(g)",
+"status": "delisted",
+"count": 15
+},
+{
+"state": "KARNATAKA",
+"activity": "5(g)",
+"status": "granted",
+"count": 39
+},
+{
+"state": "KARNATAKA",
+"activity": "5(g)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "KARNATAKA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 29
+},
+{
+"state": "KARNATAKA",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "5(j)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "KARNATAKA",
+"activity": "5(j)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "KARNATAKA",
+"activity": "5(j)",
+"status": "granted",
+"count": 15
+},
+{
+"state": "KARNATAKA",
+"activity": "5(j)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "KARNATAKA",
+"activity": "6(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "6(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "7(c",
+"status": "dead",
+"count": 6
+},
+{
+"state": "KARNATAKA",
+"activity": "7(c",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "KARNATAKA",
+"activity": "7(c",
+"status": "granted",
+"count": 21
+},
+{
+"state": "KARNATAKA",
+"activity": "7(c",
+"status": "in_process",
+"count": 11
+},
+{
+"state": "KARNATAKA",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 39
+},
+{
+"state": "KARNATAKA",
+"activity": "7(d",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(d",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(d",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(d",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(da)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(da)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "7(da)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(e)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(e)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(e)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "7(e)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "KARNATAKA",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "KARNATAKA",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(f)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(h)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(h)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KARNATAKA",
+"activity": "7(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "7(i)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "KARNATAKA",
+"activity": "8(a)",
+"status": "dead",
+"count": 51
+},
+{
+"state": "KARNATAKA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 121
+},
+{
+"state": "KARNATAKA",
+"activity": "8(a)",
+"status": "granted",
+"count": 746
+},
+{
+"state": "KARNATAKA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 145
+},
+{
+"state": "KARNATAKA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 24
+},
+{
+"state": "KARNATAKA",
+"activity": "8(b)",
+"status": "dead",
+"count": 12
+},
+{
+"state": "KARNATAKA",
+"activity": "8(b)",
+"status": "delisted",
+"count": 35
+},
+{
+"state": "KARNATAKA",
+"activity": "8(b)",
+"status": "granted",
+"count": 145
+},
+{
+"state": "KARNATAKA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 43
+},
+{
+"state": "KARNATAKA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 176
+},
+{
+"state": "KARNATAKA",
+"activity": "9",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "Building",
+"status": "granted",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "Distilleries",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "Metallurgical",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "Metallurgical",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "Mining",
+"status": "granted",
+"count": 10
+},
+{
+"state": "KARNATAKA",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "KARNATAKA",
+"activity": "Synthetic",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "Townships/",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 4
+},
+{
+"state": "KARNATAKA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KARNATAKA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 332
+},
+{
+"state": "KARNATAKA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 48
+},
+{
+"state": "KARNATAKA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 58
+},
+{
+"state": "KERALA",
+"activity": "1",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "1(a)",
+"status": "dead",
+"count": 101
+},
+{
+"state": "KERALA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 110
+},
+{
+"state": "KERALA",
+"activity": "1(a)",
+"status": "granted",
+"count": 278
+},
+{
+"state": "KERALA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 648
+},
+{
+"state": "KERALA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 113
+},
+{
+"state": "KERALA",
+"activity": "1(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "1(c)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KERALA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "KERALA",
+"activity": "3(a)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "KERALA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "KERALA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "4(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "5(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "5(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(c",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(da)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "KERALA",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(e)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "KERALA",
+"activity": "7(e)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "KERALA",
+"activity": "7(f)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "KERALA",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "KERALA",
+"activity": "8(a)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "KERALA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "KERALA",
+"activity": "8(a)",
+"status": "granted",
+"count": 54
+},
+{
+"state": "KERALA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 61
+},
+{
+"state": "KERALA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "8(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "8(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "KERALA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "KERALA",
+"activity": "Mining",
+"status": "granted",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "Mining",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "KERALA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 70
+},
+{
+"state": "KERALA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "KERALA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "LADAKH",
+"activity": "1(a)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "LADAKH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "LADAKH",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "LADAKH",
+"activity": "8(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "LADAKH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "LAKSHADWEEP",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "LAKSHADWEEP",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1",
+"status": "granted",
+"count": 20
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(a)",
+"status": "dead",
+"count": 170
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 2191
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(a)",
+"status": "granted",
+"count": 2145
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 1133
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 1979
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(b)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(c)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(c)",
+"status": "granted",
+"count": 20
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 17
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 38
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(d)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(d)",
+"status": "granted",
+"count": 11
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(d)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(a)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(a)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(b)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "24",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(a)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(a)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(b)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(b)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(b)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 14
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "39",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "4(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "4(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "4(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(a)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(e",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(f)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(f)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(f)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(f)",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 21
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(g)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(g)",
+"status": "granted",
+"count": 15
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(g)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(c",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(c",
+"status": "granted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(d",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(d",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(da)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(da)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(da)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(f)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(f)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(f)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(f)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(i)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 15
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(a)",
+"status": "granted",
+"count": 66
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 46
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 16
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "Building",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "Distilleries",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "Mining",
+"status": "granted",
+"count": 10
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 270
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 47
+},
+{
+"state": "MADHYA PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 138
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1",
+"status": "granted",
+"count": 44
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(a)",
+"status": "dead",
+"count": 369
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 295
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(a)",
+"status": "granted",
+"count": 3190
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 155
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 81
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(c)",
+"status": "dead",
+"count": 9
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(c)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(c)",
+"status": "granted",
+"count": 16
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(c)",
+"status": "in_process",
+"count": 16
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 38
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(d)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(d)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(d)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "25",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "25",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "26",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(a)",
+"status": "dead",
+"count": 22
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 29
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(a)",
+"status": "granted",
+"count": 40
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 22
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 74
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(b)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(b)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 13
+},
+{
+"state": "MAHARASHTRA",
+"activity": "39",
+"status": "granted",
+"count": 6
+},
+{
+"state": "MAHARASHTRA",
+"activity": "39",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "39",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "4(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "40",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(a)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(a)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(b)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(b)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(b)",
+"status": "granted",
+"count": 17
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 17
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(c)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(c)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(d)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(e",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(e",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(e",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(f)",
+"status": "dead",
+"count": 71
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(f)",
+"status": "delisted",
+"count": 44
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(f)",
+"status": "granted",
+"count": 156
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(f)",
+"status": "in_process",
+"count": 32
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 233
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(g)",
+"status": "dead",
+"count": 43
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(g)",
+"status": "delisted",
+"count": 32
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(g)",
+"status": "granted",
+"count": 72
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(g)",
+"status": "in_process",
+"count": 15
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 64
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(h)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(j)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(j)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(j)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(j)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 15
+},
+{
+"state": "MAHARASHTRA",
+"activity": "6(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(c",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(c",
+"status": "granted",
+"count": 7
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(d",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(d",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(d",
+"status": "granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(d",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(da)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(da)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(da)",
+"status": "granted",
+"count": 16
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(da)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 19
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(e)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(e)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(e)",
+"status": "granted",
+"count": 16
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(e)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(f)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(f)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(f)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(f)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 26
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(h)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(h)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(i)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(a)",
+"status": "dead",
+"count": 709
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 656
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(a)",
+"status": "granted",
+"count": 2669
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 550
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 62
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(b)",
+"status": "dead",
+"count": 99
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(b)",
+"status": "delisted",
+"count": 91
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(b)",
+"status": "granted",
+"count": 589
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 161
+},
+{
+"state": "MAHARASHTRA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 926
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Building",
+"status": "granted",
+"count": 9
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Building",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Mining",
+"status": "granted",
+"count": 23
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Mining",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Synthetic",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Townships/",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MAHARASHTRA",
+"activity": "Townships/",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 4
+},
+{
+"state": "MAHARASHTRA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MAHARASHTRA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 1008
+},
+{
+"state": "MAHARASHTRA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 181
+},
+{
+"state": "MAHARASHTRA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 224
+},
+{
+"state": "MANIPUR",
+"activity": "1(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "MANIPUR",
+"activity": "1(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MANIPUR",
+"activity": "1(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MANIPUR",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(a)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 20
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(a)",
+"status": "granted",
+"count": 130
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 50
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 46
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "MEGHALAYA",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "MEGHALAYA",
+"activity": "3(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "MEGHALAYA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "3(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "MEGHALAYA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "MEGHALAYA",
+"activity": "5(g)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "7(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MEGHALAYA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 10
+},
+{
+"state": "MEGHALAYA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "MEGHALAYA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "MIZORAM",
+"activity": "1(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MIZORAM",
+"activity": "1(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "MIZORAM",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "MIZORAM",
+"activity": "7(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "MIZORAM",
+"activity": "7(i)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "MIZORAM",
+"activity": "8(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "NAGALAND",
+"activity": "1(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "1",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "1(a)",
+"status": "dead",
+"count": 623
+},
+{
+"state": "ODISHA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 252
+},
+{
+"state": "ODISHA",
+"activity": "1(a)",
+"status": "granted",
+"count": 1350
+},
+{
+"state": "ODISHA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 231
+},
+{
+"state": "ODISHA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 95
+},
+{
+"state": "ODISHA",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "1(c)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "1(c)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "1(c)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "ODISHA",
+"activity": "1(d)",
+"status": "dead",
+"count": 9
+},
+{
+"state": "ODISHA",
+"activity": "1(d)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "1(d)",
+"status": "granted",
+"count": 13
+},
+{
+"state": "ODISHA",
+"activity": "1(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "ODISHA",
+"activity": "2(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "2(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "2(a)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "ODISHA",
+"activity": "2(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "2(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "ODISHA",
+"activity": "2(b)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "ODISHA",
+"activity": "2(b)",
+"status": "granted",
+"count": 18
+},
+{
+"state": "ODISHA",
+"activity": "2(b)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "ODISHA",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 23
+},
+{
+"state": "ODISHA",
+"activity": "2(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "2(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "2(c)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "3(a)",
+"status": "dead",
+"count": 28
+},
+{
+"state": "ODISHA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 44
+},
+{
+"state": "ODISHA",
+"activity": "3(a)",
+"status": "granted",
+"count": 43
+},
+{
+"state": "ODISHA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 17
+},
+{
+"state": "ODISHA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 31
+},
+{
+"state": "ODISHA",
+"activity": "3(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "3(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "3(b)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "ODISHA",
+"activity": "39",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "4(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "4(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "4(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "4(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "4(b)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "ODISHA",
+"activity": "5(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "5(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "5(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(e",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "5(g)",
+"status": "dead",
+"count": 25
+},
+{
+"state": "ODISHA",
+"activity": "5(g)",
+"status": "delisted",
+"count": 23
+},
+{
+"state": "ODISHA",
+"activity": "5(g)",
+"status": "granted",
+"count": 198
+},
+{
+"state": "ODISHA",
+"activity": "5(g)",
+"status": "in_process",
+"count": 29
+},
+{
+"state": "ODISHA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(d",
+"status": "dead",
+"count": 4
+},
+{
+"state": "ODISHA",
+"activity": "7(d",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(da)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "7(da)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "ODISHA",
+"activity": "7(da)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "ODISHA",
+"activity": "7(e)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "7(e)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "7(e)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "7(e)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "ODISHA",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "7(f)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "ODISHA",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "ODISHA",
+"activity": "7(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "8(a)",
+"status": "dead",
+"count": 23
+},
+{
+"state": "ODISHA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 21
+},
+{
+"state": "ODISHA",
+"activity": "8(a)",
+"status": "granted",
+"count": 119
+},
+{
+"state": "ODISHA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 48
+},
+{
+"state": "ODISHA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "8(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "ODISHA",
+"activity": "8(b)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "ODISHA",
+"activity": "8(b)",
+"status": "granted",
+"count": 11
+},
+{
+"state": "ODISHA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "ODISHA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 17
+},
+{
+"state": "ODISHA",
+"activity": "Building",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "Coaltar",
+"status": "granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "Metallurgical",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "Mining",
+"status": "granted",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "Mining",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "ODISHA",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 3
+},
+{
+"state": "ODISHA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "ODISHA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 126
+},
+{
+"state": "ODISHA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 68
+},
+{
+"state": "ODISHA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 36
+},
+{
+"state": "PUDUCHERRY",
+"activity": "3(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "3(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "PUDUCHERRY",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "PUDUCHERRY",
+"activity": "4(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(e",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(e",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(g)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "7(d",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "8(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "8(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "PUDUCHERRY",
+"activity": "8(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "8(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUDUCHERRY",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "1(a)",
+"status": "dead",
+"count": 18
+},
+{
+"state": "PUNJAB",
+"activity": "1(a)",
+"status": "delisted",
+"count": 20
+},
+{
+"state": "PUNJAB",
+"activity": "1(a)",
+"status": "granted",
+"count": 153
+},
+{
+"state": "PUNJAB",
+"activity": "1(a)",
+"status": "in_process",
+"count": 39
+},
+{
+"state": "PUNJAB",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 102
+},
+{
+"state": "PUNJAB",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "1(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "1(d)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "PUNJAB",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "3(a)",
+"status": "dead",
+"count": 12
+},
+{
+"state": "PUNJAB",
+"activity": "3(a)",
+"status": "delisted",
+"count": 27
+},
+{
+"state": "PUNJAB",
+"activity": "3(a)",
+"status": "granted",
+"count": 55
+},
+{
+"state": "PUNJAB",
+"activity": "3(a)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "PUNJAB",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 40
+},
+{
+"state": "PUNJAB",
+"activity": "3(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "PUNJAB",
+"activity": "3(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "PUNJAB",
+"activity": "4(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "4(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "PUNJAB",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(e",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(f)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "PUNJAB",
+"activity": "5(f)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(f)",
+"status": "granted",
+"count": 23
+},
+{
+"state": "PUNJAB",
+"activity": "5(f)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 21
+},
+{
+"state": "PUNJAB",
+"activity": "5(g)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(g)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "PUNJAB",
+"activity": "5(g)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "PUNJAB",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(ga)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(i)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "PUNJAB",
+"activity": "5(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "5(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(c",
+"status": "granted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "7(d",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(h)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "PUNJAB",
+"activity": "7(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "PUNJAB",
+"activity": "7(i)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "8(a)",
+"status": "dead",
+"count": 19
+},
+{
+"state": "PUNJAB",
+"activity": "8(a)",
+"status": "delisted",
+"count": 41
+},
+{
+"state": "PUNJAB",
+"activity": "8(a)",
+"status": "granted",
+"count": 235
+},
+{
+"state": "PUNJAB",
+"activity": "8(a)",
+"status": "in_process",
+"count": 45
+},
+{
+"state": "PUNJAB",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 12
+},
+{
+"state": "PUNJAB",
+"activity": "8(b)",
+"status": "dead",
+"count": 14
+},
+{
+"state": "PUNJAB",
+"activity": "8(b)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "PUNJAB",
+"activity": "8(b)",
+"status": "granted",
+"count": 71
+},
+{
+"state": "PUNJAB",
+"activity": "8(b)",
+"status": "in_process",
+"count": 24
+},
+{
+"state": "PUNJAB",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 102
+},
+{
+"state": "PUNJAB",
+"activity": "Building",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "PUNJAB",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 22
+},
+{
+"state": "PUNJAB",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 19
+},
+{
+"state": "PUNJAB",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 31
+},
+{
+"state": "RAJASTHAN",
+"activity": "1",
+"status": "granted",
+"count": 15
+},
+{
+"state": "RAJASTHAN",
+"activity": "1",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(a)",
+"status": "dead",
+"count": 728
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(a)",
+"status": "delisted",
+"count": 14847
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(a)",
+"status": "granted",
+"count": 14071
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(a)",
+"status": "in_process",
+"count": 1697
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 2038
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(b)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(b)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(b)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(c)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "11",
+"status": "granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "2(b)",
+"status": "delisted",
+"count": 32
+},
+{
+"state": "RAJASTHAN",
+"activity": "2(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "2(b)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(a)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(a)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(a)",
+"status": "granted",
+"count": 23
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(a)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 12
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(b)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(b)",
+"status": "granted",
+"count": 24
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(b)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 19
+},
+{
+"state": "RAJASTHAN",
+"activity": "39",
+"status": "granted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(c)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(c)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(c)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(f)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "4(f)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(a)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(a)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(a)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(b)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(f)",
+"status": "dead",
+"count": 13
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(f)",
+"status": "delisted",
+"count": 14
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(f)",
+"status": "granted",
+"count": 39
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(f)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 53
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(g)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(g)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(g)",
+"status": "granted",
+"count": 17
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(a)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(c",
+"status": "dead",
+"count": 14
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(c",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(c",
+"status": "granted",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(c",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(d",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(d",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(d",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(da)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(h)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(i)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(i)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(i)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(a)",
+"status": "dead",
+"count": 22
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(a)",
+"status": "delisted",
+"count": 55
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(a)",
+"status": "granted",
+"count": 202
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(a)",
+"status": "in_process",
+"count": 78
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(b)",
+"status": "delisted",
+"count": 9
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(b)",
+"status": "granted",
+"count": 21
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(b)",
+"status": "in_process",
+"count": 13
+},
+{
+"state": "RAJASTHAN",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 36
+},
+{
+"state": "RAJASTHAN",
+"activity": "Metallurgical",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "Mining",
+"status": "granted",
+"count": 11
+},
+{
+"state": "RAJASTHAN",
+"activity": "Mining",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "RAJASTHAN",
+"activity": "Synthetic",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "RAJASTHAN",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 1
+},
+{
+"state": "RAJASTHAN",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "RAJASTHAN",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 403
+},
+{
+"state": "RAJASTHAN",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 20
+},
+{
+"state": "RAJASTHAN",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 253
+},
+{
+"state": "SIKKIM",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "SIKKIM",
+"activity": "1(c)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "SIKKIM",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "SIKKIM",
+"activity": "7(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "SIKKIM",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "SIKKIM",
+"activity": "8(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "SIKKIM",
+"activity": "8(a)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "SIKKIM",
+"activity": "8(a)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "SIKKIM",
+"activity": "8(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "SIKKIM",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "1",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "1",
+"status": "granted",
+"count": 10
+},
+{
+"state": "TAMIL NADU",
+"activity": "1",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(a)",
+"status": "dead",
+"count": 195
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(a)",
+"status": "delisted",
+"count": 260
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(a)",
+"status": "granted",
+"count": 2058
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(a)",
+"status": "in_process",
+"count": 375
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 481
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(c)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(c)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(c)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(c)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(d)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(d)",
+"status": "delisted",
+"count": 11
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(d)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "TAMIL NADU",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "2(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "2(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(a)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(a)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(a)",
+"status": "granted",
+"count": 21
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(a)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 22
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "TAMIL NADU",
+"activity": "39",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "4(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "4(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "4(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "4(e)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "40",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(a)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(e",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(e",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(f)",
+"status": "dead",
+"count": 10
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(f)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(f)",
+"status": "granted",
+"count": 27
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(f)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 28
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(g)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(g)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(g)",
+"status": "granted",
+"count": 10
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(g)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(h)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(i)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(i)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "5(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "6(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "6(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(c",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(c",
+"status": "granted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(c",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(d",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(d",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(da)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(da)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 7
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(e)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(e)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(e)",
+"status": "granted",
+"count": 13
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(e)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 9
+},
+{
+"state": "TAMIL NADU",
+"activity": "7(f)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(a)",
+"status": "dead",
+"count": 39
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(a)",
+"status": "delisted",
+"count": 76
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(a)",
+"status": "granted",
+"count": 480
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(a)",
+"status": "in_process",
+"count": 138
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(b)",
+"status": "dead",
+"count": 14
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(b)",
+"status": "delisted",
+"count": 17
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(b)",
+"status": "granted",
+"count": 105
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(b)",
+"status": "in_process",
+"count": 36
+},
+{
+"state": "TAMIL NADU",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 105
+},
+{
+"state": "TAMIL NADU",
+"activity": "Mining",
+"status": "granted",
+"count": 9
+},
+{
+"state": "TAMIL NADU",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "Road",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "Synthetic",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TAMIL NADU",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 2
+},
+{
+"state": "TAMIL NADU",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "TAMIL NADU",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 266
+},
+{
+"state": "TAMIL NADU",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 30
+},
+{
+"state": "TAMIL NADU",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 93
+},
+{
+"state": "TELANGANA",
+"activity": "1",
+"status": "granted",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "1",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "1(a)",
+"status": "dead",
+"count": 66
+},
+{
+"state": "TELANGANA",
+"activity": "1(a)",
+"status": "delisted",
+"count": 195
+},
+{
+"state": "TELANGANA",
+"activity": "1(a)",
+"status": "granted",
+"count": 970
+},
+{
+"state": "TELANGANA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 129
+},
+{
+"state": "TELANGANA",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 104
+},
+{
+"state": "TELANGANA",
+"activity": "1(c)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "1(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "1(d)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "1(d)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "3(a)",
+"status": "dead",
+"count": 7
+},
+{
+"state": "TELANGANA",
+"activity": "3(a)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "TELANGANA",
+"activity": "3(a)",
+"status": "granted",
+"count": 22
+},
+{
+"state": "TELANGANA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 20
+},
+{
+"state": "TELANGANA",
+"activity": "3(b)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "3(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TELANGANA",
+"activity": "3(b)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "39",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "40",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "40",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "5(d)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "5(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "5(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "5(f)",
+"status": "dead",
+"count": 17
+},
+{
+"state": "TELANGANA",
+"activity": "5(f)",
+"status": "delisted",
+"count": 13
+},
+{
+"state": "TELANGANA",
+"activity": "5(f)",
+"status": "granted",
+"count": 62
+},
+{
+"state": "TELANGANA",
+"activity": "5(f)",
+"status": "in_process",
+"count": 11
+},
+{
+"state": "TELANGANA",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 25
+},
+{
+"state": "TELANGANA",
+"activity": "5(g)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "TELANGANA",
+"activity": "5(g)",
+"status": "granted",
+"count": 8
+},
+{
+"state": "TELANGANA",
+"activity": "5(g)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "TELANGANA",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "5(i)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(c",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(c",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "7(da)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "7(da)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 8
+},
+{
+"state": "TELANGANA",
+"activity": "7(f)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "7(f)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "TELANGANA",
+"activity": "8(a)",
+"status": "dead",
+"count": 53
+},
+{
+"state": "TELANGANA",
+"activity": "8(a)",
+"status": "delisted",
+"count": 97
+},
+{
+"state": "TELANGANA",
+"activity": "8(a)",
+"status": "granted",
+"count": 616
+},
+{
+"state": "TELANGANA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 97
+},
+{
+"state": "TELANGANA",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "TELANGANA",
+"activity": "8(b)",
+"status": "dead",
+"count": 15
+},
+{
+"state": "TELANGANA",
+"activity": "8(b)",
+"status": "delisted",
+"count": 45
+},
+{
+"state": "TELANGANA",
+"activity": "8(b)",
+"status": "granted",
+"count": 220
+},
+{
+"state": "TELANGANA",
+"activity": "8(b)",
+"status": "in_process",
+"count": 30
+},
+{
+"state": "TELANGANA",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 278
+},
+{
+"state": "TELANGANA",
+"activity": "Building",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "Mining",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "Townships/",
+"status": "granted",
+"count": 2
+},
+{
+"state": "TELANGANA",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "TELANGANA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 190
+},
+{
+"state": "TELANGANA",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 103
+},
+{
+"state": "TELANGANA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 87
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "1(a)",
+"status": "delisted",
+"count": 6
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "1(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "3(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "3(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "3(a)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "5(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "5(d)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "5(d)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "6(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "6(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "8(a)",
+"status": "dead",
+"count": 8
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "8(a)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "8(a)",
+"status": "granted",
+"count": 27
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "8(a)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "TRIPURA",
+"activity": "1(a)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "TRIPURA",
+"activity": "1(a)",
+"status": "in_process",
+"count": 94
+},
+{
+"state": "TRIPURA",
+"activity": "1(b)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "TRIPURA",
+"activity": "1(b)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "TRIPURA",
+"activity": "1(b)",
+"status": "in_process",
+"count": 20
+},
+{
+"state": "TRIPURA",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "TRIPURA",
+"activity": "1(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "TRIPURA",
+"activity": "3(a)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "TRIPURA",
+"activity": "8(a)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "TRIPURA",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 19
+},
+{
+"state": "TRIPURA",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1",
+"status": "granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(a)",
+"status": "dead",
+"count": 40
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(a)",
+"status": "delisted",
+"count": 222
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(a)",
+"status": "granted",
+"count": 1428
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(a)",
+"status": "in_process",
+"count": 369
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 808
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(c)",
+"status": "dead",
+"count": 6
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(c)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(c)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 20
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(d)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(d)",
+"status": "delisted",
+"count": 9
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(d)",
+"status": "granted",
+"count": 6
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(d)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "10",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "28",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(a)",
+"status": "delisted",
+"count": 7
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(a)",
+"status": "granted",
+"count": 21
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(a)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(b)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(b)",
+"status": "granted",
+"count": 14
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(b)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "39",
+"status": "granted",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "4(d)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "4(d)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "4(e)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "4(f)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(a)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(d)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(f)",
+"status": "dead",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(f)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(f)",
+"status": "granted",
+"count": 13
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 14
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(g)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(g)",
+"status": "delisted",
+"count": 10
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(g)",
+"status": "granted",
+"count": 43
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(g)",
+"status": "in_process",
+"count": 10
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 28
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(ga)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(ga)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(ga)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(h)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(i)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(i)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(i)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(j)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(j)",
+"status": "granted",
+"count": 21
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(j)",
+"status": "in_process",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 19
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "6(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "6(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(a)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(a)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(c",
+"status": "dead",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(c",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(c",
+"status": "granted",
+"count": 7
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(c",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(c",
+"status": "tor_granted",
+"count": 16
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(d",
+"status": "dead",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(d",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(d",
+"status": "granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(d",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(da)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(da)",
+"status": "delisted",
+"count": 8
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(da)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(da)",
+"status": "in_process",
+"count": 5
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(f)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(f)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(f)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(f)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 15
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(i)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(a)",
+"status": "dead",
+"count": 36
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(a)",
+"status": "delisted",
+"count": 56
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(a)",
+"status": "granted",
+"count": 344
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(a)",
+"status": "in_process",
+"count": 120
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(b)",
+"status": "dead",
+"count": 17
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(b)",
+"status": "delisted",
+"count": 14
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(b)",
+"status": "granted",
+"count": 116
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(b)",
+"status": "in_process",
+"count": 27
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 124
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Bio-Medical",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Building",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Distilleries",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Mining",
+"status": "granted",
+"count": 8
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Mining",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "Pulp",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 2
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 214
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 49
+},
+{
+"state": "UTTAR PRADESH",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 136
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1",
+"status": "granted",
+"count": 3
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(a)",
+"status": "dead",
+"count": 37
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(a)",
+"status": "delisted",
+"count": 38
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(a)",
+"status": "granted",
+"count": 322
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(a)",
+"status": "in_process",
+"count": 8
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 92
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(c)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(c)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "1(d)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "3(a)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "UTTARAKHAND",
+"activity": "3(a)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "UTTARAKHAND",
+"activity": "3(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "39",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "4(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(f)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(f)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(f)",
+"status": "granted",
+"count": 54
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(f)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(g)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(g)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(g)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 5
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(ga)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(i)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(i)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(j)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "5(j)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "6",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(c",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(c",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(c",
+"status": "granted",
+"count": 18
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(d",
+"status": "dead",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(d",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(d",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(da)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(i)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(i)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(i)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "UTTARAKHAND",
+"activity": "7(i)",
+"status": "tor_granted",
+"count": 10
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(a)",
+"status": "dead",
+"count": 9
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(a)",
+"status": "delisted",
+"count": 4
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(a)",
+"status": "granted",
+"count": 110
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(a)",
+"status": "in_process",
+"count": 7
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 6
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "8(b)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "UTTARAKHAND",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 23
+},
+{
+"state": "UTTARAKHAND",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 9
+},
+{
+"state": "UTTARAKHAND",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 20
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(a)",
+"status": "dead",
+"count": 80
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(a)",
+"status": "delisted",
+"count": 137
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(a)",
+"status": "granted",
+"count": 368
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(a)",
+"status": "in_process",
+"count": 130
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(a)",
+"status": "tor_granted",
+"count": 326
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(b)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(b)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(c)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(d)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(d)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(d)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "1(d)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "10",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "2(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(a)",
+"status": "dead",
+"count": 49
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(a)",
+"status": "delisted",
+"count": 38
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(a)",
+"status": "granted",
+"count": 77
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(a)",
+"status": "in_process",
+"count": 26
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(a)",
+"status": "tor_granted",
+"count": 66
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(b)",
+"status": "granted",
+"count": 5
+},
+{
+"state": "WEST BENGAL",
+"activity": "3(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(a)",
+"status": "dead",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(a)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(b)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(b)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(b)",
+"status": "granted",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "4(b)",
+"status": "tor_granted",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "40",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(a)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(a)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(b)",
+"status": "granted",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(b)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(c)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(c)",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(c)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(c)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(e",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(e",
+"status": "delisted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(e",
+"status": "granted",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(e",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(f)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(f)",
+"status": "granted",
+"count": 12
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(f)",
+"status": "in_process",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(f)",
+"status": "tor_granted",
+"count": 20
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(g)",
+"status": "dead",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(g)",
+"status": "delisted",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(g)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(g)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(ga)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(h)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(i)",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(i)",
+"status": "delisted",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "5(i)",
+"status": "granted",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(a)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(a)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(c",
+"status": "dead",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(c",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(da)",
+"status": "granted",
+"count": 7
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(da)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(da)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(e)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(e)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(e)",
+"status": "in_process",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(e)",
+"status": "tor_granted",
+"count": 4
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(f)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(f)",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(f)",
+"status": "in_process",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(f)",
+"status": "tor_granted",
+"count": 3
+},
+{
+"state": "WEST BENGAL",
+"activity": "7(h)",
+"status": "tor_granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(a)",
+"status": "dead",
+"count": 15
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(a)",
+"status": "delisted",
+"count": 13
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(a)",
+"status": "granted",
+"count": 107
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(a)",
+"status": "in_process",
+"count": 17
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(a)",
+"status": "tor_granted",
+"count": 11
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(b)",
+"status": "dead",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(b)",
+"status": "delisted",
+"count": 5
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(b)",
+"status": "granted",
+"count": 22
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(b)",
+"status": "in_process",
+"count": 6
+},
+{
+"state": "WEST BENGAL",
+"activity": "8(b)",
+"status": "tor_granted",
+"count": 22
+},
+{
+"state": "WEST BENGAL",
+"activity": "Building",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "Metallurgical",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "Mining",
+"status": "granted",
+"count": 1
+},
+{
+"state": "WEST BENGAL",
+"activity": "UNCLASSIFIED",
+"status": "dead",
+"count": 2
+},
+{
+"state": "WEST BENGAL",
+"activity": "UNCLASSIFIED",
+"status": "granted",
+"count": 61
+},
+{
+"state": "WEST BENGAL",
+"activity": "UNCLASSIFIED",
+"status": "in_process",
+"count": 52
+},
+{
+"state": "WEST BENGAL",
+"activity": "UNCLASSIFIED",
+"status": "tor_granted",
+"count": 20
+}
+]
+}
