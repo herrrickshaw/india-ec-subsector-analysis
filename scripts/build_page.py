@@ -49,8 +49,11 @@ def main():
   --rule:#d7dace;--accent:#1f5f5b;--accent-soft:#dbe9e6;--hi:#2f7d4f;--lo:#a5402c;--chip:#eef2ec;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;--serif:"Iowan Old Style",Georgia,serif;
   --sans:-apple-system,"Segoe UI",Helvetica,sans-serif;}}
-@media(prefers-color-scheme:dark){{:root{{--bg:#12151a;--surface:#1a1e21;--ink:#f2f1ea;--ink2:#c1c4b7;
-  --muted:#8b8f83;--rule:#2a2e28;--accent:#6fb3ac;--accent-soft:#20342f;--hi:#7bc496;--lo:#e08268;--chip:#232a25;}}}}
+/* Automatic prefers-color-scheme:dark override intentionally removed: this blog
+   standardizes on always-white-background/always-black-text regardless of OS
+   theme. It previously flipped :root tokens to dark values while text stayed
+   forced black, producing invisible black-on-dark text. The explicit
+   data-theme=dark rule below remains for opt-in toggles only. */
 :root[data-theme=dark]{{--bg:#12151a;--surface:#1a1e21;--ink:#f2f1ea;--ink2:#c1c4b7;--muted:#8b8f83;
   --rule:#2a2e28;--accent:#6fb3ac;--accent-soft:#20342f;--hi:#7bc496;--lo:#e08268;--chip:#232a25;}}
 :root[data-theme=light]{{--bg:#eef1ea;--surface:#fcfcfa;--ink:#14180f;--ink2:#4f5348;--muted:#82867a;
@@ -58,7 +61,7 @@ def main():
 *{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55}}
 .wrap{{max-width:1080px;margin:0 auto;padding:40px 20px 60px}}
 .eyebrow{{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}}
-h1{{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.4vw,36px);margin:6px 0 8px}}
+h1{{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.4vw,36px);line-height:1.25;margin:6px 0 8px}}
 .dek{{color:var(--ink2);font-size:15px;max-width:76ch}}
 .stats{{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0}}
 .stat .n{{font-family:var(--serif);font-size:30px;color:var(--accent)}}.stat .l{{font-size:12.5px;color:var(--muted)}}
