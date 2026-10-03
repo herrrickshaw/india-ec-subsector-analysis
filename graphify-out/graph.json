@@ -1,0 +1,968 @@
+{
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "nodes": [
+    {
+      "id": "scripts_build_other_clearances",
+      "label": "build_other_clearances.py",
+      "file_type": "code",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_other_clearances_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L12",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_other_clearances_main_funnel_bar",
+      "label": "funnel_bar()",
+      "file_type": "code",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L18",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_other_clearances_main_card",
+      "label": "card()",
+      "file_type": "code",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L25",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_other_clearances_rationale_2",
+      "label": "Render docs/other_clearances.html -- Forest / Wildlife / CRZ clearances. Reads…",
+      "file_type": "rationale",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_page",
+      "label": "build_page.py",
+      "file_type": "code",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_page_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L13",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_page_main_rows_for",
+      "label": "rows_for()",
+      "file_type": "code",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L24",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_build_page_rationale_2",
+      "label": "Render docs/index.html — state-wise Environmental Clearances by sub-sector.…",
+      "file_type": "rationale",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec",
+      "label": "refresh_ec.py",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_bucket",
+      "label": "bucket()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L37",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_props",
+      "label": "props()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L50",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_fetch",
+      "label": "fetch()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L57",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_build",
+      "label": "build()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L63",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L124",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_ec_rationale_2",
+      "label": "Refresh the Environmental Clearance state x sub-sector matrix from PARIVESH…",
+      "file_type": "rationale",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances",
+      "label": "refresh_other_clearances.py",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_num",
+      "label": "num()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L47",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_bucket",
+      "label": "bucket()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L54",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_fetch",
+      "label": "fetch()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L81",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_load_dir",
+      "label": "load_dir()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L88",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_build",
+      "label": "build()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L92",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L162",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_rationale_2",
+      "label": "Refresh the Forest / Wildlife / CRZ clearance registers from PARIVESH 2.0. The…",
+      "file_type": "rationale",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_refresh_other_clearances_rationale_55",
+      "label": "Per-type status bucketing -- each clearance has its own status vocabulary.",
+      "file_type": "rationale",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L55",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_india_environmental_clearances_state_sub_sector",
+      "label": "India Environmental Clearances — state × sub-sector",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_what_s_here",
+      "label": "What's here",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_headline_patterns",
+      "label": "Headline patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_data",
+      "label": "Data",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_refresh",
+      "label": "Refresh",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_method_honesty_notes",
+      "label": "Method & honesty notes",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_bonus_iem_vs_ec_by_activity_how_intent_compares_to_clearance",
+      "label": "Bonus: IEM vs EC by activity (how intent compares to clearance)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L66",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_beyond_ec_forest_wildlife_crz_clearances",
+      "label": "Beyond EC — Forest, Wildlife & CRZ clearances",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L99",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_a_proposal_is_not_a_project_fresh_vs_re_used_land",
+      "label": "A proposal is not a project — fresh vs re-used land",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "_origin": "ast"
+    }
+  ],
+  "links": [
+    {
+      "source": "scripts_build_other_clearances",
+      "target": "datetime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances",
+      "target": "scripts_build_other_clearances_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances_main",
+      "target": "scripts_build_other_clearances_main_funnel_bar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances_main",
+      "target": "scripts_build_other_clearances_main_card",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances_main",
+      "target": "scripts_build_other_clearances_main_card",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L111",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances_main_card",
+      "target": "scripts_build_other_clearances_main_funnel_bar",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_other_clearances_rationale_2",
+      "target": "scripts_build_other_clearances",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_other_clearances.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page",
+      "target": "datetime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page",
+      "target": "scripts_build_page_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page_main",
+      "target": "scripts_build_page_main_rows_for",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page_main",
+      "target": "scripts_build_page_main_rows_for",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_build_page_rationale_2",
+      "target": "scripts_build_page",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/build_page.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "argparse",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "collections",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "datetime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "re",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "subprocess",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "sys",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "scripts_refresh_ec_bucket",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "scripts_refresh_ec_props",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "scripts_refresh_ec_fetch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "scripts_refresh_ec_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec",
+      "target": "scripts_refresh_ec_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L124",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec_build",
+      "target": "scripts_refresh_ec_props",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec_build",
+      "target": "scripts_refresh_ec_bucket",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec_main",
+      "target": "scripts_refresh_ec_fetch",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L128",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec_main",
+      "target": "scripts_refresh_ec_build",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L129",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_ec_rationale_2",
+      "target": "scripts_refresh_ec",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_ec.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "argparse",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "collections",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "datetime",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "json",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "subprocess",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "sys",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_num",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L47",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_bucket",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_fetch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_load_dir",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances",
+      "target": "scripts_refresh_other_clearances_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L162",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_build",
+      "target": "scripts_refresh_other_clearances_bucket",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L110",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_build",
+      "target": "scripts_refresh_other_clearances_num",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L115",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_main",
+      "target": "scripts_refresh_other_clearances_load_dir",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L166",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_main",
+      "target": "scripts_refresh_other_clearances_build",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L167",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_rationale_2",
+      "target": "scripts_refresh_other_clearances",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_refresh_other_clearances_rationale_55",
+      "target": "scripts_refresh_other_clearances_bucket",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/refresh_other_clearances.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_india_environmental_clearances_state_sub_sector",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_what_s_here",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_headline_patterns",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_refresh",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_method_honesty_notes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_bonus_iem_vs_ec_by_activity_how_intent_compares_to_clearance",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_beyond_ec_forest_wildlife_crz_clearances",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L99",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_india_environmental_clearances_state_sub_sector",
+      "target": "readme_a_proposal_is_not_a_project_fresh_vs_re_used_land",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "directed": false
+}
