@@ -101,7 +101,7 @@ show which state leads each sub-sector and how grant rates differ by activity. O
 <div id="stateview" class="hidden scroll"></div>
 
 <h2>Sub-sectors, ranked by volume</h2>
-<p class="dek" style="font-size:13.5px">Grant rate = granted ÷ (granted + ToR-granted + in-process); PARIVESH auto-delisted
+<p class="dek" style="font-size:13.5px">Grant rate = granted ÷ (granted + ToR-granted + in-process + rejected/withdrawn); PARIVESH auto-delisted
 applications are excluded from that denominator. <span style="color:var(--hi)">Green ≥65%</span>,
 <span style="color:var(--lo)">rust &lt;40%</span>. "Leaders" are shares of that sub-sector's granted clearances.</p>
 <div class="scroll"><table>
