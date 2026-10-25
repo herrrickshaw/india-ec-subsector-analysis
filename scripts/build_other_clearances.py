@@ -35,7 +35,7 @@ def main():
    <span><b class="p">{f.get('in_process',0):,}</b> in process</span>
    <span><b class="d">{f.get('dead',0):,}</b> dead</span>
    <span><b class="x">{f.get('delisted',0):,}</b> delisted</span></div>
- <div class="grate">Grant rate of decided: <b>{gr}%</b> · {rec['n_states']} states/UTs</div>
+ <div class="grate">Granted, of decided: <b>{gr}%</b> · of all active: <b>{rec.get('grant_rate_pct_of_active')}%</b> · {rec['n_states']} states/UTs</div>
  {extra}</div>"""
 
     # forest area by state table
@@ -137,18 +137,18 @@ change — a different channel (mining, linear infra, hydro), on a different clo
 
 <h2>What the three funnels say</h2>
 <p class="dek">
-<b>Forest ({fc['grant_rate_pct_of_decided']}% of decided granted)</b> — 88% are fresh Form-A diversions, but
+<b>Forest ({fc['grant_rate_pct_of_decided']}% of decided granted, {fc.get('grant_rate_pct_of_active')}% of active)</b> — 88% are fresh Form-A diversions, but
 40% of the register is auto-delisted, so the live decided pool is smaller than the headline count.
-<b>Wildlife ({wl['grant_rate_pct_of_decided']}% granted)</b> is the real bottleneck: {wl['funnel'].get('in_process',0):,}
+<b>Wildlife ({wl.get('grant_rate_pct_of_active')}% of active granted, though {wl['grant_rate_pct_of_decided']}% of decided)</b> is the real bottleneck: {wl['funnel'].get('in_process',0):,}
 of {wl['total']:,} sit in process, most "Pending at Proponent" — projects near protected areas stall here for the
-National/State Board for Wildlife recommendation. <b>CRZ ({crz['grant_rate_pct_of_decided']}%)</b> is small and
+National/State Board for Wildlife recommendation. <b>CRZ ({crz['grant_rate_pct_of_decided']}% of decided)</b> is small and
 coastal ({crz['n_states']} states/UTs) — the gate for ports, coastal industry and waterfront projects.</p>
 
 <div class="note">
 Source — <b>PARIVESH 2.0</b> open API (<code>advanceSearchData?majorClearanceType=2|3|4</code>), full Forest /
-Wildlife / CRZ registers, fetched {d['built']}. Grant rate = granted ÷ (granted + in-process); 'dead'
-(rejected/withdrawn/returned) and 'delisted' (PARIVESH auto-cleanup) are excluded from the denominator, as in the
-EC analysis. FC 'granted' = "Final Diversion Order Issued" or "Stage-II Accorded"; Stage-I in-principle is not
+Wildlife / CRZ registers, fetched {d['built']}. Grant rate of decided = granted ÷ (granted + rejected/withdrawn/returned);
+grant rate of active = granted ÷ (granted + in-process + rejected/withdrawn/returned), as in the EC analysis. 'Delisted'
+(PARIVESH auto-cleanup) is excluded from both. FC 'granted' = "Final Diversion Order Issued" or "Stage-II Accorded"; Stage-I in-principle is not
 counted. The forest-area pipeline total mixes all statuses and is skewed by a single ~74,000-ha outlier — the
 granted figure is the reliable one. Pipeline snapshot, not a time series. Data + refresh:
 <a href="https://github.com/herrrickshaw/india-ec-subsector-analysis">github.com/herrrickshaw/india-ec-subsector-analysis</a>.

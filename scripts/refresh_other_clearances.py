@@ -25,9 +25,11 @@ the forest analogue of the EC fresh-vs-reuse split.
         saved parivesh_type{2,3,4}.json dumps in DIR
 
 Honesty notes carried into the output:
- - Grant rate = granted / (granted + in_process); 'dead' (rejected/withdrawn/
-   returned) and 'delisted' (PARIVESH auto-cleanup) are excluded from the
-   denominator, matching the EC methodology.
+ - grant_rate_pct_of_decided = granted / (granted + dead): share of DECIDED
+   proposals that were granted ('dead' = rejected/withdrawn/returned).
+   grant_rate_pct_of_active = granted / (granted + in_process + dead): the EC
+   methodology -- every non-delisted proposal. 'delisted' (PARIVESH
+   auto-cleanup) is excluded from both denominators.
  - FC 'granted' = "Final Diversion Order Issued" or "Stage-II Accorded" (final
    approval). Stage-I (in-principle) is NOT counted as granted.
  - The forest_area PIPELINE total mixes all statuses (incl. delisted) and is
@@ -41,7 +43,8 @@ API = ("https://parivesh.nic.in/parivesh_api/trackYourProposal/advanceSearchData
        "?majorClearanceType={t}&state=&proposalStatus=&pageNo=0&pageSize=200000")
 TYPES = {2: ("FC", "Forest Clearance"), 3: ("WLC", "Wildlife Clearance"), 4: ("CRZ", "CRZ Clearance")}
 HA_TO_ACRE = 2.47105
-LIVE = {"granted", "in_process"}
+DECIDED = {"granted", "dead"}
+ACTIVE = {"granted", "in_process", "dead"}   # every status except delisted
 
 
 def num(x):
@@ -96,8 +99,8 @@ def build(get_rows):
            "note": ("Companion to the Environmental Clearance analysis (majorClearanceType=1). Same open "
                     "API, same pipeline-snapshot semantics -- proposals span 2022 to the fetch date, "
                     "status is as-of-fetch."),
-           "method": ("Grant rate = granted / (granted + in_process); 'dead' and 'delisted' excluded from "
-                      "the denominator. FC 'granted' = Final Diversion Order Issued or Stage-II Accorded."),
+           "method": ("Grant rate of decided = granted / (granted + dead); grant rate of active = granted / "
+                      "(granted + in_process + dead). 'delisted' excluded from both denominators. FC 'granted' = Final Diversion Order Issued or Stage-II Accorded."),
            "clearances": {}}
     for t, (kind, label) in TYPES.items():
         rows = get_rows(t)
@@ -121,10 +124,12 @@ def build(get_rows):
                         forest_state[st]["granted"] += a
                 forms[(r.get("clearanceType") or "?").strip()[:38]] += 1
                 ua[(r.get("nameOfUserAgency") or "?").strip()[:40]] += 1
-        live = sum(funnel[k] for k in LIVE)
+        decided = sum(funnel[k] for k in DECIDED)
+        active = sum(funnel[k] for k in ACTIVE)
         rec = {"code": kind, "label": label, "total": len(rows), "n_states": len(by_state),
                "funnel": dict(funnel),
-               "grant_rate_pct_of_decided": round(funnel["granted"] / live * 100, 1) if live else None,
+               "grant_rate_pct_of_decided": round(funnel["granted"] / decided * 100, 1) if decided else None,
+               "grant_rate_pct_of_active": round(funnel["granted"] / active * 100, 1) if active else None,
                "top_states": [{"state": s.title(), "total": sum(c.values()), "granted": c["granted"],
                                "pending": c["in_process"]}
                               for s, c in sorted(by_state.items(), key=lambda kv: -sum(kv[1].values()))[:10]]}
