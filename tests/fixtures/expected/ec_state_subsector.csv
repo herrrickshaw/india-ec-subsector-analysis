@@ -1,0 +1,191 @@
+state,activity_code,activity_label,status,count
+CHHATTISGARH,1(a),Mining of minerals,dead,6
+CHHATTISGARH,1(a),Mining of minerals,delisted,2
+CHHATTISGARH,1(a),Mining of minerals,granted,2
+CHHATTISGARH,1(a),Mining of minerals,in_process,3
+CHHATTISGARH,1(a),Mining of minerals,tor_granted,1
+CHHATTISGARH,1(c),River Valley projects,dead,7
+CHHATTISGARH,1(c),River Valley projects,granted,1
+CHHATTISGARH,1(c),River Valley projects,in_process,1
+CHHATTISGARH,3(a),Metallurgical industries (ferrous & non ferrous),dead,6
+CHHATTISGARH,3(a),Metallurgical industries (ferrous & non ferrous),granted,3
+CHHATTISGARH,3(a),Metallurgical industries (ferrous & non ferrous),in_process,1
+CHHATTISGARH,3(a),Metallurgical industries (ferrous & non ferrous),tor_granted,1
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,dead,6
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,delisted,1
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,granted,2
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,in_process,1
+CHHATTISGARH,5(f),Synthetic organic chemicals industry,tor_granted,1
+CHHATTISGARH,8(a),Building and Construction projects,dead,2
+CHHATTISGARH,8(a),Building and Construction projects,delisted,2
+CHHATTISGARH,8(a),Building and Construction projects,granted,1
+CHHATTISGARH,8(a),Building and Construction projects,in_process,2
+CHHATTISGARH,Misc,,dead,6
+CHHATTISGARH,Misc,,granted,1
+CHHATTISGARH,Misc,,in_process,3
+CHHATTISGARH,Misc,,tor_granted,1
+CHHATTISGARH,UNCLASSIFIED,,dead,1
+CHHATTISGARH,UNCLASSIFIED,,delisted,3
+CHHATTISGARH,UNCLASSIFIED,,granted,1
+CHHATTISGARH,UNCLASSIFIED,,in_process,1
+CHHATTISGARH,UNCLASSIFIED,,tor_granted,2
+GUJARAT,1(a),Mining of minerals,dead,8
+GUJARAT,1(a),Mining of minerals,delisted,3
+GUJARAT,1(a),Mining of minerals,granted,2
+GUJARAT,1(a),Mining of minerals,in_process,1
+GUJARAT,1(a),Mining of minerals,tor_granted,2
+GUJARAT,1(c),River Valley projects,dead,6
+GUJARAT,1(c),River Valley projects,delisted,2
+GUJARAT,1(c),River Valley projects,granted,3
+GUJARAT,1(c),River Valley projects,in_process,1
+GUJARAT,1(c),River Valley projects,tor_granted,1
+GUJARAT,3(a),Metallurgical industries (ferrous & non ferrous),dead,4
+GUJARAT,3(a),Metallurgical industries (ferrous & non ferrous),granted,2
+GUJARAT,3(a),Metallurgical industries (ferrous & non ferrous),in_process,2
+GUJARAT,3(a),Metallurgical industries (ferrous & non ferrous),tor_granted,1
+GUJARAT,5(f),Synthetic organic chemicals industry,dead,7
+GUJARAT,5(f),Synthetic organic chemicals industry,in_process,1
+GUJARAT,8(a),Building and Construction projects,dead,4
+GUJARAT,8(a),Building and Construction projects,granted,1
+GUJARAT,8(a),Building and Construction projects,in_process,2
+GUJARAT,8(a),Building and Construction projects,tor_granted,3
+GUJARAT,Misc,,dead,7
+GUJARAT,Misc,,delisted,1
+GUJARAT,Misc,,granted,1
+GUJARAT,Misc,,in_process,1
+GUJARAT,UNCLASSIFIED,,dead,4
+GUJARAT,UNCLASSIFIED,,granted,2
+MAHARASHTRA,1(a),Mining of minerals,dead,7
+MAHARASHTRA,1(a),Mining of minerals,in_process,4
+MAHARASHTRA,1(a),Mining of minerals,tor_granted,2
+MAHARASHTRA,1(c),River Valley projects,dead,5
+MAHARASHTRA,1(c),River Valley projects,in_process,2
+MAHARASHTRA,3(a),Metallurgical industries (ferrous & non ferrous),dead,3
+MAHARASHTRA,3(a),Metallurgical industries (ferrous & non ferrous),delisted,3
+MAHARASHTRA,3(a),Metallurgical industries (ferrous & non ferrous),granted,1
+MAHARASHTRA,3(a),Metallurgical industries (ferrous & non ferrous),in_process,2
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,dead,7
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,delisted,1
+MAHARASHTRA,5(f),Synthetic organic chemicals industry,granted,2
+MAHARASHTRA,8(a),Building and Construction projects,dead,6
+MAHARASHTRA,8(a),Building and Construction projects,delisted,2
+MAHARASHTRA,8(a),Building and Construction projects,granted,4
+MAHARASHTRA,8(a),Building and Construction projects,in_process,2
+MAHARASHTRA,8(a),Building and Construction projects,tor_granted,2
+MAHARASHTRA,Misc,,dead,6
+MAHARASHTRA,Misc,,delisted,1
+MAHARASHTRA,Misc,,granted,1
+MAHARASHTRA,Misc,,in_process,1
+MAHARASHTRA,Misc,,tor_granted,3
+MAHARASHTRA,UNCLASSIFIED,,dead,3
+MAHARASHTRA,UNCLASSIFIED,,granted,1
+MAHARASHTRA,UNCLASSIFIED,,in_process,1
+MAHARASHTRA,UNCLASSIFIED,,tor_granted,1
+ODISHA,1(a),Mining of minerals,dead,8
+ODISHA,1(a),Mining of minerals,delisted,2
+ODISHA,1(a),Mining of minerals,granted,4
+ODISHA,1(a),Mining of minerals,in_process,2
+ODISHA,1(c),River Valley projects,dead,3
+ODISHA,1(c),River Valley projects,delisted,1
+ODISHA,1(c),River Valley projects,granted,2
+ODISHA,1(c),River Valley projects,in_process,4
+ODISHA,1(c),River Valley projects,tor_granted,1
+ODISHA,3(a),Metallurgical industries (ferrous & non ferrous),dead,6
+ODISHA,3(a),Metallurgical industries (ferrous & non ferrous),tor_granted,1
+ODISHA,5(f),Synthetic organic chemicals industry,dead,5
+ODISHA,5(f),Synthetic organic chemicals industry,delisted,1
+ODISHA,5(f),Synthetic organic chemicals industry,granted,1
+ODISHA,5(f),Synthetic organic chemicals industry,in_process,3
+ODISHA,5(f),Synthetic organic chemicals industry,tor_granted,2
+ODISHA,8(a),Building and Construction projects,dead,8
+ODISHA,8(a),Building and Construction projects,granted,4
+ODISHA,8(a),Building and Construction projects,in_process,1
+ODISHA,8(a),Building and Construction projects,tor_granted,1
+ODISHA,Misc,,dead,6
+ODISHA,Misc,,delisted,1
+ODISHA,Misc,,granted,3
+ODISHA,Misc,,in_process,2
+ODISHA,Misc,,tor_granted,1
+ODISHA,UNCLASSIFIED,,dead,7
+ODISHA,UNCLASSIFIED,,delisted,2
+ODISHA,UNCLASSIFIED,,granted,1
+ODISHA,UNCLASSIFIED,,tor_granted,2
+RAJASTHAN,1(a),Mining of minerals,dead,5
+RAJASTHAN,1(a),Mining of minerals,delisted,3
+RAJASTHAN,1(a),Mining of minerals,granted,1
+RAJASTHAN,1(a),Mining of minerals,in_process,1
+RAJASTHAN,1(c),River Valley projects,dead,4
+RAJASTHAN,1(c),River Valley projects,granted,1
+RAJASTHAN,1(c),River Valley projects,in_process,3
+RAJASTHAN,1(c),River Valley projects,tor_granted,1
+RAJASTHAN,3(a),Metallurgical industries (ferrous & non ferrous),dead,6
+RAJASTHAN,3(a),Metallurgical industries (ferrous & non ferrous),delisted,1
+RAJASTHAN,3(a),Metallurgical industries (ferrous & non ferrous),granted,2
+RAJASTHAN,3(a),Metallurgical industries (ferrous & non ferrous),in_process,3
+RAJASTHAN,5(f),Synthetic organic chemicals industry,dead,6
+RAJASTHAN,5(f),Synthetic organic chemicals industry,delisted,2
+RAJASTHAN,5(f),Synthetic organic chemicals industry,granted,3
+RAJASTHAN,5(f),Synthetic organic chemicals industry,in_process,3
+RAJASTHAN,5(f),Synthetic organic chemicals industry,tor_granted,1
+RAJASTHAN,8(a),Building and Construction projects,dead,6
+RAJASTHAN,8(a),Building and Construction projects,delisted,2
+RAJASTHAN,8(a),Building and Construction projects,granted,1
+RAJASTHAN,8(a),Building and Construction projects,in_process,1
+RAJASTHAN,8(a),Building and Construction projects,tor_granted,1
+RAJASTHAN,Misc,,dead,2
+RAJASTHAN,Misc,,granted,1
+RAJASTHAN,Misc,,tor_granted,1
+RAJASTHAN,UNCLASSIFIED,,dead,4
+RAJASTHAN,UNCLASSIFIED,,delisted,1
+RAJASTHAN,UNCLASSIFIED,,in_process,2
+TAMIL NADU,1(a),Mining of minerals,dead,6
+TAMIL NADU,1(a),Mining of minerals,delisted,2
+TAMIL NADU,1(a),Mining of minerals,granted,1
+TAMIL NADU,1(a),Mining of minerals,in_process,3
+TAMIL NADU,1(a),Mining of minerals,tor_granted,1
+TAMIL NADU,1(c),River Valley projects,dead,7
+TAMIL NADU,1(c),River Valley projects,granted,1
+TAMIL NADU,1(c),River Valley projects,tor_granted,2
+TAMIL NADU,3(a),Metallurgical industries (ferrous & non ferrous),dead,8
+TAMIL NADU,3(a),Metallurgical industries (ferrous & non ferrous),delisted,2
+TAMIL NADU,3(a),Metallurgical industries (ferrous & non ferrous),granted,1
+TAMIL NADU,3(a),Metallurgical industries (ferrous & non ferrous),in_process,2
+TAMIL NADU,5(f),Synthetic organic chemicals industry,dead,4
+TAMIL NADU,5(f),Synthetic organic chemicals industry,delisted,1
+TAMIL NADU,5(f),Synthetic organic chemicals industry,granted,1
+TAMIL NADU,5(f),Synthetic organic chemicals industry,in_process,2
+TAMIL NADU,8(a),Building and Construction projects,dead,2
+TAMIL NADU,8(a),Building and Construction projects,delisted,1
+TAMIL NADU,8(a),Building and Construction projects,in_process,2
+TAMIL NADU,8(a),Building and Construction projects,tor_granted,1
+TAMIL NADU,Misc,,dead,1
+TAMIL NADU,Misc,,delisted,1
+TAMIL NADU,Misc,,in_process,2
+TAMIL NADU,UNCLASSIFIED,,dead,5
+TAMIL NADU,UNCLASSIFIED,,delisted,1
+TAMIL NADU,UNCLASSIFIED,,in_process,2
+TAMIL NADU,UNCLASSIFIED,,tor_granted,3
+UNSPECIFIED,1(a),Mining of minerals,dead,5
+UNSPECIFIED,1(a),Mining of minerals,delisted,2
+UNSPECIFIED,1(c),River Valley projects,dead,6
+UNSPECIFIED,1(c),River Valley projects,granted,1
+UNSPECIFIED,1(c),River Valley projects,in_process,2
+UNSPECIFIED,3(a),Metallurgical industries (ferrous & non ferrous),dead,2
+UNSPECIFIED,3(a),Metallurgical industries (ferrous & non ferrous),delisted,1
+UNSPECIFIED,3(a),Metallurgical industries (ferrous & non ferrous),granted,2
+UNSPECIFIED,3(a),Metallurgical industries (ferrous & non ferrous),in_process,2
+UNSPECIFIED,3(a),Metallurgical industries (ferrous & non ferrous),tor_granted,1
+UNSPECIFIED,5(f),Synthetic organic chemicals industry,dead,2
+UNSPECIFIED,5(f),Synthetic organic chemicals industry,tor_granted,1
+UNSPECIFIED,8(a),Building and Construction projects,dead,8
+UNSPECIFIED,8(a),Building and Construction projects,in_process,4
+UNSPECIFIED,8(a),Building and Construction projects,tor_granted,2
+UNSPECIFIED,Misc,,dead,10
+UNSPECIFIED,Misc,,delisted,2
+UNSPECIFIED,Misc,,in_process,2
+UNSPECIFIED,Misc,,tor_granted,2
+UNSPECIFIED,UNCLASSIFIED,,dead,5
+UNSPECIFIED,UNCLASSIFIED,,delisted,1
+UNSPECIFIED,UNCLASSIFIED,,granted,1
+UNSPECIFIED,UNCLASSIFIED,,in_process,1
+UNSPECIFIED,UNCLASSIFIED,,tor_granted,1

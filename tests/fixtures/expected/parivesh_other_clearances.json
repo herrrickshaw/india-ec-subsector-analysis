@@ -1,0 +1,251 @@
+{
+ "built": "2026-11-02",
+ "source": "PARIVESH 2.0 advanceSearchData, majorClearanceType 2=Forest 3=Wildlife 4=CRZ (full national register)",
+ "note": "Companion to the Environmental Clearance analysis (majorClearanceType=1). Same open API, same pipeline-snapshot semantics -- proposals span 2022 to the fetch date, status is as-of-fetch.",
+ "method": "Grant rate = granted / (granted + in_process); 'dead' and 'delisted' excluded from the denominator. FC 'granted' = Final Diversion Order Issued or Stage-II Accorded.",
+ "clearances": {
+  "FC": {
+   "code": "FC",
+   "label": "Forest Clearance",
+   "total": 120,
+   "n_states": 7,
+   "funnel": {
+    "dead": 43,
+    "delisted": 12,
+    "in_process": 40,
+    "granted": 25
+   },
+   "grant_rate_pct_of_decided": 38.5,
+   "top_states": [
+    {
+     "state": "Chhattisgarh",
+     "total": 27,
+     "granted": 2,
+     "pending": 10
+    },
+    {
+     "state": "Maharashtra",
+     "total": 19,
+     "granted": 4,
+     "pending": 11
+    },
+    {
+     "state": "Odisha",
+     "total": 17,
+     "granted": 3,
+     "pending": 4
+    },
+    {
+     "state": "Tamil Nadu",
+     "total": 17,
+     "granted": 7,
+     "pending": 2
+    },
+    {
+     "state": "Unspecified",
+     "total": 14,
+     "granted": 2,
+     "pending": 6
+    },
+    {
+     "state": "Rajasthan",
+     "total": 14,
+     "granted": 4,
+     "pending": 4
+    },
+    {
+     "state": "Gujarat",
+     "total": 12,
+     "granted": 3,
+     "pending": 3
+    }
+   ],
+   "forest_area_ha": {
+    "pipeline_total": 1206488,
+    "granted": 154249,
+    "acres_pipeline": 2981292,
+    "acres_granted": 381156,
+    "caveat": "pipeline_total mixes all statuses incl. delisted and is skewed by a single ~74,000-ha outlier; 'granted' is the trustworthy forest-actually-diverted figure"
+   },
+   "forest_area_by_state": [
+    {
+     "state": "Odisha",
+     "pipeline_ha": 370050,
+     "granted_ha": 0,
+     "granted_acres": 0
+    },
+    {
+     "state": "Chhattisgarh",
+     "pipeline_ha": 299729,
+     "granted_ha": 74000,
+     "granted_acres": 182858
+    },
+    {
+     "state": "Tamil Nadu",
+     "pipeline_ha": 226989,
+     "granted_ha": 2494,
+     "granted_acres": 6164
+    },
+    {
+     "state": "Rajasthan",
+     "pipeline_ha": 151729,
+     "granted_ha": 75247,
+     "granted_acres": 185940
+    },
+    {
+     "state": "Unspecified",
+     "pipeline_ha": 149272,
+     "granted_ha": 12,
+     "granted_acres": 31
+    },
+    {
+     "state": "Gujarat",
+     "pipeline_ha": 4989,
+     "granted_ha": 1260,
+     "granted_acres": 3113
+    },
+    {
+     "state": "Maharashtra",
+     "pipeline_ha": 3729,
+     "granted_ha": 1235,
+     "granted_acres": 3051
+    }
+   ],
+   "by_form_type": {
+    "fresh_diversion_FormA": 20,
+    "re_diversion_FormE": 20,
+    "renewal_FormBD": 46,
+    "transfer_FormF": 17,
+    "reading": "Form-A is a FRESH diversion of forest land; Form-B/D/E/F are renewals, transfers and re-diversions on already-diverted land -- the forest analogue of the EC fresh-vs-reuse split."
+   },
+   "top_user_agencies": [
+    {
+     "agency": "Coal India Ltd",
+     "proposals": 29
+    },
+    {
+     "agency": "NHAI",
+     "proposals": 26
+    },
+    {
+     "agency": "Some Very Long Agency Name That Exceeds ",
+     "proposals": 18
+    }
+   ]
+  },
+  "WLC": {
+   "code": "WLC",
+   "label": "Wildlife Clearance",
+   "total": 120,
+   "n_states": 7,
+   "funnel": {
+    "dead": 31,
+    "granted": 32,
+    "delisted": 18,
+    "in_process": 39
+   },
+   "grant_rate_pct_of_decided": 45.1,
+   "top_states": [
+    {
+     "state": "Unspecified",
+     "total": 24,
+     "granted": 5,
+     "pending": 9
+    },
+    {
+     "state": "Tamil Nadu",
+     "total": 23,
+     "granted": 6,
+     "pending": 6
+    },
+    {
+     "state": "Odisha",
+     "total": 21,
+     "granted": 4,
+     "pending": 9
+    },
+    {
+     "state": "Rajasthan",
+     "total": 16,
+     "granted": 5,
+     "pending": 5
+    },
+    {
+     "state": "Gujarat",
+     "total": 14,
+     "granted": 2,
+     "pending": 5
+    },
+    {
+     "state": "Maharashtra",
+     "total": 13,
+     "granted": 5,
+     "pending": 3
+    },
+    {
+     "state": "Chhattisgarh",
+     "total": 9,
+     "granted": 5,
+     "pending": 2
+    }
+   ]
+  },
+  "CRZ": {
+   "code": "CRZ",
+   "label": "CRZ Clearance",
+   "total": 120,
+   "n_states": 7,
+   "funnel": {
+    "delisted": 31,
+    "dead": 44,
+    "in_process": 17,
+    "granted": 28
+   },
+   "grant_rate_pct_of_decided": 62.2,
+   "top_states": [
+    {
+     "state": "Maharashtra",
+     "total": 21,
+     "granted": 2,
+     "pending": 5
+    },
+    {
+     "state": "Rajasthan",
+     "total": 19,
+     "granted": 5,
+     "pending": 2
+    },
+    {
+     "state": "Unspecified",
+     "total": 19,
+     "granted": 5,
+     "pending": 2
+    },
+    {
+     "state": "Chhattisgarh",
+     "total": 17,
+     "granted": 4,
+     "pending": 1
+    },
+    {
+     "state": "Tamil Nadu",
+     "total": 16,
+     "granted": 6,
+     "pending": 3
+    },
+    {
+     "state": "Odisha",
+     "total": 14,
+     "granted": 3,
+     "pending": 2
+    },
+    {
+     "state": "Gujarat",
+     "total": 14,
+     "granted": 3,
+     "pending": 2
+    }
+   ]
+  }
+ }
+}

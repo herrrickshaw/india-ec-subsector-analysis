@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India Environmental Clearances — state × sub-sector</title>
+<style>
+:root{--bg:#eef1ea;--surface:#fcfcfa;--ink:#14180f;--ink2:#4f5348;--muted:#82867a;
+  --rule:#d7dace;--accent:#1f5f5b;--accent-soft:#dbe9e6;--hi:#2f7d4f;--lo:#a5402c;--chip:#eef2ec;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;--serif:"Iowan Old Style",Georgia,serif;
+  --sans:-apple-system,"Segoe UI",Helvetica,sans-serif;}
+/* Automatic prefers-color-scheme:dark override intentionally removed: this blog
+   standardizes on always-white-background/always-black-text regardless of OS
+   theme. It previously flipped :root tokens to dark values while text stayed
+   forced black, producing invisible black-on-dark text. The explicit
+   data-theme=dark rule below remains for opt-in toggles only. */
+:root[data-theme=dark]{--bg:#12151a;--surface:#1a1e21;--ink:#f2f1ea;--ink2:#c1c4b7;--muted:#8b8f83;
+  --rule:#2a2e28;--accent:#6fb3ac;--accent-soft:#20342f;--hi:#7bc496;--lo:#e08268;--chip:#232a25;}
+:root[data-theme=light]{--bg:#eef1ea;--surface:#fcfcfa;--ink:#14180f;--ink2:#4f5348;--muted:#82867a;
+  --rule:#d7dace;--accent:#1f5f5b;--accent-soft:#dbe9e6;--hi:#2f7d4f;--lo:#a5402c;--chip:#eef2ec;}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding:40px 20px 60px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--serif);font-weight:500;font-size:clamp(26px,3.4vw,36px);line-height:1.25;margin:6px 0 8px}
+.dek{color:var(--ink2);font-size:15px;max-width:76ch}
+.stats{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0}
+.stat .n{font-family:var(--serif);font-size:30px;color:var(--accent)}.stat .l{font-size:12.5px;color:var(--muted)}
+.controls{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--rule);padding:12px 0;margin:14px 0;z-index:5}
+select,input{background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:6px;padding:7px 10px;font:inherit}
+table{border-collapse:collapse;width:100%;font-size:13.5px;margin-top:6px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:400}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:var(--mono);font-size:12.5px}
+td.code{font-family:var(--mono);color:var(--accent);white-space:nowrap}
+td.pct.hi{color:var(--hi);font-weight:600}td.pct.lo{color:var(--lo);font-weight:600}
+.chip{display:inline-block;background:var(--chip);border-radius:99px;padding:2px 9px;margin:2px 4px 2px 0;font-size:11.5px;color:var(--ink2);white-space:nowrap}
+.scroll{overflow-x:auto}.two{display:grid;grid-template-columns:1fr;gap:24px}@media(min-width:820px){.two{grid-template-columns:2.4fr 1fr}}
+h2{font-family:var(--serif);font-weight:500;font-size:20px;margin:28px 0 4px}
+.note{color:var(--muted);font-size:12.5px;border-top:1px dashed var(--rule);margin-top:34px;padding-top:14px;max-width:82ch;font-family:var(--sans)}
+a{color:var(--accent)}.hidden{display:none}
+#stateview{margin-top:8px}
+</style></head><body><div class="wrap">
+<div class="eyebrow">Environmental Clearance analysis · generated 2026-11-02</div>
+<h1>India's Environmental Clearances, by state and sub-sector</h1>
+<p class="dek">The full national Environmental Clearance register from PARIVESH 2.0 — <b>500
+proposals</b> across <b>7 states/UTs</b> and <b>5 EIA-schedule sub-sectors</b> — pivoted to
+show which state leads each sub-sector and how grant rates differ by activity. One open API call; refreshable.</p>
+<div class="stats">
+ <div class="stat"><div class="n">500</div><div class="l">EC proposals</div></div>
+ <div class="stat"><div class="n">5</div><div class="l">sub-sectors analysed</div></div>
+ <div class="stat"><div class="n">7</div><div class="l">states / UTs</div></div>
+ <div class="stat"><div class="n">50</div><div class="l">clearances granted</div></div>
+</div>
+<p style="margin:0 0 6px"><a href="funnel.html" style="color:var(--accent);font-size:14px">→ See the EC approval funnel (filed → granted, all stages)</a></p>
+<p style="margin:0 0 14px"><a href="other_clearances.html" style="color:var(--accent);font-size:14px">→ Forest, Wildlife &amp; CRZ clearances (the other three green gates — incl. forest land in hectares)</a></p>
+
+<div class="controls">
+ <label style="font-size:13px;color:var(--ink2)">Repivot the state table by sub-sector:
+ <select id="pick"><option value="">— pick a sub-sector —</option><option value="1(a)">1(a) — Mining of minerals</option>
+<option value="8(a)">8(a) — Building and Construction projects</option>
+<option value="3(a)">3(a) — Metallurgical industries (ferrous & non </option>
+<option value="1(c)">1(c) — River Valley projects</option>
+<option value="5(f)">5(f) — Synthetic organic chemicals industry</option></select></label>
+</div>
+<div id="stateview" class="hidden scroll"></div>
+
+<h2>Sub-sectors, ranked by volume</h2>
+<p class="dek" style="font-size:13.5px">Grant rate = granted ÷ (granted + ToR-granted + in-process); PARIVESH auto-delisted
+applications are excluded from that denominator. <span style="color:var(--hi)">Green ≥65%</span>,
+<span style="color:var(--lo)">rust &lt;40%</span>. "Leaders" are shares of that sub-sector's granted clearances.</p>
+<div class="scroll"><table>
+<thead><tr><th>Code</th><th>Sub-sector (EIA activity)</th><th class="num">Total</th><th class="num">Granted</th>
+<th class="num">Grant %</th><th>Leading states (share of grants)</th></tr></thead>
+<tbody><tr data-act="1(a)"><td class="code">1(a)</td><td>Mining of minerals</td><td class="num">89</td><td class="num">10</td><td class="num pct lo">33%</td><td class="lead"><span class="chip">Odisha <b>4</b> · 40.0%</span><span class="chip">Chhattisgarh <b>2</b> · 20.0%</span><span class="chip">Gujarat <b>2</b> · 20.0%</span><span class="chip">Rajasthan <b>1</b> · 10.0%</span></td></tr>
+<tr data-act="8(a)"><td class="code">8(a)</td><td>Building and Construction projects</td><td class="num">78</td><td class="num">11</td><td class="num pct lo">31%</td><td class="lead"><span class="chip">Odisha <b>4</b> · 36.4%</span><span class="chip">Maharashtra <b>4</b> · 36.4%</span><span class="chip">Chhattisgarh <b>1</b> · 9.1%</span><span class="chip">Gujarat <b>1</b> · 9.1%</span></td></tr>
+<tr data-act="3(a)"><td class="code">3(a)</td><td>Metallurgical industries (ferrous & non ferrous)</td><td class="num">69</td><td class="num">11</td><td class="num pct ">41%</td><td class="lead"><span class="chip">Chhattisgarh <b>3</b> · 27.3%</span><span class="chip">Unspecified <b>2</b> · 18.2%</span><span class="chip">Rajasthan <b>2</b> · 18.2%</span><span class="chip">Gujarat <b>2</b> · 18.2%</span></td></tr>
+<tr data-act="1(c)"><td class="code">1(c)</td><td>River Valley projects</td><td class="num">68</td><td class="num">9</td><td class="num pct lo">33%</td><td class="lead"><span class="chip">Gujarat <b>3</b> · 33.3%</span><span class="chip">Odisha <b>2</b> · 22.2%</span><span class="chip">Tamil Nadu <b>1</b> · 11.1%</span><span class="chip">Chhattisgarh <b>1</b> · 11.1%</span></td></tr>
+<tr data-act="5(f)"><td class="code">5(f)</td><td>Synthetic organic chemicals industry</td><td class="num">67</td><td class="num">9</td><td class="num pct lo">38%</td><td class="lead"><span class="chip">Rajasthan <b>3</b> · 33.3%</span><span class="chip">Maharashtra <b>2</b> · 22.2%</span><span class="chip">Chhattisgarh <b>2</b> · 22.2%</span><span class="chip">Tamil Nadu <b>1</b> · 11.1%</span></td></tr></tbody></table></div>
+
+<div class="two">
+<div></div>
+<div><h2>Top states, all sub-sectors</h2><div class="scroll"><table>
+<thead><tr><th>State / UT</th><th class="num">EC proposals</th></tr></thead><tbody><tr><td>Odisha</td><td class="num">85</td></tr><tr><td>Maharashtra</td><td class="num">73</td></tr><tr><td>Gujarat</td><td class="num">72</td></tr><tr><td>Chhattisgarh</td><td class="num">71</td></tr><tr><td>Rajasthan</td><td class="num">68</td></tr><tr><td>Unspecified</td><td class="num">66</td></tr><tr><td>Tamil Nadu</td><td class="num">65</td></tr></tbody></table></div></div>
+</div>
+
+<div class="note">
+Source — <b>PARIVESH 2.0</b> open API (<code>parivesh.nic.in/parivesh_api/trackYourProposal/advanceSearchData?majorClearanceType=1</code>),
+full Environmental Clearance register, fetched 2026-11-02. Sub-sector = the EIA-schedule Activity code carried on each
+proposal ("1(a) Mining of minerals", "5(f) Synthetic organic chemicals", …). 129 proposals
+carry no parseable activity code and are excluded from the sub-sector view but kept in state totals.
+"Delisted" (51 proposals) is PARIVESH's
+auto-cleanup of inactive applications — excluded from grant-rate denominators. Data + refresh script:
+<a href="https://github.com/herrrickshaw/india-ec-subsector-analysis">github.com/herrrickshaw/india-ec-subsector-analysis</a>.
+Corrections are displayed, never silent.
+</div>
+
+<script>
+const PIV={"1(a)":{"CHHATTISGARH":{"dead":6,"delisted":2,"granted":2,"in_process":3,"tor_granted":1},"GUJARAT":{"dead":8,"delisted":3,"granted":2,"in_process":1,"tor_granted":2},"MAHARASHTRA":{"dead":7,"in_process":4,"tor_granted":2},"ODISHA":{"dead":8,"delisted":2,"granted":4,"in_process":2},"RAJASTHAN":{"dead":5,"delisted":3,"granted":1,"in_process":1},"TAMIL NADU":{"dead":6,"delisted":2,"granted":1,"in_process":3,"tor_granted":1},"UNSPECIFIED":{"dead":5,"delisted":2}},"1(c)":{"CHHATTISGARH":{"dead":7,"granted":1,"in_process":1},"GUJARAT":{"dead":6,"delisted":2,"granted":3,"in_process":1,"tor_granted":1},"MAHARASHTRA":{"dead":5,"in_process":2},"ODISHA":{"dead":3,"delisted":1,"granted":2,"in_process":4,"tor_granted":1},"RAJASTHAN":{"dead":4,"granted":1,"in_process":3,"tor_granted":1},"TAMIL NADU":{"dead":7,"granted":1,"tor_granted":2},"UNSPECIFIED":{"dead":6,"granted":1,"in_process":2}},"3(a)":{"CHHATTISGARH":{"dead":6,"granted":3,"in_process":1,"tor_granted":1},"GUJARAT":{"dead":4,"granted":2,"in_process":2,"tor_granted":1},"MAHARASHTRA":{"dead":3,"delisted":3,"granted":1,"in_process":2},"ODISHA":{"dead":6,"tor_granted":1},"RAJASTHAN":{"dead":6,"delisted":1,"granted":2,"in_process":3},"TAMIL NADU":{"dead":8,"delisted":2,"granted":1,"in_process":2},"UNSPECIFIED":{"dead":2,"delisted":1,"granted":2,"in_process":2,"tor_granted":1}},"5(f)":{"CHHATTISGARH":{"dead":6,"delisted":1,"granted":2,"in_process":1,"tor_granted":1},"GUJARAT":{"dead":7,"in_process":1},"MAHARASHTRA":{"dead":7,"delisted":1,"granted":2},"ODISHA":{"dead":5,"delisted":1,"granted":1,"in_process":3,"tor_granted":2},"RAJASTHAN":{"dead":6,"delisted":2,"granted":3,"in_process":3,"tor_granted":1},"TAMIL NADU":{"dead":4,"delisted":1,"granted":1,"in_process":2},"UNSPECIFIED":{"dead":2,"tor_granted":1}},"8(a)":{"CHHATTISGARH":{"dead":2,"delisted":2,"granted":1,"in_process":2},"GUJARAT":{"dead":4,"granted":1,"in_process":2,"tor_granted":3},"MAHARASHTRA":{"dead":6,"delisted":2,"granted":4,"in_process":2,"tor_granted":2},"ODISHA":{"dead":8,"granted":4,"in_process":1,"tor_granted":1},"RAJASTHAN":{"dead":6,"delisted":2,"granted":1,"in_process":1,"tor_granted":1},"TAMIL NADU":{"dead":2,"delisted":1,"in_process":2,"tor_granted":1},"UNSPECIFIED":{"dead":8,"in_process":4,"tor_granted":2}},"Misc":{"CHHATTISGARH":{"dead":6,"granted":1,"in_process":3,"tor_granted":1},"GUJARAT":{"dead":7,"delisted":1,"granted":1,"in_process":1},"MAHARASHTRA":{"dead":6,"delisted":1,"granted":1,"in_process":1,"tor_granted":3},"ODISHA":{"dead":6,"delisted":1,"granted":3,"in_process":2,"tor_granted":1},"RAJASTHAN":{"dead":2,"granted":1,"tor_granted":1},"TAMIL NADU":{"dead":1,"delisted":1,"in_process":2},"UNSPECIFIED":{"dead":10,"delisted":2,"in_process":2,"tor_granted":2}},"UNCLASSIFIED":{"CHHATTISGARH":{"dead":1,"delisted":3,"granted":1,"in_process":1,"tor_granted":2},"GUJARAT":{"dead":4,"granted":2},"MAHARASHTRA":{"dead":3,"granted":1,"in_process":1,"tor_granted":1},"ODISHA":{"dead":7,"delisted":2,"granted":1,"tor_granted":2},"RAJASTHAN":{"dead":4,"delisted":1,"in_process":2},"TAMIL NADU":{"dead":5,"delisted":1,"in_process":2,"tor_granted":3},"UNSPECIFIED":{"dead":5,"delisted":1,"granted":1,"in_process":1,"tor_granted":1}}};
+const LABELS={"1(a)": "Mining of minerals", "8(a)": "Building and Construction projects", "3(a)": "Metallurgical industries (ferrous & non ferrous)", "1(c)": "River Valley projects", "5(f)": "Synthetic organic chemicals industry"};
+const ORD=["granted","tor_granted","in_process","dead","delisted"];
+const HDR={granted:"Granted",tor_granted:"ToR granted",in_process:"In process",dead:"Dead",delisted:"Delisted"};
+document.getElementById('pick').addEventListener('change',e=>{
+  const a=e.target.value, box=document.getElementById('stateview');
+  if(!a){box.classList.add('hidden');return}
+  const states=Object.entries(PIV[a]||{}).map(([st,b])=>{
+    const live=(b.granted||0)+(b.tor_granted||0)+(b.in_process||0);
+    return {st, b, tot:ORD.reduce((s,k)=>s+(b[k]||0),0), gr: live? (b.granted||0)/live*100 : null};
+  }).sort((x,y)=>y.tot-x.tot);
+  let h='<h2 style="margin-top:18px">'+a+' — '+LABELS[a]+' · by state</h2><table><thead><tr><th>State / UT</th>'
+    +ORD.map(k=>'<th class=num>'+HDR[k]+'</th>').join('')+'<th class=num>Grant %</th></tr></thead><tbody>';
+  for(const r of states){
+    h+='<tr><td>'+r.st.charAt(0)+r.st.slice(1).toLowerCase()+'</td>'
+      +ORD.map(k=>'<td class=num>'+(r.b[k]||0).toLocaleString()+'</td>').join('')
+      +'<td class="num pct '+(r.gr>=65?'hi':r.gr<40?'lo':'')+'">'+(r.gr==null?'—':Math.round(r.gr)+'%')+'</td></tr>';
+  }
+  box.innerHTML=h+'</tbody></table>'; box.classList.remove('hidden');
+  box.scrollIntoView({behavior:'smooth',block:'nearest'});
+});
+</script>
+</div></body></html>
