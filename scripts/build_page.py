@@ -5,16 +5,35 @@ Generated from data/ec_subsector_analysis.json + data/ec_state_subsector_matrix.
 House style: light/dark theme, static-first (works without JS), a sub-sector filter
 that repivots the state table client-side from an embedded compact matrix.
 """
-import datetime, json, os
+from __future__ import annotations
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import argparse
+import datetime
+import json
+from pathlib import Path
+from typing import Any
+
+import _bootstrap
+from ec_analysis.config import DATA_DIR, DOCS_DIR, EC_ANALYSIS_FILE, EC_MATRIX_FILE
+
+DEFAULT_OUT = DOCS_DIR / "index.html"
+GRANT_RATE_HI = 65   # >= : green
+GRANT_RATE_LO = 40   # <  : rust
+TOP_STATE_ROWS = 12
 
 
-def main():
-    an = json.load(open(os.path.join(ROOT, "data/ec_subsector_analysis.json")))
-    mx = json.load(open(os.path.join(ROOT, "data/ec_state_subsector_matrix.json")))
+def load_inputs(data_dir: Path = DATA_DIR) -> tuple[dict[str, Any], dict[str, Any]]:
+    """(analysis, matrix) documents written by refresh_ec.py."""
+    with open(Path(data_dir) / EC_ANALYSIS_FILE, encoding="utf-8") as f:
+        an = json.load(f)
+    with open(Path(data_dir) / EC_MATRIX_FILE, encoding="utf-8") as f:
+        mx = json.load(f)
+    return an, mx
+
+
+def render(an: dict[str, Any], mx: dict[str, Any], today: str) -> str:
+    """Pure: analysis + matrix documents -> the full index.html text."""
     subs = an["subsector_analysis"]
-    today = datetime.date.today().isoformat()
 
     # compact matrix for client-side repivot: {activity: {state: {status: n}}}
     piv = {}
@@ -26,7 +45,7 @@ def main():
             f'<span class="chip">{s["state"]} <b>{s["granted"]:,}</b> · {s["share_pct"]}%</span>'
             for s in sub["top_states"])
         gr = sub["grant_rate_pct"]
-        grcls = "hi" if gr and gr >= 65 else "lo" if gr and gr < 40 else ""
+        grcls = "hi" if gr and gr >= GRANT_RATE_HI else "lo" if gr and gr < GRANT_RATE_LO else ""
         return (f'<tr data-act="{sub["activity"]}">'
                 f'<td class="code">{sub["activity"]}</td>'
                 f'<td>{sub["label"]}</td>'
@@ -37,7 +56,7 @@ def main():
 
     body_rows = "\n".join(rows_for(s) for s in subs)
     opts = "\n".join(f'<option value="{s["activity"]}">{s["activity"]} — {s["label"][:40]}</option>' for s in subs)
-    st_tot = an["state_totals"][:12]
+    st_tot = an["state_totals"][:TOP_STATE_ROWS]
     st_rows = "".join(f'<tr><td>{r["state"]}</td><td class="num">{r["total"]:,}</td></tr>' for r in st_tot)
 
     html = f"""<!doctype html>
@@ -150,8 +169,20 @@ document.getElementById('pick').addEventListener('change',e=>{{
 }});
 </script>
 </div></body></html>"""
-    open(os.path.join(ROOT, "docs/index.html"), "w").write(html)
-    print(f"docs/index.html: {len(subs)} sub-sectors, {mx['n_states']} states, client-side repivot")
+    return html
+
+
+def main(argv: list[str] | None = None) -> None:
+    ap = argparse.ArgumentParser(description="Render docs/index.html from the EC data files.")
+    ap.add_argument("--data-dir", type=Path, default=DATA_DIR, help=f"input directory (default {DATA_DIR})")
+    ap.add_argument("--out", type=Path, default=DEFAULT_OUT, help=f"output HTML path (default {DEFAULT_OUT})")
+    args = ap.parse_args(argv)
+    an, mx = load_inputs(args.data_dir)
+    html = render(an, mx, today=datetime.date.today().isoformat())
+    with open(args.out, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"{_bootstrap.display_path(args.out)}: {len(an['subsector_analysis'])} sub-sectors, "
+          f"{mx['n_states']} states, client-side repivot")
 
 
 if __name__ == "__main__":
