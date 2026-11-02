@@ -1,0 +1,25 @@
+[project]
+name = "india-ec-subsector-analysis"
+version = "0.1.0"
+description = "State x sub-sector analysis of India's PARIVESH 2.0 clearance registers (EC, Forest, Wildlife, CRZ)"
+requires-python = ">=3.9"
+dependencies = []   # standard library only; curl is used for the fetch
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"
+extend-exclude = ["graphify-out", "notebooks", "docs"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B", "UP", "I", "RUF100"]
+ignore = ["E501", "UP006", "UP007", "UP035", "UP045"]  # long f-string lines in templates; keep typing.* on 3.9
+
+[tool.ruff.lint.isort]
+known-first-party = ["ec_analysis", "_bootstrap"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
