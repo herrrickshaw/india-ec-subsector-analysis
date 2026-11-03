@@ -1,0 +1,201 @@
+{
+ "built": "2026-11-02",
+ "n_subsectors": 5,
+ "subsector_analysis": [
+  {
+   "activity": "1(a)",
+   "label": "Mining of minerals",
+   "total": 89,
+   "granted": 10,
+   "tor_granted": 6,
+   "in_process": 14,
+   "dead": 45,
+   "delisted": 14,
+   "grant_rate_pct": 33.3,
+   "top_states": [
+    {
+     "state": "Odisha",
+     "granted": 4,
+     "share_pct": 40.0
+    },
+    {
+     "state": "Chhattisgarh",
+     "granted": 2,
+     "share_pct": 20.0
+    },
+    {
+     "state": "Gujarat",
+     "granted": 2,
+     "share_pct": 20.0
+    },
+    {
+     "state": "Rajasthan",
+     "granted": 1,
+     "share_pct": 10.0
+    }
+   ]
+  },
+  {
+   "activity": "8(a)",
+   "label": "Building and Construction projects",
+   "total": 78,
+   "granted": 11,
+   "tor_granted": 10,
+   "in_process": 14,
+   "dead": 36,
+   "delisted": 7,
+   "grant_rate_pct": 31.4,
+   "top_states": [
+    {
+     "state": "Odisha",
+     "granted": 4,
+     "share_pct": 36.4
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 4,
+     "share_pct": 36.4
+    },
+    {
+     "state": "Chhattisgarh",
+     "granted": 1,
+     "share_pct": 9.1
+    },
+    {
+     "state": "Gujarat",
+     "granted": 1,
+     "share_pct": 9.1
+    }
+   ]
+  },
+  {
+   "activity": "3(a)",
+   "label": "Metallurgical industries (ferrous & non ferrous)",
+   "total": 69,
+   "granted": 11,
+   "tor_granted": 4,
+   "in_process": 12,
+   "dead": 35,
+   "delisted": 7,
+   "grant_rate_pct": 40.7,
+   "top_states": [
+    {
+     "state": "Chhattisgarh",
+     "granted": 3,
+     "share_pct": 27.3
+    },
+    {
+     "state": "Unspecified",
+     "granted": 2,
+     "share_pct": 18.2
+    },
+    {
+     "state": "Rajasthan",
+     "granted": 2,
+     "share_pct": 18.2
+    },
+    {
+     "state": "Gujarat",
+     "granted": 2,
+     "share_pct": 18.2
+    }
+   ]
+  },
+  {
+   "activity": "1(c)",
+   "label": "River Valley projects",
+   "total": 68,
+   "granted": 9,
+   "tor_granted": 5,
+   "in_process": 13,
+   "dead": 38,
+   "delisted": 3,
+   "grant_rate_pct": 33.3,
+   "top_states": [
+    {
+     "state": "Gujarat",
+     "granted": 3,
+     "share_pct": 33.3
+    },
+    {
+     "state": "Odisha",
+     "granted": 2,
+     "share_pct": 22.2
+    },
+    {
+     "state": "Tamil Nadu",
+     "granted": 1,
+     "share_pct": 11.1
+    },
+    {
+     "state": "Chhattisgarh",
+     "granted": 1,
+     "share_pct": 11.1
+    }
+   ]
+  },
+  {
+   "activity": "5(f)",
+   "label": "Synthetic organic chemicals industry",
+   "total": 67,
+   "granted": 9,
+   "tor_granted": 5,
+   "in_process": 10,
+   "dead": 37,
+   "delisted": 6,
+   "grant_rate_pct": 37.5,
+   "top_states": [
+    {
+     "state": "Rajasthan",
+     "granted": 3,
+     "share_pct": 33.3
+    },
+    {
+     "state": "Maharashtra",
+     "granted": 2,
+     "share_pct": 22.2
+    },
+    {
+     "state": "Chhattisgarh",
+     "granted": 2,
+     "share_pct": 22.2
+    },
+    {
+     "state": "Tamil Nadu",
+     "granted": 1,
+     "share_pct": 11.1
+    }
+   ]
+  }
+ ],
+ "state_totals": [
+  {
+   "state": "Odisha",
+   "total": 85
+  },
+  {
+   "state": "Maharashtra",
+   "total": 73
+  },
+  {
+   "state": "Gujarat",
+   "total": 72
+  },
+  {
+   "state": "Chhattisgarh",
+   "total": 71
+  },
+  {
+   "state": "Rajasthan",
+   "total": 68
+  },
+  {
+   "state": "Unspecified",
+   "total": 66
+  },
+  {
+   "state": "Tamil Nadu",
+   "total": 65
+  }
+ ]
+}

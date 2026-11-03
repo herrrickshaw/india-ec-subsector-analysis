@@ -4,16 +4,30 @@
 Reads data/parivesh_other_clearances.json (built by refresh_other_clearances.py).
 Same house style as build_page.py: light/dark tokens, static-first, serif display.
 """
-import datetime, json, os
+from __future__ import annotations
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import argparse
+import datetime
+import json
+from pathlib import Path
+from typing import Any
+
+import _bootstrap
+from ec_analysis.config import DATA_DIR, DOCS_DIR, OTHER_OUTPUT_FILE
+
+DEFAULT_OUT = DOCS_DIR / "other_clearances.html"
 
 
-def main():
-    d = json.load(open(os.path.join(ROOT, "data/parivesh_other_clearances.json")))
+def load_report(data_dir: Path = DATA_DIR) -> dict[str, Any]:
+    """The document written by refresh_other_clearances.py."""
+    with open(Path(data_dir) / OTHER_OUTPUT_FILE, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def render(d: dict[str, Any], today: str) -> str:
+    """Pure: report document -> the full other_clearances.html text."""
     C = d["clearances"]
     fc, wl, crz = C["FC"], C["WLC"], C["CRZ"]
-    today = datetime.date.today().isoformat()
 
     def funnel_bar(f, total):
         order = [("granted", "g"), ("in_process", "p"), ("dead", "d"), ("delisted", "x")]
@@ -155,8 +169,20 @@ granted figure is the reliable one. Pipeline snapshot, not a time series. Data +
 Corrections are displayed, never silent.
 </div>
 </div></body></html>"""
-    open(os.path.join(ROOT, "docs/other_clearances.html"), "w").write(html)
-    print(f"docs/other_clearances.html: FC/WL/CRZ, forest granted {fa['granted']:,} ha")
+    return html
+
+
+def main(argv: list[str] | None = None) -> None:
+    ap = argparse.ArgumentParser(description="Render docs/other_clearances.html from the FC/WLC/CRZ report.")
+    ap.add_argument("--data-dir", type=Path, default=DATA_DIR, help=f"input directory (default {DATA_DIR})")
+    ap.add_argument("--out", type=Path, default=DEFAULT_OUT, help=f"output HTML path (default {DEFAULT_OUT})")
+    args = ap.parse_args(argv)
+    report = load_report(args.data_dir)
+    html = render(report, today=datetime.date.today().isoformat())
+    with open(args.out, "w", encoding="utf-8") as f:
+        f.write(html)
+    granted_ha = report["clearances"]["FC"]["forest_area_ha"]["granted"]
+    print(f"{_bootstrap.display_path(args.out)}: FC/WL/CRZ, forest granted {granted_ha:,} ha")
 
 
 if __name__ == "__main__":

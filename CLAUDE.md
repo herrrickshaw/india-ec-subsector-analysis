@@ -2,6 +2,16 @@
 
 Guidance for Claude Code sessions working in this repository.
 
+## Layout and commands
+
+- `ec_analysis/` is the library (pure aggregation in `ec.py` / `other_clearances.py`, network edge in
+  `parivesh.py`, constants in `config.py`); `scripts/*.py` are thin CLIs over it. Keep I/O at the edges.
+- `python3 scripts/refresh_ec.py [--from DUMP] [--data-dir DIR]`, `python3 scripts/build_page.py [--out X]`,
+  `python3 scripts/refresh_other_clearances.py [--from-dir DIR]`, `python3 scripts/build_other_clearances.py`.
+- Verify with `pytest -q` and `ruff check .` (both offline). Never hit the PARIVESH API from tests; the
+  golden fixtures in `tests/fixtures/` define the expected output bytes.
+- `data/` and `docs/` are generated outputs tracked in git; do not hand-edit them.
+
 <!-- source-fetch-toolkit:v1 (managed by ~/bin/add_source_fetch_section.py — edit there, not here) -->
 ## Source fetching for data collection & literature surveys
 
