@@ -50,6 +50,10 @@ python3 scripts/refresh_ec.py      # fetch (~126 MB) + rebuild all three data fi
 python3 scripts/build_page.py      # regenerate docs/index.html
 ```
 
+Before committing a refresh, snapshot the old data (`cp -r data /tmp/data_old`) and run
+`python3 scripts/summarize.py data --old /tmp/data_old`. It runs the consistency checks
+(matrix = CSV = state totals, status parts = totals) and exits non-zero if any headline count falls by more than 20%.
+
 Endpoint: `parivesh.nic.in/parivesh_api/trackYourProposal/advanceSearchData?majorClearanceType=1`
 (`majorClearanceType=1` = Environmental Clearance).
 
