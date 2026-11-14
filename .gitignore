@@ -2,3 +2,5 @@
 __pycache__/
 .DS_Store
 scratch/
+data/library/ec_register.duckdb
+data/library/*.ndjson
