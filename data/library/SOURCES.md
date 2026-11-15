@@ -27,6 +27,7 @@ select * from ec_search('solar|wind', 'RAJASTHAN');
 Caveats
 - `ec_search` matches words in project or company names, so a company named after a topic (e.g. "Orissa Biodiesel Jatropha"
   filing a quarry) will match. Check each row's proposal number and sector.
+- Legacy proposal numbers are not clean: about 2,300 pre-2014 numbers end in `/1910` or `/1900` (a placeholder year, not the filing year), and 42,986 rows hold only 37,909 distinct numbers because the two forms overlap. Do not read the number's trailing year as a date.
 - Legacy crawl misses proposals whose numbers do not contain `IA/<state>/`.
 - Proposal numbers can repeat across filings (amendments, transfers); `ec_unified` keeps one row per number.
 - The legacy site's certificate chain is incomplete, so Python's `urllib` fails verification and `curl` works; the crawler uses `curl`.

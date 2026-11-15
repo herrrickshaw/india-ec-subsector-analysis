@@ -86,7 +86,7 @@ def dash_rows(path):
 
 def legacy_rows(d):
     for fn in sorted(glob.glob(os.path.join(d, "*.jsonl"))):
-        form, st = os.path.basename(fn)[:-6].split("_", 1)
+        form, st = re.match(r"(C_D|Rpn)_(.+)$", os.path.basename(fn)[:-6]).groups()
         for line in open(fn):
             r = json.loads(line)
             m = re.match(r"IA/([A-Z]+)/([A-Z0-9]+)/", r["proposal_no"] or "")
