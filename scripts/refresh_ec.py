@@ -57,7 +57,13 @@ def props(r):
 def fetch():
     print(f"fetching PARIVESH EC register (~126 MB) ...", file=sys.stderr)
     out = subprocess.run(["curl", "-s", "-m", "300", API], capture_output=True, text=True, timeout=320)
-    return json.loads(out.stdout)
+    try:
+        return json.loads(out.stdout)
+    except ValueError:
+        # advanceSearchData was removed from the open API (404 as of 2026-11-14).
+        sys.exit("advanceSearchData returned no JSON (endpoint withdrawn 2026-11-14). Rebuild from a saved dump "
+                 "with --from FILE, or use the anonymous dashboard route (central proposals only, 2023+) via "
+                 "scripts/build_ec_library.py. See data/library/SOURCES.md.")
 
 
 def build(data):
