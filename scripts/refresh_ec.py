@@ -23,7 +23,8 @@ data/ec_state_subsector.csv (flat pivot). Build docs with build_page.py.
 Status buckets: 'delisted' is PARIVESH's auto-cleanup of inactive applications
 (~22% of the register) — excluded from grant-rate denominators, kept in totals
 so the exclusion is visible. Grant rate = granted / (granted + tor_granted +
-in_process); dead = rejected/withdrawn/closed/lapsed/returned.
+in_process + dead); dead = rejected/withdrawn/closed/lapsed/returned. Rejections
+stay in the denominator so they lower the rate (only delisted is excluded).
 """
 import argparse, collections, datetime, json, os, re, subprocess, sys
 
@@ -31,7 +32,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API = ("https://parivesh.nic.in/parivesh_api/trackYourProposal/advanceSearchData"
        "?majorClearanceType=1&state=&proposalStatus=&pageNo=0&pageSize=200000")
 ACT = re.compile(r"^\s*(\d+\([a-z]+\))\s*(.*)")
-LIVE = {"granted", "tor_granted", "in_process"}
+LIVE = {"granted", "tor_granted", "in_process", "dead"}   # every status except delisted
 
 
 def bucket(status):
