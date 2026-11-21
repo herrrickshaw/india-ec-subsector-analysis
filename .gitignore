@@ -4,3 +4,4 @@ __pycache__/
 scratch/
 data/library/ec_register.duckdb
 data/library/*.ndjson
+graphify-out/cache/
