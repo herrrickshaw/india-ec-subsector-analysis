@@ -144,3 +144,22 @@ def test_new_headline_absent_from_old_is_infinite_growth(snap, tmp_path, monkeyp
     old = synth.write_snapshot(str(tmp_path / "o"), o=o)
     code, out, _ = run_main(monkeypatch, capsys, snap, "--old", old)
     assert code == 0 and "inf%" in out
+
+
+def test_default_allowance_is_twenty_percent(tmp_path, monkeypatch, capsys):
+    new, old = scaled(tmp_path / "n", 17), scaled(tmp_path / "o", 20)          # -15% on every EC headline
+    code, out, _ = run_main(monkeypatch, capsys, new, "--old", old)
+    ec_lines = [ln for ln in out.splitlines() if ln.startswith(("EC ", "matrix"))]
+    assert ec_lines and not any("DROP" in ln for ln in ec_lines)               # inside the default 20% allowance
+    assert "-15.0%" in out
+
+
+def test_headline_that_is_zero_in_both_snapshots_is_unchanged(tmp_path, monkeypatch, capsys):
+    o = synth.other()
+    o["clearances"]["CRZ"]["funnel"] = {"in_process": 4}
+    o["clearances"]["CRZ"]["total"] = 4
+    new = synth.write_snapshot(str(tmp_path / "n"), o=o)
+    old = synth.write_snapshot(str(tmp_path / "o"), o=o)
+    code, out, _ = run_main(monkeypatch, capsys, new, "--old", old)
+    line = next(ln for ln in out.splitlines() if ln.startswith("CRZ granted"))
+    assert line.split()[-1] == "0.0%" and code == 0

@@ -33,6 +33,8 @@ DASH = {"data": [
     {"proposal_no": "D1", "project_name": "Biodiesel Hub", "proponent": "Second", "state_name": " Goa ", "status": "Granted",
      "sector_name": "Energy", "submit_date": "2025-01-02T00:00:00", "granted_date": "2025-02-03T00:00:00"},
     {"proposal_no": "P1", "project_name": "Dup of p2", "state_name": "Goa", "status": "Granted", "start_date": "2025-05-06"},
+    {"proposal_no": "D2", "project_name": "Both names", "name_of_proponent": "Primary", "proponent": "Fallback",
+     "state_name": "Goa", "status": "Granted"},
 ]}
 LEGACY = [
     ("Rpn_GA", [{"proposal_no": "IA/GA/IND2/123/2012", "file_no": "F1", "project": "Legacy Bio-diesel", "company": "Old Co", "status": "Rejected"},
@@ -99,7 +101,8 @@ def test_p2_rows_parse_activity_and_normalise(sources):
 
 def test_dash_rows_dedup_on_proposal_no_keeping_the_last(sources):
     rows = {r["proposal_no"]: r for r in lib.dash_rows(sources[1])}
-    assert set(rows) == {"D1", "P1"}
+    assert set(rows) == {"D1", "P1", "D2"}
+    assert rows["D2"]["company"] == "Primary"                              # name_of_proponent wins over proponent
     d1 = rows["D1"]
     assert d1["project_name"] == "Biodiesel Hub" and d1["company"] == "Second" and d1["state"] == "GOA"
     assert d1["submitted_at"] == "2025-01-02" and d1["granted_at"] == "2025-02-03" and d1["accepted_at"] is None
@@ -137,7 +140,7 @@ def test_main_builds_tables_parquet_and_reports_counts(built):
     con, out, printed = built
     assert sorted(f for f in os.listdir(out) if f.endswith(".parquet")) == ["ec_dashboard.parquet", "ec_legacy.parquet", "ec_p2.parquet", "sources.parquet"]
     srcs = dict(con.execute("select table_name, rows from sources").fetchall())
-    assert srcs == {"ec_p2": 3, "ec_dashboard": 2, "ec_legacy": 3}
+    assert srcs == {"ec_p2": 3, "ec_dashboard": 3, "ec_legacy": 3}
     assert "ec_unified" in printed and "ec_search test" in printed
 
 

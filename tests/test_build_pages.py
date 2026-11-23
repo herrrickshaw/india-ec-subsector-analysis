@@ -118,3 +118,19 @@ def test_zero_total_clearance_would_divide_by_zero(tmp_path):
     mod.ROOT = str(tmp_path)
     mod.main()                                                                 # funnel_bar skips falsy statuses, so total=0 is safe
     assert os.path.exists(tmp_path / "docs" / "other_clearances.html")
+
+
+def test_state_table_lists_the_twelve_largest_states(tmp_path):
+    a = synth.analysis()
+    a["state_totals"] = [{"state": f"State{i:02d}", "total": 100 - i} for i in range(15)]
+    synth.write_snapshot(str(tmp_path), a=a)
+    run("build_page", tmp_path)
+    html = open(tmp_path / "docs" / "index.html").read()
+    assert "State11" in html and "State12" not in html                           # first 12 only
+    assert html.index("State00") < html.index("State01")
+
+
+def test_both_states_of_the_small_fixture_are_listed(root):
+    run("build_page", root)
+    html = open(root / "docs" / "index.html").read()
+    assert "<td>Goa</td>" in html and "<td>Kerala</td>" in html
